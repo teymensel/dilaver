@@ -1,0 +1,59 @@
+.qcodes-page {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.search-bar {
+    display: flex;
+    align-items: center;
+    padding: 12px 16px;
+    border-radius: 12px;
+    gap: 12px;
+}
+
+.search-bar input {
+    background: none;
+    border: none;
+    color: var(--text-primary);
+    flex: 1;
+    font-size: 1rem;
+    outline: none;
+}
+
+.search-icon {
+    color: var(--text-secondary);
+}
+
+.qcodes-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.qcode-item {
+    padding: 16px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.qcode-label {
+    font-family: var(--font-mono);
+    font-weight: 800;
+    color: var(--primary);
+    font-size: 1.1rem;
+}
+
+.qcode-meaning {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    line-height: 1.4;
+}
+
+.no-results {
+    text-align: center;
+    padding: 40px;
+    color: var(--text-secondary);
+}

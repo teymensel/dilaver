@@ -1,0 +1,424 @@
+.settings-page {
+    padding-bottom: 100px;
+    animation: fadeIn 0.5s ease;
+}
+
+.page-header {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 32px;
+}
+
+.settings-section {
+    margin-bottom: 32px;
+}
+
+.settings-section h3 {
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: var(--text-secondary);
+    letter-spacing: 1px;
+    margin-bottom: 12px;
+    margin-left: 4px;
+}
+
+.section-head-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 12px;
+}
+
+.section-head-row h3 {
+    margin: 0;
+}
+
+.quota-pill {
+    padding: 6px 10px;
+    border-radius: 999px;
+    border: 1px solid rgba(0, 122, 255, 0.25);
+    background: rgba(0, 122, 255, 0.12);
+    color: var(--primary);
+    font-size: 0.75rem;
+    font-weight: 700;
+}
+
+.quota-pill.limit {
+    border-color: rgba(255, 69, 58, 0.3);
+    background: rgba(255, 69, 58, 0.12);
+    color: #ff8d87;
+}
+
+.profile-edit-actions-top {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 12px;
+}
+
+.profile-edit-btn {
+    height: 36px;
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text-primary);
+    padding: 0 12px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    font-size: 0.82rem;
+    font-weight: 700;
+}
+
+.profile-edit-btn.save {
+    border-color: rgba(0, 122, 255, 0.3);
+    color: var(--primary);
+}
+
+.profile-edit-btn.cancel {
+    color: var(--text-secondary);
+}
+
+.profile-edit-btn:disabled {
+    opacity: 0.55;
+    cursor: not-allowed;
+}
+
+.profile-feedback {
+    margin-bottom: 10px;
+    padding: 10px 12px;
+    border-radius: 10px;
+    font-size: 0.82rem;
+    font-weight: 600;
+}
+
+.profile-feedback.success {
+    color: #30d158;
+    background: rgba(48, 209, 88, 0.08);
+    border: 1px solid rgba(48, 209, 88, 0.2);
+}
+
+.profile-feedback.error {
+    color: #ff8d87;
+    background: rgba(255, 69, 58, 0.08);
+    border: 1px solid rgba(255, 69, 58, 0.2);
+}
+
+.profile-status-card {
+    padding: 20px;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.status-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.status-label {
+    font-weight: 500;
+}
+
+.badge {
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.badge.warning {
+    background: rgba(255, 159, 10, 0.1);
+    color: #ff9f0a;
+    border: 1px solid rgba(255, 159, 10, 0.2);
+}
+
+.badge.success {
+    background: rgba(48, 209, 88, 0.1);
+    color: #30d158;
+    border: 1px solid rgba(48, 209, 88, 0.2);
+}
+
+.settings-info-card {
+    margin-top: 15px;
+    padding: 12px 15px;
+    background: rgba(0, 122, 255, 0.05);
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+}
+
+.settings-info-card strong {
+    color: var(--primary);
+}
+
+.settings-info-card svg {
+    color: var(--primary);
+    flex-shrink: 0;
+}
+
+.approval-notice {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.85rem;
+    padding: 10px 12px;
+    border-radius: 10px;
+}
+
+.approval-notice.warning {
+    background: rgba(255, 159, 10, 0.05);
+    color: #ff9f0a;
+}
+
+.settings-list {
+    border-radius: 16px;
+    overflow: hidden;
+}
+
+.settings-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    padding: 16px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    transition: background 0.2s;
+}
+
+.settings-item:last-child {
+    border-bottom: none;
+}
+
+.settings-item.action {
+    cursor: pointer;
+}
+
+.settings-item.action:hover {
+    background: rgba(255, 255, 255, 0.03);
+}
+
+.item-left {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-weight: 500;
+    min-width: 0;
+}
+
+.item-value {
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+    text-align: right;
+}
+
+.item-value.mono {
+    font-family: 'JetBrains Mono', monospace;
+    letter-spacing: 0.5px;
+    color: var(--primary);
+}
+
+.item-input,
+.item-select {
+    min-width: 150px;
+    max-width: 220px;
+    width: 100%;
+    height: 36px;
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text-primary);
+    font-size: 0.86rem;
+    padding: 0 10px;
+}
+
+.item-input.mono {
+    font-family: 'JetBrains Mono', monospace;
+}
+
+.toggle {
+    width: 44px;
+    height: 24px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    position: relative;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.toggle.active {
+    background: var(--primary);
+}
+
+.toggle-thumb {
+    width: 20px;
+    height: 20px;
+    background: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.toggle.active .toggle-thumb {
+    transform: translateX(20px);
+}
+
+.light-mode .toggle {
+    background: rgba(0, 0, 0, 0.1);
+}
+
+.light-mode .toggle.active {
+    background: var(--primary);
+}
+
+.light-mode .glass {
+    background: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.light-mode .settings-item:hover {
+    background: rgba(0, 0, 0, 0.02);
+}
+
+@media (max-width: 760px) {
+    .settings-item {
+        align-items: flex-start;
+        flex-direction: column;
+    }
+
+    .item-input,
+    .item-select {
+        max-width: none;
+    }
+}
+
+
+/* Guest Settings Card & Brand Banner */
+.guest-settings-card {
+    border-radius: 18px;
+    padding: 20px;
+    background: linear-gradient(135deg, rgba(0, 122, 255, 0.12) 0%, rgba(59, 130, 246, 0.04) 100%);
+    border: 1px solid rgba(0, 122, 255, 0.25);
+    margin-bottom: 8px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+}
+
+.guest-card-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.guest-badge-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 10px;
+    border-radius: 8px;
+    background: rgba(245, 158, 11, 0.15);
+    color: #f59e0b;
+    font-size: 0.75rem;
+    font-weight: 700;
+}
+
+.guest-settings-card h3 {
+    font-size: 1.15rem;
+    font-weight: 800;
+    margin: 0 0 8px 0;
+    color: var(--text-primary);
+}
+
+.guest-card-desc {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    line-height: 1.45;
+    margin: 0 0 16px 0;
+}
+
+.guest-card-buttons {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.guest-btn-primary {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--primary, #007AFF);
+    color: #fff;
+    border: none;
+    border-radius: 12px;
+    padding: 10px 18px;
+    font-size: 0.88rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.2s;
+    box-shadow: 0 4px 14px rgba(0, 122, 255, 0.3);
+}
+
+.guest-btn-primary:hover {
+    filter: brightness(1.1);
+    transform: translateY(-1px);
+}
+
+.guest-btn-secondary {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: rgba(255, 255, 255, 0.06);
+    color: var(--text-primary);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 12px;
+    padding: 10px 18px;
+    font-size: 0.88rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.guest-btn-secondary:hover {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.about-brand-banner {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 16px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.about-logo-img {
+    width: 48px;
+    height: 48px;
+    border-radius: 14px;
+    object-fit: cover;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.about-brand-text h4 {
+    margin: 0 0 2px 0;
+    font-size: 1rem;
+    font-weight: 800;
+    color: var(--text-primary);
+}
+
+.about-brand-text p {
+    margin: 0;
+    font-size: 0.78rem;
+    color: var(--text-secondary);
+}

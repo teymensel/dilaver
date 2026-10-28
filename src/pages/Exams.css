@@ -1,0 +1,74 @@
+.exams-page {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.exam-categories {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.exam-card {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 16px;
+    border-radius: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.exam-icon-wrapper {
+    width: 48px;
+    height: 48px;
+    background: rgba(0, 122, 255, 0.1);
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--primary);
+    flex-shrink: 0;
+}
+
+.exam-info h3 {
+    font-size: 1rem;
+    margin-bottom: 4px;
+}
+
+.exam-info p {
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+}
+
+.exam-footer-notes {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    border-radius: 20px;
+    text-align: center;
+    border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.exam-footer-notes .note {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    margin-bottom: 1rem;
+    line-height: 1.4;
+}
+
+.download-link {
+    display: inline-block;
+    padding: 0.8rem 1.2rem;
+    background: rgba(0, 122, 255, 0.1);
+    color: var(--primary);
+    text-decoration: none;
+    border-radius: 12px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: all 0.2s ease;
+}
+
+.download-link:hover {
+    background: rgba(0, 122, 255, 0.2);
+    transform: translateY(-2px);
+}

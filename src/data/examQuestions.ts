@@ -1,0 +1,9448 @@
+// Auto-generated from PDFs
+import type { ExamCategory, ExamQuestion } from './examQuestionsTypes';
+
+export const examData: Record<ExamCategory, ExamQuestion[]> = {
+  "isletme": [
+    {
+      "id": 1,
+      "originalId": 1,
+      "question": "Greenwich\"te tarih 12 Haziran 2006 Salı ve saat 23:30 iken 25 derece doğu boylamında bir yerde tarih ve saat nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "12 Haziran 2006 Salı, saat 21:30"
+        },
+        {
+          "id": "B",
+          "text": "11 Haziran 2006 Salı, saat 2 0:30"
+        },
+        {
+          "id": "C",
+          "text": "13 Haziran 2006 Çarşamba, saat 01:10"
+        },
+        {
+          "id": "D",
+          "text": "12 Haziran 2006 Salı, saat 01:20"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 2,
+      "originalId": 2,
+      "question": "RST raporunda okunabilirlik karşı istasyona 5 olarak bildirildiğinde ne anlam ifade eder?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kısmen okunuyor."
+        },
+        {
+          "id": "B",
+          "text": "Zor okunuyor"
+        },
+        {
+          "id": "C",
+          "text": "Mükemmel okunuyor"
+        },
+        {
+          "id": "D",
+          "text": "Hiçbiri"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 3,
+      "originalId": 3,
+      "question": "Herhangi bir amatör bantta dinleme yaparken karşı taraftan \"Burası TA 2CP \" gibi bir çağrı duyduğunuzda bu çağrının aşağıdaki merkezlerden hangisinden yapıldığını anlarsınız?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ankara"
+        },
+        {
+          "id": "B",
+          "text": "Aydın"
+        },
+        {
+          "id": "C",
+          "text": "Adana"
+        },
+        {
+          "id": "D",
+          "text": "Artvin"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 4,
+      "originalId": 4,
+      "question": "Telsiz- telgraf haberleşmesinde QTR kısaltması aşağıdaki sorulardan hangisini ifade eder?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hangi bölgedensiniz?"
+        },
+        {
+          "id": "B",
+          "text": "Saatiniz tam olarak kaçtır?"
+        },
+        {
+          "id": "C",
+          "text": "Bana çağrı adınızı verir misiniz?"
+        },
+        {
+          "id": "D",
+          "text": "Nasıl anten kullanıyorsunuz?"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 5,
+      "originalId": 5,
+      "question": "Amatörlerin belirli zamanlarda yaptıkları yarışmaların (CONTEST) gayesi nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Amatörlerin hoşça vakit geçirmeleri"
+        },
+        {
+          "id": "B",
+          "text": "En kısa zamanda mümkün olduğu kadar çok istasyonla QSO yapmak"
+        },
+        {
+          "id": "C",
+          "text": "Amatörlerin cihazları ile ilgili bilgi alışverişi"
+        },
+        {
+          "id": "D",
+          "text": "QTH locater saptaması"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 6,
+      "originalId": 6,
+      "question": "Amatör telsiz çalışmalarında CW kısaltmasının anlamı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Frekansın dalga boyu"
+        },
+        {
+          "id": "B",
+          "text": "Geriye dönen güç"
+        },
+        {
+          "id": "C",
+          "text": "Çıkıştaki kazanç"
+        },
+        {
+          "id": "D",
+          "text": "Devamlı dalga KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 1 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 7,
+      "originalId": 7,
+      "question": "Pil",
+      "options": [
+        {
+          "id": "A",
+          "text": "terimi radyo amatörlüğünde ne anlama gelir? a) Radyo amatörünün çıkış yaptığı yerin iyi durumda olduğu"
+        },
+        {
+          "id": "B",
+          "text": "Çağrı yapan bir amatörün o frekanstaki diğer amatörler tarafından QSO yağmuruna tutulması"
+        },
+        {
+          "id": "C",
+          "text": "Çağrıyı alan istasyonun karşı istasyona cevap vermeme durumu"
+        },
+        {
+          "id": "D",
+          "text": "up (yığılma) terimi radyo amatörlüğünde ne anlama gelir? a) Radyo amatörünün çıkış yaptığı yerin iyi durumda olduğu b) Çağrı yapan bir amatörün o frekanstaki diğer amatörler tarafından QSO yağmuruna tutulması c) Çağrıyı alan istasyonun karşı istasyona cevap vermeme durumu"
+        },
+        {
+          "id": "E",
+          "text": "up (yığılma) terimi radyo amatörlüğünde ne anlama gelir? a) Radyo amatörünün çıkış yaptığı yerin iyi durumda olduğu b) Çağrı yapan bir amatörün o frekanstaki diğer amatörler tarafından QSO yağmuruna tutulması c) Çağrıyı alan istasyonun karşı istasyona cevap vermeme durumu d) Hiçbiri"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 8,
+      "originalId": 8,
+      "question": "Radyo h aberleşmesi yapılırken kullanılan kısaltmalardan AR kısaltması neyi ifade eder?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yayın tekrarı"
+        },
+        {
+          "id": "B",
+          "text": "Yayın başlangıcı"
+        },
+        {
+          "id": "C",
+          "text": "Yayın sonu"
+        },
+        {
+          "id": "D",
+          "text": "Genel yayın"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 9,
+      "originalId": 9,
+      "question": "Radyo haberleşmesi yapılırken kullanılan kısaltmalardan CQ kısaltması ne amaçl a kullanılır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yakında bulunabilecek istasyonları uyarmak için"
+        },
+        {
+          "id": "B",
+          "text": "Bütün istasyonlara genel çağrı yapmak için"
+        },
+        {
+          "id": "C",
+          "text": "Yalnızca bir istasyona çağrı için"
+        },
+        {
+          "id": "D",
+          "text": "Karşıdaki istasyonla görüşmeyi tekrarlamak için"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 10,
+      "originalId": 10,
+      "question": "IARU Region- 1 düzenlemesine göre aşağıdaki frekanslardan hangisinde FM modunda haberleşme yapılması hatalı olur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "144.425 Mhz"
+        },
+        {
+          "id": "B",
+          "text": "144.010 Mhz"
+        },
+        {
+          "id": "C",
+          "text": "145.775 Mhz"
+        },
+        {
+          "id": "D",
+          "text": "145.250 Mhz"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 11,
+      "originalId": 11,
+      "question": "Amatör tekrarlayıcı (Repeater / Röl",
+      "options": [
+        {
+          "id": "A",
+          "text": "İyonosferik açılımların izlenmesine olanak sağlamak amacıyla"
+        },
+        {
+          "id": "B",
+          "text": "Direkt haberleşme yapabilen istasyonların haberleşmesi için"
+        },
+        {
+          "id": "C",
+          "text": "İki ayrı frekans kullanımının haberleşmeye getirdiği esneklikten faydal anmak amacıyla"
+        },
+        {
+          "id": "D",
+          "text": "istasyonları ne amaçla kullanılır? a) İyonosferik açılımların izlenmesine olanak sağlamak amacıyla b) Direkt haberleşme yapabilen istasyonların haberleşmesi için c) İki ayrı frekans kullanımının haberleşmeye getirdiği esneklikten faydal anmak amacıyla"
+        },
+        {
+          "id": "E",
+          "text": "istasyonları ne amaçla kullanılır? a) İyonosferik açılımların izlenmesine olanak sağlamak amacıyla b) Direkt haberleşme yapabilen istasyonların haberleşmesi için c) İki ayrı frekans kullanımının haberleşmeye getirdiği esneklikten faydal anmak amacıyla d) Doğrudan haberleşme sağlayamayan istasyonların haberleşmesini sağlamak amacıyla"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 12,
+      "originalId": 12,
+      "question": "Genel olarak herhangi bir frekans üzerinde göndermeye geçmeden önce hangi Q kodu kullanılır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "QRU"
+        },
+        {
+          "id": "B",
+          "text": "QRV"
+        },
+        {
+          "id": "C",
+          "text": "QRT"
+        },
+        {
+          "id": "D",
+          "text": "QRZ KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 2 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 13,
+      "originalId": 13,
+      "question": "144.0 - 144.1 Mhz\" de sınırlandırılmış bantta hangi yayın modlarına izin verilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yalnızca CW"
+        },
+        {
+          "id": "B",
+          "text": "CW ve RTTY"
+        },
+        {
+          "id": "C",
+          "text": "Yalnızca SSB"
+        },
+        {
+          "id": "D",
+          "text": "CW ve SSB"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 14,
+      "originalId": 14,
+      "question": "Bir telsiz operatörü CW modunda gönderme yaparken aşağıdakilerden hangisine dikkat etmelidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Haberi kendi becerisine göre bir hızla gönderir"
+        },
+        {
+          "id": "B",
+          "text": "Uluslar arası kurala göre 18 grup üzerinden gönderir"
+        },
+        {
+          "id": "C",
+          "text": "Ortalama 12 grup üzerinden gönderir"
+        },
+        {
+          "id": "D",
+          "text": "Karşısındaki operatörün alma becerisine göre gönderir"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 15,
+      "originalId": 15,
+      "question": "QRS kodunun anlamı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Daha yavaş gönderiniz"
+        },
+        {
+          "id": "B",
+          "text": "Daha hızlı gönderiniz"
+        },
+        {
+          "id": "C",
+          "text": "RST raporu gönderini z"
+        },
+        {
+          "id": "D",
+          "text": "İstediğiniz şekilde gönderiniz"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 16,
+      "originalId": 16,
+      "question": "Uluslararası fonetik alfabeye göre AE6JTK\"nın hecelemesi ne şekilde yapılır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alpha, Echo, Six, Juliet, Ticket, Kilo"
+        },
+        {
+          "id": "B",
+          "text": "Alpha, Echo, Seven, January, Tango, Kilo"
+        },
+        {
+          "id": "C",
+          "text": "Alpha, Echo, Six, Juliet, Tango, Kilo"
+        },
+        {
+          "id": "D",
+          "text": "Alpha, Echo, Six, January, Ticket, Kilo"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 17,
+      "originalId": 17,
+      "question": "Telsiz telefon haberleşmesinde uluslararası kurallara göre tehlike anında yapılan çağrı aşağıdakilerden hangisi ile başlamaktadır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mayday"
+        },
+        {
+          "id": "B",
+          "text": "SOS"
+        },
+        {
+          "id": "C",
+          "text": "Help"
+        },
+        {
+          "id": "D",
+          "text": "CQ"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 18,
+      "originalId": 18,
+      "question": "Uluslararası amatör radyo haberleşmelerinde hangi uluslararası saat sistemi kullanılır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "USC"
+        },
+        {
+          "id": "B",
+          "text": "EST"
+        },
+        {
+          "id": "C",
+          "text": "UTC"
+        },
+        {
+          "id": "D",
+          "text": "Yerel saat KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 3 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 19,
+      "originalId": 19,
+      "question": "Si mplex çalışma sisteminde, aynı anda:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tek frekans kullanılır, haberleşme çift yönlüdür"
+        },
+        {
+          "id": "B",
+          "text": "Tek frekans kullanılır, haberleşme tek yönlüdür"
+        },
+        {
+          "id": "C",
+          "text": "Çift frekans kullanılır, haberleşme tek yönlüdür"
+        },
+        {
+          "id": "D",
+          "text": "Çift frekans kullanılır, haberleşme çift yönlüdür"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 20,
+      "originalId": 20,
+      "question": "Yaklaşık 5000 mil uzaklıkta radyo iletişimi yapmadan önce anten yönünün bulunmasında hangi harita türü kullanılmaktadır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dünya haritası"
+        },
+        {
+          "id": "B",
+          "text": "Azimut haritası"
+        },
+        {
+          "id": "C",
+          "text": "Topografik harita"
+        },
+        {
+          "id": "D",
+          "text": "Merkatör haritası"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 21,
+      "originalId": 21,
+      "question": "Verici çıkış test ve kontrolleri sırasında, havada gereksiz karıştırmalara sebep olmamak için ne kullanılır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rezonanslı anten"
+        },
+        {
+          "id": "B",
+          "text": "Rezonanssız anten"
+        },
+        {
+          "id": "C",
+          "text": "Suni anten (Dummy Loa"
+        },
+        {
+          "id": "D",
+          "text": "d) Kullanılmayan bir frekans"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 22,
+      "originalId": 22,
+      "question": "Türkiye\"deki amatörlere ait QSL kartlarında yazılı bulunan \"IARU ZONE 20\" ifadesi ne anlama gelmektedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Türkiye\"nin üyelik sırasını"
+        },
+        {
+          "id": "B",
+          "text": "Türkiye\"nin başarı sıralamasındaki yerini"
+        },
+        {
+          "id": "C",
+          "text": "Türkiye\"nin bölge numarasını"
+        },
+        {
+          "id": "D",
+          "text": "Türkiye\"nin üyelik kodunu"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 23,
+      "originalId": 23,
+      "question": "Telsiz telgraf haberleşmesinde QRX kısaltması aşağıdaki sorulardan hangisini anlatır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Göndermeye başlayabilir miyim"
+        },
+        {
+          "id": "B",
+          "text": "Mesajınız var mı"
+        },
+        {
+          "id": "C",
+          "text": "Meşgul müsünüz"
+        },
+        {
+          "id": "D",
+          "text": "Beni tekrar ne zaman arayacaksınız"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 24,
+      "originalId": 24,
+      "question": "TA2EX/3 çağrı işareti aşağıdakilerden hangisini ifade eder?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adalarda çalışan bir amatörün çağrı işaretini"
+        },
+        {
+          "id": "B",
+          "text": "2.Bölgeden 3.Bölgeye geçen amatör telsizcinin çağrı işaretidir"
+        },
+        {
+          "id": "C",
+          "text": "B lisansı ile A lisanslı istasyonda çalışan amatörün çağrı işaretini"
+        },
+        {
+          "id": "D",
+          "text": "Hiçbiri KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 4 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 25,
+      "originalId": 25,
+      "question": "Telsiz telgraf haberleşmesinde \" beni duyabiliyor musunuz? \" sorusu aşağıdaki kısaltmalardan hangisiyle ifad e edilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "QSK"
+        },
+        {
+          "id": "B",
+          "text": "QRK"
+        },
+        {
+          "id": "C",
+          "text": "QBD"
+        },
+        {
+          "id": "D",
+          "text": "QSA"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 26,
+      "originalId": 26,
+      "question": "Broadcast teriminin anlamı aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tek yönlü radyo yayınıdır"
+        },
+        {
+          "id": "B",
+          "text": "Sayısal veri iletişimi ile telsiz telgraf haberleşmesidir"
+        },
+        {
+          "id": "C",
+          "text": "İki radyo istasyonunun karşılıklı konuşması ile ilgili radyo yayınıdır"
+        },
+        {
+          "id": "D",
+          "text": "İstasyon programlarının otomatik olarak yeniden gönderilmesi olayıdır"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 27,
+      "originalId": 27,
+      "question": "Radyo sinyallerinin yayılmasında kullanılan kritik açı aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Beli rli iyonosfer şartlarında bir radyo dalgasının dünyaya dönen en alçak açısıdır"
+        },
+        {
+          "id": "B",
+          "text": "Belirli iyonosfer şartlarında bir radyo dalgasının dünyaya dönen en yüksek açısıdır"
+        },
+        {
+          "id": "C",
+          "text": "Temas sağlanması istenen DX istasyonun pusula yönünden 180 derece ters yönüdür"
+        },
+        {
+          "id": "D",
+          "text": "Temas sağlanması istenen DX istasyonun pusula yönündeki açısıdır"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 28,
+      "originalId": 28,
+      "question": "Çağrı işaretinin başında DL olan bir istasyon hangi ülkeye aittir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Danimarka"
+        },
+        {
+          "id": "B",
+          "text": "Dominik"
+        },
+        {
+          "id": "C",
+          "text": "Almanya"
+        },
+        {
+          "id": "D",
+          "text": "Arjantin"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 29,
+      "originalId": 29,
+      "question": "Amatör telsiz telgraf haberleşmesi için istasyon açıldığında yapılacak ilk işlem:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Amatör ban dd a hemen çağrı yapmaktır"
+        },
+        {
+          "id": "B",
+          "text": "Bir süre mors alma pratiği yaparak göndermeye geçmektir"
+        },
+        {
+          "id": "C",
+          "text": "Çalışılacak bandda kısa bir süre dinleme yaparak haberleşme koşullarının uygun olup olmadığını tespit etmek ve bandda çalışan istasyon bulunup bulunmadığına bakmaktır"
+        },
+        {
+          "id": "D",
+          "text": "Bir seri V harfi göndererek karşı istasyonun alıcısını ayarlamasını sağlamaktır KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 5 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 30,
+      "originalId": 30,
+      "question": "Bir telsiz telefon konuşmasında SEVEN ( yedi rakamı) kelimesinin hecelenmesi nasıldır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sierra - Echo - Victor - Echo - November"
+        },
+        {
+          "id": "B",
+          "text": "Spain - Europa - Victor - Europa - November"
+        },
+        {
+          "id": "C",
+          "text": "Sugar - Europa - Very - Europa - November"
+        },
+        {
+          "id": "D",
+          "text": "Sierra - Echo - Very - Echo - November"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 31,
+      "originalId": 31,
+      "question": "Telsiz haberleşmesinde kullanılan kısaltmalardan biri olan CL neyi ifade eder?",
+      "options": [
+        {
+          "id": "A",
+          "text": "İstasyon haberleşmeye hazır"
+        },
+        {
+          "id": "B",
+          "text": "Görüşmeyi onaylıyorum"
+        },
+        {
+          "id": "C",
+          "text": "Görüşmeyi kesiyorum"
+        },
+        {
+          "id": "D",
+          "text": "İstasyonumu kapatıyorum"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 32,
+      "originalId": 32,
+      "question": "Telsiz telgraf haberleşmesinde \" istasyonunuzun tam olarak yeri neresidir \" sorusu aşağıdaki kısaltmalardan hangisi ile sorulur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "QSB"
+        },
+        {
+          "id": "B",
+          "text": "QSO"
+        },
+        {
+          "id": "C",
+          "text": "QTH"
+        },
+        {
+          "id": "D",
+          "text": "QRO"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 33,
+      "originalId": 33,
+      "question": "RTTY kısaltması neyi ifade eder?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Telsiz telefonu"
+        },
+        {
+          "id": "B",
+          "text": "Radyo teletype\"e"
+        },
+        {
+          "id": "C",
+          "text": "Radyo televizyonu"
+        },
+        {
+          "id": "D",
+          "text": "Hiçbiri"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 34,
+      "originalId": 34,
+      "question": "QSL kartları ne için kullanılır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Amatörün ülkesindeki doğal güzellikleri tanıtmak için"
+        },
+        {
+          "id": "B",
+          "text": "Amatör istasyonun reklamı amacı ile"
+        },
+        {
+          "id": "C",
+          "text": "Karşı taraftaki amatöre jest için"
+        },
+        {
+          "id": "D",
+          "text": "Yapılan bir görüşme (QSO) sonunda görüşmeyi onaylamak amacı ile"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 35,
+      "originalId": 35,
+      "question": "Amatör telsizciler tarafından kullanılan telgraf kodu hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "AMTOR telgraf kodu"
+        },
+        {
+          "id": "B",
+          "text": "BAUD"
+        },
+        {
+          "id": "C",
+          "text": "Uluslar arası m ors kodu"
+        },
+        {
+          "id": "D",
+          "text": "ASCII kodu KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 6 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 36,
+      "originalId": 36,
+      "question": "Aşağıdakilerden hangisi bir transmisyon hattı çeşididir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tek telli hatlar"
+        },
+        {
+          "id": "B",
+          "text": "İki telli paralel hatlar"
+        },
+        {
+          "id": "C",
+          "text": "Koaksiyel hatlar"
+        },
+        {
+          "id": "D",
+          "text": "Hepsi"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 37,
+      "originalId": 37,
+      "question": "20 m amatör bandı hangi frekans aralığındadır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "21.300 - 21.700 Mhz"
+        },
+        {
+          "id": "B",
+          "text": "21.000 - 21.450 Mhz"
+        },
+        {
+          "id": "C",
+          "text": "14.000 - 14.350 Mhz"
+        },
+        {
+          "id": "D",
+          "text": "14.050 - 14.225 Mhz"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 38,
+      "originalId": 38,
+      "question": "Herhangi bir alıcının S metre\"sinde okunan değer neyi belirler?",
+      "options": [
+        {
+          "id": "A",
+          "text": "VFO voltajını"
+        },
+        {
+          "id": "B",
+          "text": "Süperheterodin çalışma seviyesini"
+        },
+        {
+          "id": "C",
+          "text": "Alıcı antenine gelen sinyal seviyesini"
+        },
+        {
+          "id": "D",
+          "text": "Squelch ayarını"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 39,
+      "originalId": 39,
+      "question": "Bir elektroma ğnetik dalganın polarizasyonu aşağıdakilerden hangisine bağlıdır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vericinin yönüne"
+        },
+        {
+          "id": "B",
+          "text": "Propagasyon yönüne"
+        },
+        {
+          "id": "C",
+          "text": "Verici anteninin toprağa göre açısına"
+        },
+        {
+          "id": "D",
+          "text": "Hiçbiri"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 40,
+      "originalId": 40,
+      "question": "İstenmeyen radyasyonların ayarlanmış bir antenden yayılma riskini minimum yapabilmek için ne yapılmalıdır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yüksek SWR oranı sağlamak"
+        },
+        {
+          "id": "B",
+          "text": "Filtre veya zayıflatıcı kullanmak"
+        },
+        {
+          "id": "C",
+          "text": "Besleme kaynağı voltajını denetlemek"
+        },
+        {
+          "id": "D",
+          "text": "Çok bandlı anten kullanmak"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 41,
+      "originalId": 41,
+      "question": "435 Mh z de bir yagi anten, UHF TV antenine doğru çevrilmiştir. Bunun neticesinde TV de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "435 Mh z de alma güçlüğü doğar"
+        },
+        {
+          "id": "B",
+          "text": "RF giriş katında aşırı yükleme olur"
+        },
+        {
+          "id": "C",
+          "text": "435 Mh z de osilasyon başlar"
+        },
+        {
+          "id": "D",
+          "text": "TV anteninin elemanları hasar görür KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 7 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 42,
+      "originalId": 42,
+      "question": "HF çalışması, yakının daki bir TV alıcısını enterfere edebilir. Enterferensa neden olan sinyaller aşağıdakilerden hangisiyle TV ye ulaşır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Toprak yoluyla"
+        },
+        {
+          "id": "B",
+          "text": "Vericinin besleme kaynağı vasıtasıyla"
+        },
+        {
+          "id": "C",
+          "text": "Verici frekansının polarizasyonu yoluyla"
+        },
+        {
+          "id": "D",
+          "text": "TV anteni kablosunun ekranı v"
+        },
+        {
+          "id": "E",
+          "text": "veya IF katı yoluyla"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 43,
+      "originalId": 43,
+      "question": "CQ Çağrısı yapılırken aşağıdakilerden hangisi uygulanı r?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Zayıf bir istasyonun çalıştığı frekansta çağrı yapmak"
+        },
+        {
+          "id": "B",
+          "text": "Daima CW kullanmak"
+        },
+        {
+          "id": "C",
+          "text": "Sadece uzak istasyonlara çağrı yapmak"
+        },
+        {
+          "id": "D",
+          "text": "Çağrıya başlamadan önce frekansın boş olup olmadığını kontrol etmek"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 44,
+      "originalId": 44,
+      "question": "Aşağıdakilerden hangisi rahat ve ne t okunabilen bir sinyal seviyesini ifade eder?",
+      "options": [
+        {
+          "id": "A",
+          "text": "R1"
+        },
+        {
+          "id": "B",
+          "text": "R5"
+        },
+        {
+          "id": "C",
+          "text": "S9"
+        },
+        {
+          "id": "D",
+          "text": "T9"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 45,
+      "originalId": 45,
+      "question": "Enterferans riskini azaltmak için, bir UHF TV anteni, kısa dalga verici anteninden ne kadar uzağa yerleştirilmelidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mümkün olduğunca uzağa"
+        },
+        {
+          "id": "B",
+          "text": "Mümkün olduğunca yakına"
+        },
+        {
+          "id": "C",
+          "text": "1.098 m uzaklığa"
+        },
+        {
+          "id": "D",
+          "text": "432 Mh z\" in yarım dalga boyu uzağına"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 46,
+      "originalId": 46,
+      "question": "Amatör bandda dinleme halinde iken karşıdan TA5A gibi bir çağrı işareti duyulduğunda, bu çağrı işareti aşağıdaki illerin hangisinden yapılmış olabilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ankara"
+        },
+        {
+          "id": "B",
+          "text": "Adana"
+        },
+        {
+          "id": "C",
+          "text": "Mardin"
+        },
+        {
+          "id": "D",
+          "text": "Trabzon"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 47,
+      "originalId": 47,
+      "question": "Amatör ban dd a dinleme halinde iken karşıdan TA 7 AC gibi bir çağrı işareti duyulduğunda bu çağrı işareti aşağıdaki illerin hangisinden yapılmış olabilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Şırnak"
+        },
+        {
+          "id": "B",
+          "text": "Erzincan"
+        },
+        {
+          "id": "C",
+          "text": "Bingöl"
+        },
+        {
+          "id": "D",
+          "text": "Denizli KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 8 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 48,
+      "originalId": 48,
+      "question": "Greenwich\"te 20 Ekim saat 23:00 iken 40 derece doğu boylamında tarih ve saat kaçtır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "20 Ekim saat 11:10"
+        },
+        {
+          "id": "B",
+          "text": "20 Ekim saat 00:40"
+        },
+        {
+          "id": "C",
+          "text": "21 Ekim saat 01:40"
+        },
+        {
+          "id": "D",
+          "text": "21 Ekim saat 11:10"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 49,
+      "originalId": 49,
+      "question": "30 derece doğu boylamında bulunan bir ülkede saat 22:00 iken 30 derece batı boylamında bulunan bir başka ülkede saat kaç olur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aynı gün 14 :00"
+        },
+        {
+          "id": "B",
+          "text": "Ayn ı gün 18: 00"
+        },
+        {
+          "id": "C",
+          "text": "E rtesi gün 06: 00"
+        },
+        {
+          "id": "D",
+          "text": "Ertesi gün 14:00"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 50,
+      "originalId": 50,
+      "question": "Aşağıdaki frekanslardan hangisinde SSB haberleşmesi yapılabilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "14010 Khz"
+        },
+        {
+          "id": "B",
+          "text": "7010 Khz"
+        },
+        {
+          "id": "C",
+          "text": "14250 Khz"
+        },
+        {
+          "id": "D",
+          "text": "21035 Khz"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 51,
+      "originalId": 51,
+      "question": "Frekansı değiştirdiğinizi belirtmek için kullanılan \"Q\" sinyali hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "QRU"
+        },
+        {
+          "id": "B",
+          "text": "QSY"
+        },
+        {
+          "id": "C",
+          "text": "QSL"
+        },
+        {
+          "id": "D",
+          "text": "QRZ"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 52,
+      "originalId": 52,
+      "question": "Eğer başka bir istasyonla konuşuyorken bir acil durum çağrısı duymuşsanız, ne yapmalısınız?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Frekansın kullanımda olduğunu çağrı istasyonuna söyleyiniz"
+        },
+        {
+          "id": "B",
+          "text": "Çağrı istasyonunu en yakın acil durum ağ frekansına yönlendiriniz"
+        },
+        {
+          "id": "C",
+          "text": "Çağrıyı görmezden geliniz ve konuşmanıza devam ediniz"
+        },
+        {
+          "id": "D",
+          "text": "Derhal konuşmayı bırakınız ve acil duruma cevap veriniz"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 53,
+      "originalId": 53,
+      "question": "Aşağıdakilerden hangisi sadece uzak mesafe istasyonlarında genel bir çağrıdır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "CQ CQ CQ de TA2KA TA2KA TA2KA k"
+        },
+        {
+          "id": "B",
+          "text": "TA2R de TA2KA TA2KA kn"
+        },
+        {
+          "id": "C",
+          "text": "CQ DL CQ DL CQ DL de TA2KA TA2KA TA2KA k"
+        },
+        {
+          "id": "D",
+          "text": "CQ DX CQ DX CQ DX de TA2KA TA2KA TA2KA KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 9 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 54,
+      "originalId": 54,
+      "question": "\" CQ contest CQ contest this is TA2KA \" gibi bir çağrı hangi anlama gelir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "TA2KA genel çağrı yapıyor"
+        },
+        {
+          "id": "B",
+          "text": "TA2KA test yapıyor"
+        },
+        {
+          "id": "C",
+          "text": "TA2KA yarışma istasyonlarına genel çağrı yapıyor"
+        },
+        {
+          "id": "D",
+          "text": "TA2KA deprem duyurusu yapıyor"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 55,
+      "originalId": 55,
+      "question": "TB3CTR\"nin milli fonetik alfabeye göre hecelemesi ne şekilde yapılır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tokat - Bolu - Üç - Çankırı - Tekirdağ - Rize"
+        },
+        {
+          "id": "B",
+          "text": "Trabzon - Bursa - Üç - Ceyhan - Trabzon - Rize"
+        },
+        {
+          "id": "C",
+          "text": "Tekirdağ - Bolu - Üç - Çankırı - Tekirdağ - Rize"
+        },
+        {
+          "id": "D",
+          "text": "Tunceli - Bursa - Üç - Ceyhan - Trabzon - Rize"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 56,
+      "originalId": 56,
+      "question": "YM2ZIP milli fonetik alfabeye göre hecelenmesi nasıl olur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yalova - Manisa - İki - Zonguldak - İzmir - Pazar"
+        },
+        {
+          "id": "B",
+          "text": "Yankee - Muğla - Two - Zulu - India - Papa"
+        },
+        {
+          "id": "C",
+          "text": "Yozgat - Mardin - İki - Zonguldak - İzmir - Papa"
+        },
+        {
+          "id": "D",
+          "text": "Muğla - Two - Zulu - India - Papa c) Yozgat - Mardin - İki - Zonguldak - İzmir - Papa"
+        },
+        {
+          "id": "E",
+          "text": "Muğla - Two - Zulu - India - Papa c) Yozgat - Mardin - İki - Zonguldak - İzmir - Papa d) Yalova - Muş - İki - Zonguldak - İzmir - Pazar"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 57,
+      "originalId": 57,
+      "question": "VHF bandında haberleşme için elektroma ny etik dalgaların yayılımı hangi şekilde gerçekleşir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yer dalgaları ile"
+        },
+        {
+          "id": "B",
+          "text": "İyonosfer yansıma ile"
+        },
+        {
+          "id": "C",
+          "text": "Direkt dalgalar ile"
+        },
+        {
+          "id": "D",
+          "text": "Troposferik yansıma ile"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 58,
+      "originalId": 58,
+      "question": "Crossband ne anlama gelir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ayrı bandlarda almak ve göndermek"
+        },
+        {
+          "id": "B",
+          "text": "Aynı bandda hem CW hem de SSB çalışmak"
+        },
+        {
+          "id": "C",
+          "text": "Bandın bir tarafında alma, bir tarafında gönderme yapmak"
+        },
+        {
+          "id": "D",
+          "text": "Bandın uygun yerinde çalışmak"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 59,
+      "originalId": 59,
+      "question": "Aşağıdakilerden hangisi ara frekans anlamına gelir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "TVI"
+        },
+        {
+          "id": "B",
+          "text": "BCI"
+        },
+        {
+          "id": "C",
+          "text": "RI"
+        },
+        {
+          "id": "D",
+          "text": "IF KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 10 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 60,
+      "originalId": 60,
+      "question": "VK çağrı işareti ön eki aşağıdaki ülkelerden hangisine aittir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "İngiltere"
+        },
+        {
+          "id": "B",
+          "text": "Kanada"
+        },
+        {
+          "id": "C",
+          "text": "Japonya"
+        },
+        {
+          "id": "D",
+          "text": "Avustralya"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 61,
+      "originalId": 61,
+      "question": "Aşağıdaki çağrı işareti ön eklerinden hangisi Belçika\"ya aittir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "OH"
+        },
+        {
+          "id": "B",
+          "text": "ON"
+        },
+        {
+          "id": "C",
+          "text": "OX"
+        },
+        {
+          "id": "D",
+          "text": "EA"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 62,
+      "originalId": 62,
+      "question": "OSCAR kelimesinin uluslararası fonetik alfabeye göre hecelenmesi nasıldır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Oscar - Sierra - Charlie - Alpha - Radio"
+        },
+        {
+          "id": "B",
+          "text": "Oscar - Six - Charlie - Alabama - Romeo"
+        },
+        {
+          "id": "C",
+          "text": "Oscar - Sierra - Charlie - Alpha - Romeo"
+        },
+        {
+          "id": "D",
+          "text": "Alpha - Radio b) Oscar - Six - Charlie - Alabama - Romeo c) Oscar - Sierra - Charlie - Alpha - Romeo"
+        },
+        {
+          "id": "E",
+          "text": "Alpha - Radio b) Oscar - Six - Charlie - Alabama - Romeo c) Oscar - Sierra - Charlie - Alpha - Romeo d) Otto - Sierra - Charlie - Alpha - Radio"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 63,
+      "originalId": 63,
+      "question": "SK4UZ çağrı işaretinin uluslararası fonetik alfabeye göre hecelemesi nasıldır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Simon - Kilo - Four - Uniform - Zulu"
+        },
+        {
+          "id": "B",
+          "text": "Sierra - Kilo - Four - Ultra - Zulu"
+        },
+        {
+          "id": "C",
+          "text": "Seven - Kilo - Four - Ultra - Zulu"
+        },
+        {
+          "id": "D",
+          "text": "Sierra - Kilo - Four - Uniform - Zulu"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 64,
+      "originalId": 64,
+      "question": "Aşağıdaki kısaltmalardan hangisi ulusal saati ifade eder?",
+      "options": [
+        {
+          "id": "A",
+          "text": "UTC"
+        },
+        {
+          "id": "B",
+          "text": "QST"
+        },
+        {
+          "id": "C",
+          "text": "QTC"
+        },
+        {
+          "id": "D",
+          "text": "MSA"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 65,
+      "originalId": 65,
+      "question": "QST kodunun manası aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hava basıncı"
+        },
+        {
+          "id": "B",
+          "text": "Parazit"
+        },
+        {
+          "id": "C",
+          "text": "Bülten"
+        },
+        {
+          "id": "D",
+          "text": "Sinyal raporu"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 66,
+      "originalId": 66,
+      "question": "Aşağıdakilerden hangisi telsiz haberleşmesinde \"meşgulüm\" ifadesinin Q kodu karşılığıdır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "QRK"
+        },
+        {
+          "id": "B",
+          "text": "QRX"
+        },
+        {
+          "id": "C",
+          "text": "QRL"
+        },
+        {
+          "id": "D",
+          "text": "QSL KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 11 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 67,
+      "originalId": 67,
+      "question": "1810 - 1850 Khz frekans bandı, hangi sınıf amatör telsizciler için verilmiştir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A sınıfı"
+        },
+        {
+          "id": "B",
+          "text": "B sınıfı"
+        },
+        {
+          "id": "C",
+          "text": "A ve B sınıfı"
+        },
+        {
+          "id": "D",
+          "text": "Hiçbiri"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 68,
+      "originalId": 68,
+      "question": "Amatör bandda dinleme halinde iken karşıdan TA 8 YCA gibi bir çağrı işareti duyulduğunda bu çağrı işareti hangi ilden yapılmış olabilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Niğde"
+        },
+        {
+          "id": "B",
+          "text": "Manisa"
+        },
+        {
+          "id": "C",
+          "text": "Malatya"
+        },
+        {
+          "id": "D",
+          "text": "Yozgat"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 69,
+      "originalId": 69,
+      "question": "Amatör ban dda dinleme halinde iken karşıdan TA 1 BT gibi bir çağrı işareti duyulduğunda bu çağrı işareti hangi ilden yapılmış olabilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Konya"
+        },
+        {
+          "id": "B",
+          "text": "Edirne"
+        },
+        {
+          "id": "C",
+          "text": "Ordu"
+        },
+        {
+          "id": "D",
+          "text": "Adana"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 70,
+      "originalId": 70,
+      "question": "90 derece batı boylamında yerel saat 14:10 iken 90 derece doğu boylamında bulunan bir başka yerde saat kaç olacaktır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "02:10"
+        },
+        {
+          "id": "B",
+          "text": "19:10"
+        },
+        {
+          "id": "C",
+          "text": "21:10"
+        },
+        {
+          "id": "D",
+          "text": "18:10"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 71,
+      "originalId": 71,
+      "question": "31 A ralık 2001 pazartesi günü Londra\"da saat 24:00 iken 90 derece doğu boylamında bulunan başka bir yerde saat kaç olacaktır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 Ocak 2002 S alı, saat 06:00"
+        },
+        {
+          "id": "B",
+          "text": "31 Aralık 2001 Pazartesi, saat 06:00"
+        },
+        {
+          "id": "C",
+          "text": "31 Aralık 2001 Pazartesi, saat 18:00"
+        },
+        {
+          "id": "D",
+          "text": "1 Ocak 2002 Salı, saat 18:00"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 72,
+      "originalId": 72,
+      "question": "14 Mhz amatör bandını tek başına kullanabilme izni, hangi sınıf amatör telsizcilik belgesi sahiplerin e tanınmıştır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A sınıfı"
+        },
+        {
+          "id": "B",
+          "text": "B sınıfı"
+        },
+        {
+          "id": "C",
+          "text": "C sınıfı"
+        },
+        {
+          "id": "D",
+          "text": "Hiçbiri KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 12 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 73,
+      "originalId": 73,
+      "question": "B sınıfı amatör telsizcinin kullanamayacağı frekanslar aşağıdakilerden hangileridir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "144 - 146 Mhz"
+        },
+        {
+          "id": "B",
+          "text": "1240 - 1300 Mhz"
+        },
+        {
+          "id": "C",
+          "text": "5650 - 5670 Mhz"
+        },
+        {
+          "id": "D",
+          "text": "1810 - 1840 Khz"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 74,
+      "originalId": 74,
+      "question": "TA5BI/2 çağrı kodu için aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2.Bölgede çalışan bir amatör istasyonun çağrı işaretidir"
+        },
+        {
+          "id": "B",
+          "text": "C sınıfı amatör telsizciye ait bir istasyonun çağrı kodudur"
+        },
+        {
+          "id": "C",
+          "text": "5.Bölgeden 2.Bölgeye geçen amatör telsizcinin çağrı işaretidir"
+        },
+        {
+          "id": "D",
+          "text": "Hiçbir"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 75,
+      "originalId": 75,
+      "question": "Amatör bandda dinleme halinde iken karşıdan TA 6 YCA gibi bir çağrı işareti duyulduğunda bu çağrı işareti hangi ilden yapılmış olabilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Giresun"
+        },
+        {
+          "id": "B",
+          "text": "Manisa"
+        },
+        {
+          "id": "C",
+          "text": "Kars"
+        },
+        {
+          "id": "D",
+          "text": "Yozgat"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 76,
+      "originalId": 76,
+      "question": "AFET kelimesinin milli fonetik alfabeye göre hecelenmesi nasıl olur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Afyon - Fatsa - Erzurum - Tekirdağ"
+        },
+        {
+          "id": "B",
+          "text": "Ankara - Fatsa - Erzincan - Tokat"
+        },
+        {
+          "id": "C",
+          "text": "Amasya - Fatsa - Edirne - Tire"
+        },
+        {
+          "id": "D",
+          "text": "Tire"
+        },
+        {
+          "id": "E",
+          "text": "Tire d) Ankara - Fatsa - Edirne - Trabzon"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 77,
+      "originalId": 77,
+      "question": "\" Uplink \" kavramı neyi ifade eder?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Röle giriş frekansını"
+        },
+        {
+          "id": "B",
+          "text": "Radyolink giriş frekansını"
+        },
+        {
+          "id": "C",
+          "text": "Uydudan yere olan frekansı (iniş)"
+        },
+        {
+          "id": "D",
+          "text": "Yerden uyduya olan frekansı (çıkış)"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 78,
+      "originalId": 78,
+      "question": "Aşağıdakilerden hangisi \"Radyo yayın enterferansı\" anlamına gelir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "TVI"
+        },
+        {
+          "id": "B",
+          "text": "BCI"
+        },
+        {
+          "id": "C",
+          "text": "RI"
+        },
+        {
+          "id": "D",
+          "text": "IF KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 13 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 79,
+      "originalId": 79,
+      "question": "PY çağrı işareti ön eki aşağıdaki ülkelerden hangisine aittir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Brezilya"
+        },
+        {
+          "id": "B",
+          "text": "Hollanda"
+        },
+        {
+          "id": "C",
+          "text": "İsveç"
+        },
+        {
+          "id": "D",
+          "text": "Almanya"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 80,
+      "originalId": 80,
+      "question": "QSX\" in uluslar arası fonetik alfabeye göre hecelenmesi nasıldır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quebec - Six - X Ray"
+        },
+        {
+          "id": "B",
+          "text": "Six - X Ray"
+        },
+        {
+          "id": "C",
+          "text": "Six - X Ray b) Quebec - Sierra - X Ray c) Kilo - Sierra - X Ray"
+        },
+        {
+          "id": "D",
+          "text": "Kilo - Seven - X Ray"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 81,
+      "originalId": 81,
+      "question": "QRT kodunun manası nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dinlemede kalın veya dinliyorum"
+        },
+        {
+          "id": "B",
+          "text": "Göndermeyi durdurayım mı"
+        },
+        {
+          "id": "C",
+          "text": "Mevkiiniz neresidir?"
+        },
+        {
+          "id": "D",
+          "text": "Mesajım var"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 82,
+      "originalId": 82,
+      "question": "QRZ kodunun manası nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "V s erisi göndereyim mi?"
+        },
+        {
+          "id": "B",
+          "text": "Beni kim çağırıyor ?"
+        },
+        {
+          "id": "C",
+          "text": "Gücü azaltayım mı?"
+        },
+        {
+          "id": "D",
+          "text": "Hazırım"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 83,
+      "originalId": 83,
+      "question": "73 kısaltması mors haberleşmesinde hangi anlama karşılık gelir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Göndermenin tam ve doğru olarak alındığını belirtmek"
+        },
+        {
+          "id": "B",
+          "text": "CQ genel çağrısı"
+        },
+        {
+          "id": "C",
+          "text": "Selamlar"
+        },
+        {
+          "id": "D",
+          "text": "İstasyonumu kapatıyorum"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 84,
+      "originalId": 84,
+      "question": "10100 - 10150 Khz frekans bandına müsaade edilen azami çıkış gücü (PEP) ne kadardır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "400 W"
+        },
+        {
+          "id": "B",
+          "text": "150 W"
+        },
+        {
+          "id": "C",
+          "text": "100 W"
+        },
+        {
+          "id": "D",
+          "text": "75 W KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 14 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 85,
+      "originalId": 85,
+      "question": "Amatör ban dd a dinleme halinde iken karşıdan TA8UJ gibi bir çağrı işareti duyulduğunda bu çağrı işareti aşağıdaki illerin hangisinden yapılmış olabilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nevşehir"
+        },
+        {
+          "id": "B",
+          "text": "Şanlıurfa"
+        },
+        {
+          "id": "C",
+          "text": "Kars"
+        },
+        {
+          "id": "D",
+          "text": "Bursa"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 86,
+      "originalId": 86,
+      "question": "Amatör ban dd a dinleme halinde iken karşıdan TB 3 CCW gibi bir çağrı işareti duyulduğunda bu çağrı işareti aşağıdaki illerin hangisinden yapılmış olabilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mersin"
+        },
+        {
+          "id": "B",
+          "text": "Uşak"
+        },
+        {
+          "id": "C",
+          "text": "Manisa"
+        },
+        {
+          "id": "D",
+          "text": "Aydın"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 87,
+      "originalId": 87,
+      "question": "Aşağıdaki frekanslardan hangisinde SSB haberleşmesi yapılabilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "14010 Khz"
+        },
+        {
+          "id": "B",
+          "text": "7010 Khz"
+        },
+        {
+          "id": "C",
+          "text": "14250 Khz"
+        },
+        {
+          "id": "D",
+          "text": "21035 Khz"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 88,
+      "originalId": 88,
+      "question": "40 m bandı aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "21000 - 21450 Khz"
+        },
+        {
+          "id": "B",
+          "text": "20 - 21 Ghz"
+        },
+        {
+          "id": "C",
+          "text": "7000 - 7100 Khz"
+        },
+        {
+          "id": "D",
+          "text": "14000 - 14350 Khz"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 89,
+      "originalId": 89,
+      "question": "TA2KA çağrı işaretinin özelliği nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2. Bölgede bulunan bir amatöre ait istasyondur"
+        },
+        {
+          "id": "B",
+          "text": "Dernek istasyonudur"
+        },
+        {
+          "id": "C",
+          "text": "Eğitim ve öğretim kuruluşlarına ait istasyondur"
+        },
+        {
+          "id": "D",
+          "text": "2.bölgede geçici olarak çalışan bir istasyondur"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 90,
+      "originalId": 90,
+      "question": "TA5ED nin milli fonetik alfabeye göre hecelenmesi nasıldır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trabzon - Afyon - Beş - Edirne - Diyarbakır"
+        },
+        {
+          "id": "B",
+          "text": "Tekirdağ - Ankara - Beş - Edirne - Denizli"
+        },
+        {
+          "id": "C",
+          "text": "Trabzon - Ankara - Beş - Erzurum - Düzce"
+        },
+        {
+          "id": "D",
+          "text": "Diyarbakır b) Tekirdağ - Ankara - Beş - Edirne - Denizli c) Trabzon - Ankara - Beş - Erzurum - Düzce"
+        },
+        {
+          "id": "E",
+          "text": "Diyarbakır b) Tekirdağ - Ankara - Beş - Edirne - Denizli c) Trabzon - Ankara - Beş - Erzurum - Düzce d) Trabzon - Ankara - Beş - Edirne - Denizli"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 91,
+      "originalId": 91,
+      "question": "LA çağrı işareti ön eki hangi ülkeye aittir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hollanda"
+        },
+        {
+          "id": "B",
+          "text": "Haiti"
+        },
+        {
+          "id": "C",
+          "text": "Norveç"
+        },
+        {
+          "id": "D",
+          "text": "Lübnan KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 15 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 92,
+      "originalId": 92,
+      "question": "Aşağıdaki çağrı işareti ön eklerinden hangisi İspanya\"ya aittir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "EA"
+        },
+        {
+          "id": "B",
+          "text": "EP"
+        },
+        {
+          "id": "C",
+          "text": "ON"
+        },
+        {
+          "id": "D",
+          "text": "SU"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 93,
+      "originalId": 93,
+      "question": "B TK\" n ın uluslararası fonetik alfabeye göre hecelenmesi nasıldır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bravo - Tango - Kilo"
+        },
+        {
+          "id": "B",
+          "text": "Bravo - Tango - Kilowat"
+        },
+        {
+          "id": "C",
+          "text": "Bravo - Toronto - Kilo"
+        },
+        {
+          "id": "D",
+          "text": "Bravo - Tango - Golf - Mike"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 94,
+      "originalId": 94,
+      "question": "İki istasyon arasında gönderilen test mesajlarının başına ve sonuna aşağıdaki kelimelerden hangisi ilave edilmelidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eğitim"
+        },
+        {
+          "id": "B",
+          "text": "Deneme"
+        },
+        {
+          "id": "C",
+          "text": "Test"
+        },
+        {
+          "id": "D",
+          "text": "Tatbikat"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 95,
+      "originalId": 95,
+      "question": "Amatör istasyonunuzu bir \"SOS\" veya \"MAYDAY\" sinyali göndermek için ne zaman kullanabilirsiniz?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sa dece denizde bir gemiden iletim yapıyorken"
+        },
+        {
+          "id": "B",
+          "text": "Sadece bir saatin 15. ve 30. Dakikalarında"
+        },
+        {
+          "id": "C",
+          "text": "İnsan yaşamına ve mala mevcut bir tehdit olması durumunda"
+        },
+        {
+          "id": "D",
+          "text": "Ulusal Meteoroloji Dairesi bir meteoroloji uyarısı açıkladığı zaman"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 96,
+      "originalId": 96,
+      "question": "Aşağıdaki lerden hangisi \" selamlar \" anlamına gelmektedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "73"
+        },
+        {
+          "id": "B",
+          "text": "88"
+        },
+        {
+          "id": "C",
+          "text": "66"
+        },
+        {
+          "id": "D",
+          "text": "55"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 97,
+      "originalId": 97,
+      "question": "Greenwich\"de 20 Ekim saat 23:00 iken 25 derece doğu boylamında tarih ve saat kaçtır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "21 Ekim saat 00:40"
+        },
+        {
+          "id": "B",
+          "text": "20 Ekim saat 21:10"
+        },
+        {
+          "id": "C",
+          "text": "20 Ekim saat 00:40"
+        },
+        {
+          "id": "D",
+          "text": "21 Ekim saat 11:10 KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 16 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 98,
+      "originalId": 98,
+      "question": "Amatör telsiz istasyonunda bulunan mesaj kayıt defterinde bulunması gerek olmayan bilgi aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Haberleşme tarih i ve UTC olarak zaman"
+        },
+        {
+          "id": "B",
+          "text": "Haberleşme istasyonunun çağrı adı"
+        },
+        {
+          "id": "C",
+          "text": "Haberleşmenin frekansı"
+        },
+        {
+          "id": "D",
+          "text": "Kullanılan antenin cinsi"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 99,
+      "originalId": 99,
+      "question": "Bir amatör telsiz istasyonu hangi hallerde şifreli haberleşme yapabilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sadece yüksek frekanslarda görüşme yaparken"
+        },
+        {
+          "id": "B",
+          "text": "Yarışmalarda (contest)"
+        },
+        {
+          "id": "C",
+          "text": "Olağanüstü haberleşme şartlarında"
+        },
+        {
+          "id": "D",
+          "text": "Amatör telsizciler şifreli haberleşme yapamaz"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 100,
+      "originalId": 100,
+      "question": "Amatör telsizciler arasında yapılan haberleşmenin alındığını veya anlaşıldığını belirten ve birbirlerine bu durumu onaylatmak için gönderilen belgeye ne ad verilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "QSO kartı"
+        },
+        {
+          "id": "B",
+          "text": "QSL kartı"
+        },
+        {
+          "id": "C",
+          "text": "QTH kartı"
+        },
+        {
+          "id": "D",
+          "text": "QRU kartı"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 101,
+      "originalId": 101,
+      "question": "Bir amatör telsiz istasyonunda bulunan mesaj kayıt defterine (log - book) aşağıda belirtilen bilgilerden hangisinin kayıt edilme zorunluluğu yoktur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hava durumu"
+        },
+        {
+          "id": "B",
+          "text": "Haberleşme sıra numarası"
+        },
+        {
+          "id": "C",
+          "text": "Çalışma frekansı"
+        },
+        {
+          "id": "D",
+          "text": "Emisyon tipi"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 102,
+      "originalId": 102,
+      "question": "QRV kelimesinin anlamı aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hazır mısın?"
+        },
+        {
+          "id": "B",
+          "text": "Bulunduğun yer neresidir?"
+        },
+        {
+          "id": "C",
+          "text": "Saat kaç ?"
+        },
+        {
+          "id": "D",
+          "text": "Başka bir konu var mı?"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 103,
+      "originalId": 103,
+      "question": "CALL SİGN kelimesinin anlamı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Güç"
+        },
+        {
+          "id": "B",
+          "text": "Kontrol"
+        },
+        {
+          "id": "C",
+          "text": "Çağrı işareti"
+        },
+        {
+          "id": "D",
+          "text": "Alındı KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 17 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 104,
+      "originalId": 104,
+      "question": "QSV kelimesinin anlamı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hazır mısın?"
+        },
+        {
+          "id": "B",
+          "text": "Frekansımı değiştireyim mi ?"
+        },
+        {
+          "id": "C",
+          "text": "Bir dizi V harfi göndereyim mi?"
+        },
+        {
+          "id": "D",
+          "text": "Daha hızlı göndereyim mi?"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 105,
+      "originalId": 105,
+      "question": "QRZ kelimesinin anlamı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sinyal şiddetim ne?"
+        },
+        {
+          "id": "B",
+          "text": "Frekansım değişiyor mu?"
+        },
+        {
+          "id": "C",
+          "text": "Meşgul müsünüz?"
+        },
+        {
+          "id": "D",
+          "text": "Beni kim çağırıyor?"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 106,
+      "originalId": 106,
+      "question": "MAYDAY kelimesinin uluslar arası alfabeye göre hecelenmesi ne şekilde yapılır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mike - Alpha - Tosun - Delta - Alpha - Yunus"
+        },
+        {
+          "id": "B",
+          "text": "Manisa - Aydın - Yankee - Delta - Afyon - Yunus"
+        },
+        {
+          "id": "C",
+          "text": "Mike - Alpha - Yankee - Delta - Alpha - Yankee"
+        },
+        {
+          "id": "D",
+          "text": "Alpha - Tosun - Delta - Alpha - Yunus b) Manisa - Aydın - Yankee - Delta - Afyon - Yunus c) Mike - Alpha - Yankee - Delta - Alpha - Yankee"
+        },
+        {
+          "id": "E",
+          "text": "Alpha - Tosun - Delta - Alpha - Yunus b) Manisa - Aydın - Yankee - Delta - Afyon - Yunus c) Mike - Alpha - Yankee - Delta - Alpha - Yankee d) Manisa - Aydın -Yeliz - Demir - Aydın -Yeliz"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 107,
+      "originalId": 107,
+      "question": "KEGM kelimesinin uluslar arası alfabeye göre hecelenmesi ne şekilde yapılır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kemal - Emin - Galip - Mehmet"
+        },
+        {
+          "id": "B",
+          "text": "Kilo - Echo - Golf - Mike"
+        },
+        {
+          "id": "C",
+          "text": "Kilo - Echo - Golf - Mehmet"
+        },
+        {
+          "id": "D",
+          "text": "Kemal - Echo - Golf - Mike"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 108,
+      "originalId": 108,
+      "question": "MEHMET kelimesinin ulusal fonetik alfabeye göre hecelenmesi nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mehmet - Emin - Hasan - Mehmet - Emin - Turgut"
+        },
+        {
+          "id": "B",
+          "text": "Mike - Echo - Hotel - Mike - Echo - Tango"
+        },
+        {
+          "id": "C",
+          "text": "Manisa - Edirne - Hopa - Manisa - Edirne - Trabzon"
+        },
+        {
+          "id": "D",
+          "text": "Echo - Hotel - Mike - Echo - Tango c) Manisa - Edirne - Hopa - Manisa - Edirne - Trabzon"
+        },
+        {
+          "id": "E",
+          "text": "Echo - Hotel - Mike - Echo - Tango c) Manisa - Edirne - Hopa - Manisa - Edirne - Trabzon d) Mike - Edirne - Hotel - Mike - Edirne - Tango"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 109,
+      "originalId": 109,
+      "question": "Herhangi bir istasyon çağrıldığında ve bağlantı kurulduğunda aşağıdakilerden hangisinin yapılması doğrudur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Her bağlantı sonunda çağrı işaretleri tekrarlanır"
+        },
+        {
+          "id": "B",
+          "text": "Simplex kanalda görüşülüyorsa ve uzun süreli görüşülecekse boş bir simplex kanala geçmek"
+        },
+        {
+          "id": "C",
+          "text": "Cümleler kısa net ve anlaşılır olmalı"
+        },
+        {
+          "id": "D",
+          "text": "Hepsi KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 18 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 110,
+      "originalId": 110,
+      "question": "LZ çağrı işareti aşağıdaki ülkelerden hangisine aittir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Romanya"
+        },
+        {
+          "id": "B",
+          "text": "Yunanistan"
+        },
+        {
+          "id": "C",
+          "text": "Bulgaristan"
+        },
+        {
+          "id": "D",
+          "text": "Yugoslavya"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 111,
+      "originalId": 111,
+      "question": "Aşağıdaki kısaltmalardan hangisi Avrupa kıtasına aittir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "AF"
+        },
+        {
+          "id": "B",
+          "text": "EU"
+        },
+        {
+          "id": "C",
+          "text": "AS"
+        },
+        {
+          "id": "D",
+          "text": "AN"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 112,
+      "originalId": 112,
+      "question": "Mors CW haberleşmesinde kullanılan kısalmalardan CFM kelimesinin anlamı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kontrol"
+        },
+        {
+          "id": "B",
+          "text": "Genel çağrı"
+        },
+        {
+          "id": "C",
+          "text": "Tasdik etmek"
+        },
+        {
+          "id": "D",
+          "text": "Tekrar"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 113,
+      "originalId": 113,
+      "question": "Mors haberleşmesinde kullanılan TX kısalması neyi ifade eder?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alıcı"
+        },
+        {
+          "id": "B",
+          "text": "Verici"
+        },
+        {
+          "id": "C",
+          "text": "Teşekkür"
+        },
+        {
+          "id": "D",
+          "text": "Hava raporu"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 114,
+      "originalId": 114,
+      "question": "TELSİZ kelimesinin uluslararası fonetik alfabeye göre açılımı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tango - Echo - Lima - Sierra - İndia - Zulu"
+        },
+        {
+          "id": "B",
+          "text": "Train - Echo - Local - South - İndia - Zulu"
+        },
+        {
+          "id": "C",
+          "text": "Tourus - Emiter - Loop - Sierra - İnch - Zoom"
+        },
+        {
+          "id": "D",
+          "text": "Tango - Echo - London - Sourc"
+        },
+        {
+          "id": "E",
+          "text": "İnter - Zaire"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 115,
+      "originalId": 115,
+      "question": "QSY\" nin açılımı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yayını başka frekansa değiştireyim mi?"
+        },
+        {
+          "id": "B",
+          "text": "Bir daha ne zaman arayacaksın?"
+        },
+        {
+          "id": "C",
+          "text": "Göndermeyi bırakayım mı?"
+        },
+        {
+          "id": "D",
+          "text": "Beni kim arıyor?"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 116,
+      "originalId": 116,
+      "question": "Amatör Telsizcilik Haberleşmesinde kullanılan „BK\" kısaltması ne anlama gelir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Devam etmekte olan bir yayının kesilmesi için kullanılan sinyal"
+        },
+        {
+          "id": "B",
+          "text": "Mesaj"
+        },
+        {
+          "id": "C",
+          "text": "Alındı"
+        },
+        {
+          "id": "D",
+          "text": "Senin KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 19 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 117,
+      "originalId": 117,
+      "question": "„UR\" kısaltmasının anlamı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Senin"
+        },
+        {
+          "id": "B",
+          "text": "Alıcı"
+        },
+        {
+          "id": "C",
+          "text": "Lütfen"
+        },
+        {
+          "id": "D",
+          "text": "Verici"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 118,
+      "originalId": 118,
+      "question": "A sınıfı belgeye sahip olan Amatör telsizcilerin 1810 - 1840 Khz band aralığındaki verici çıkış gücü ne olmalıdır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 W"
+        },
+        {
+          "id": "B",
+          "text": "9 W"
+        },
+        {
+          "id": "C",
+          "text": "75 W"
+        },
+        {
+          "id": "D",
+          "text": "100 W"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 119,
+      "originalId": 119,
+      "question": "A1A\" nın anlamı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Genlik Modülasyonlu, çift kenar band modüle edici alt taşıyıcı kullanmayan, sayısal bilgi ihtiva eden tek kanallı açık - kapalı şeklinde anahtarlama sistemi ile çalışan telgraf yayını"
+        },
+        {
+          "id": "B",
+          "text": "Genlik Modülasyonlu, tek kenar band modüle edici alt taşıyıcı kullanmayan, bilgi ihtiva eden tek kanallı otomatik telgraf yayını"
+        },
+        {
+          "id": "C",
+          "text": "Genlik Modülasyonlu, çift kenar band analog bilgi ihtiva eden tek kanallı faksimil"
+        },
+        {
+          "id": "D",
+          "text": "Genlik Modülasyonlu, artık yan band analog bilgi ihtiva eden tek kanallı televizyon yayını"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 120,
+      "originalId": 120,
+      "question": "J3E\" nin anlamı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Genlik Modülasyonlu, tek kenar band, taşıyıcı bastırılmış, modüle edici alt taşıyıcı kullanan, sayısal bilgi ihtiva eden, tek kanallı otomatik telgraf yayını"
+        },
+        {
+          "id": "B",
+          "text": "Genlik Modülasyonlu, tek kenar band, taşıyıcısı bastırılmış, analog bilgi ihtiva eden, tek kanallı faksimil"
+        },
+        {
+          "id": "C",
+          "text": "Genlik Modülasyonlu, tek kenar band, taşıyıcısı bastırılmış, analog bilgi ihtiva eden, tek kanallı telefon yayını"
+        },
+        {
+          "id": "D",
+          "text": "Genlik Modülasyonlu, tek kenar band, taşıyıcısı bastırılmış, analog bilgi ihtiva eden, te k kanallı televizyon yayını"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 121,
+      "originalId": 121,
+      "question": "6 metre band içindeki frekans hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "49.00 Mhz"
+        },
+        {
+          "id": "B",
+          "text": "51.525 Mhz"
+        },
+        {
+          "id": "C",
+          "text": "28.50 Mhz"
+        },
+        {
+          "id": "D",
+          "text": "222.15 Mhz KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 20 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 122,
+      "originalId": 122,
+      "question": "Bir alıcı -vericideki susturma kontrolünün amacı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "İstenilen sesin en yüksek seviyesini ayarlamak için kullanılır"
+        },
+        {
+          "id": "B",
+          "text": "Alıcı -Verici güç düzeyini ayarlamak için kullanılır"
+        },
+        {
+          "id": "C",
+          "text": "Anten polarizasyonunu ayarlamak için kullanılır"
+        },
+        {
+          "id": "D",
+          "text": "Hiçbir sinyal alınmadığı zaman gürültüyü kesmek kullanılır"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 123,
+      "originalId": 123,
+      "question": "20 m bandında RTTY haberleşmesi hangi frekans aralığında yapılabilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "14.075 - 14.100 Mhz"
+        },
+        {
+          "id": "B",
+          "text": "14.050 - 14.075 Mhz"
+        },
+        {
+          "id": "C",
+          "text": "14.200 - 14.250 Mhz"
+        },
+        {
+          "id": "D",
+          "text": "14.230 - 14.230 Khz"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 124,
+      "originalId": 124,
+      "question": "Mors al fabesinde AZOT kelimesinin açılımı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "∙ - ∙ - / - - ∙ - / - ∙ ∙ / ∙"
+        },
+        {
+          "id": "B",
+          "text": "∙ - / - - - / ∙ ∙ - - / -"
+        },
+        {
+          "id": "C",
+          "text": "- ∙ - / ∙ ∙ - / ∙ - ∙ / - - ∙ -"
+        },
+        {
+          "id": "D",
+          "text": "∙ - / - - ∙ ∙ / - - - / -"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 125,
+      "originalId": 125,
+      "question": "Mors alfabesinde SAYI kelimesinin açılımı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "- ∙ - - / ∙ ∙ ∙ - / ∙ - / - ∙ ∙"
+        },
+        {
+          "id": "B",
+          "text": "- ∙ ∙ - / ∙ ∙ - / - ∙ / ∙ -"
+        },
+        {
+          "id": "C",
+          "text": "∙ ∙ ∙ / ∙ - / ∙ ∙ / - ∙ - -"
+        },
+        {
+          "id": "D",
+          "text": "∙ ∙ ∙ / ∙ - / - ∙ - - / ∙ ∙"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 126,
+      "originalId": 126,
+      "question": "Mors alfabesinde YENİ kelimesinin açılımı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "- ∙ - - / ∙ / - ∙ / ∙ ∙"
+        },
+        {
+          "id": "B",
+          "text": "∙ - / - ∙ - / ∙ ∙ - - / ∙ - ∙"
+        },
+        {
+          "id": "C",
+          "text": "∙ - ∙ ∙ / ∙ ∙ ∙ - / ∙ - ∙ ∙ / ∙"
+        },
+        {
+          "id": "D",
+          "text": "- - - / ∙ - / ∙ ∙ - / ∙ - ∙"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 127,
+      "originalId": 127,
+      "question": "Mors alfabesinde NOTA kelimesinin açılımı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "∙ - / - - - / - ∙ / ∙ ∙"
+        },
+        {
+          "id": "B",
+          "text": "- ∙ / - - - / - / ∙ -"
+        },
+        {
+          "id": "C",
+          "text": "∙ - ∙ / - - - / - / ∙"
+        },
+        {
+          "id": "D",
+          "text": "∙ ∙ - / ∙ - - ∙ / ∙ ∙ ∙ / ∙ - KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 21 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 128,
+      "originalId": 128,
+      "question": "Mors alfabesinde GRUP kelimesinin açılımı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "∙ - - ∙ / - - ∙ ∙ / ∙ ∙ / ∙ ∙ ∙"
+        },
+        {
+          "id": "B",
+          "text": "- - ∙ / ∙ - ∙ / - - / ∙ - - ∙"
+        },
+        {
+          "id": "C",
+          "text": "- ∙ - ∙ / - - ∙ - / ∙ ∙ ∙ - / - ∙ -"
+        },
+        {
+          "id": "D",
+          "text": "- - ∙ / ∙ - ∙ / ∙ ∙ - / ∙ - - ∙"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 129,
+      "originalId": 129,
+      "question": "Mors alfabesinde FİLE kelimesinin açılımı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "∙ ∙ - ∙ / ∙ ∙ / ∙ - ∙ ∙ / ∙"
+        },
+        {
+          "id": "B",
+          "text": "∙ ∙ - ∙ / ∙ / ∙ - ∙ ∙ / ∙ ∙"
+        },
+        {
+          "id": "C",
+          "text": "∙ - ∙ ∙ / ∙ ∙ / ∙ - ∙ ∙ / ∙"
+        },
+        {
+          "id": "D",
+          "text": "∙ - ∙ ∙ / ∙ ∙ / - ∙ - ∙ / ∙"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 130,
+      "originalId": 130,
+      "question": "Mors alfabesinde BARAJ kelimesinin açılımı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "∙ ∙ ∙ - / ∙ - / ∙ - ∙ / - ∙ / ∙ - - -"
+        },
+        {
+          "id": "B",
+          "text": "- ∙ ∙ / ∙ - / ∙ - ∙ / ∙ - / ∙ - -"
+        },
+        {
+          "id": "C",
+          "text": "- ∙ ∙ ∙ / ∙ - / - ∙ / ∙ - / - - - ∙"
+        },
+        {
+          "id": "D",
+          "text": "- ∙ ∙ ∙ / ∙ - / ∙ - ∙ / ∙ - / ∙ - - -"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 131,
+      "originalId": 131,
+      "question": "Mors alfabesinde ONUR kelimesinin açılımı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "- - - / - ∙ / ∙ ∙ - / ∙ - ∙"
+        },
+        {
+          "id": "B",
+          "text": "∙ ∙ ∙ / ∙ - / - - ∙ / - ∙ -"
+        },
+        {
+          "id": "C",
+          "text": "∙ ∙ ∙ / ∙ - / ∙ ∙ - / ∙ - ∙"
+        },
+        {
+          "id": "D",
+          "text": "- - - / - ∙ / ∙ ∙ ∙ - / ∙ - ∙"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 132,
+      "originalId": 132,
+      "question": "Mors alfabesinde TAH kelimesinin açılımı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "∙ - - / ∙ ∙ / - -"
+        },
+        {
+          "id": "B",
+          "text": "- / ∙ - / ∙ ∙ ∙ ∙"
+        },
+        {
+          "id": "C",
+          "text": "∙ - / ∙ ∙ - / - -"
+        },
+        {
+          "id": "D",
+          "text": "∙ ∙ / ∙ - / ∙ ∙ ∙"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 133,
+      "originalId": 133,
+      "question": "Mors alfabesi nde ESKİ kelimesinin açılımı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "∙ ∙ / - ∙ / ∙ ∙ - / ∙ - ∙"
+        },
+        {
+          "id": "B",
+          "text": "∙ / ∙ ∙ ∙ / - ∙ - / ∙ ∙"
+        },
+        {
+          "id": "C",
+          "text": "- ∙ - / ∙ ∙ ∙ / ∙ - ∙ / - -"
+        },
+        {
+          "id": "D",
+          "text": "∙ - / ∙ ∙ / ∙ - ∙ / ∙ ∙ - ∙ KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 22 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 134,
+      "originalId": 134,
+      "question": "Mors alfabesinde YAVUZ kelimesinin açılımı ned ir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "- - ∙ - / ∙ - / ∙ ∙ ∙ - / ∙ ∙ - / - - ∙ ∙"
+        },
+        {
+          "id": "B",
+          "text": "- ∙ - - / - ∙ / - ∙ ∙ ∙ / ∙ ∙ - / - - ∙"
+        },
+        {
+          "id": "C",
+          "text": "- ∙ - - / ∙ - / ∙ ∙ ∙ - / ∙ ∙ - / - - ∙ ∙"
+        },
+        {
+          "id": "D",
+          "text": "- ∙ - - / ∙ - / - ∙ ∙ ∙ / ∙ ∙ - / - - ∙"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 135,
+      "originalId": 135,
+      "question": "Mors alfabesinde AK ke limesinin açılımı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "∙ - - / ∙ - ∙"
+        },
+        {
+          "id": "B",
+          "text": "∙ - / - ∙ -"
+        },
+        {
+          "id": "C",
+          "text": "- ∙ / - ∙ -"
+        },
+        {
+          "id": "D",
+          "text": "∙ ∙ / ∙ - -"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 136,
+      "originalId": 136,
+      "question": "7000 - 7100 Khz Frekans bandı aşağıda yazılı bandlardan hangisinin içerisindedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "MF"
+        },
+        {
+          "id": "B",
+          "text": "HF"
+        },
+        {
+          "id": "C",
+          "text": "UHF"
+        },
+        {
+          "id": "D",
+          "text": "VHF"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 137,
+      "originalId": 137,
+      "question": "VHF bandındaki frekans aralığı hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3-30 Mhz"
+        },
+        {
+          "id": "B",
+          "text": "30-300 Mhz"
+        },
+        {
+          "id": "C",
+          "text": "300-3000 Khz"
+        },
+        {
+          "id": "D",
+          "text": "300-3000 Mhz"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 138,
+      "originalId": 138,
+      "question": "Telsiz cihazları arasında haberleşmeyi kolaylaştırmak amacıyla bir verici istasyonundan aldığı sinyalleri otomatik olarak başka bir frekansta alıcılara yayınlayan aktarıcılara ne ad verilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trafo"
+        },
+        {
+          "id": "B",
+          "text": "Tekrarlayıcı"
+        },
+        {
+          "id": "C",
+          "text": "El telsizi"
+        },
+        {
+          "id": "D",
+          "text": "Mobil telsiz"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 139,
+      "originalId": 139,
+      "question": "Paket data gönderen amatör telsiz istasyonunda aşağıdakilerden hangisi kullanılmaz?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Anten"
+        },
+        {
+          "id": "B",
+          "text": "Güç Kaynağı"
+        },
+        {
+          "id": "C",
+          "text": "Alıcı - Verici"
+        },
+        {
+          "id": "D",
+          "text": "Mikrofon KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 23 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 140,
+      "originalId": 140,
+      "question": "Amatör Telsiz Hizmetinin beş amacından iki tanesi aşağıdakilerden h angisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Geçmiş telsiz verilerini korumak ve halkın telsiz geçmişini anlamasına yardımcı olmak"
+        },
+        {
+          "id": "B",
+          "text": "Yabancı ülkelere telsiz haberleşmelerini geliştirmelerinde yardımcı olmak ve yabancı amatör telsizcilerin ziyaretlerini cesaretlendirmek"
+        },
+        {
+          "id": "C",
+          "text": "Telsiz elektronik dizaynını modernize etmek ve şematik çizimleri geliştirmek"
+        },
+        {
+          "id": "D",
+          "text": "Eğitimli telsiz operatörleri ile elektronik uzmanlarının sayısını artırmak ve uluslararası saygınlığı geliştirmek"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 141,
+      "originalId": 141,
+      "question": "Hangi frekanslar 6 metre bandındadır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "49.00 Mhz"
+        },
+        {
+          "id": "B",
+          "text": "52.525 Mhz"
+        },
+        {
+          "id": "C",
+          "text": "28.50 Mhz"
+        },
+        {
+          "id": "D",
+          "text": "222.15 Mhz"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 142,
+      "originalId": 142,
+      "question": "Diğer istasyonlardan parazit aldığınızı belirtmek için kullanılan \"Q\" sinyali hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "QRM"
+        },
+        {
+          "id": "B",
+          "text": "QRQ"
+        },
+        {
+          "id": "C",
+          "text": "QTH"
+        },
+        {
+          "id": "D",
+          "text": "QSB"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 143,
+      "originalId": 143,
+      "question": "3.5 Mhz\"de hangi amatör band kullanılır ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "15 metre bandı"
+        },
+        {
+          "id": "B",
+          "text": "2 0 metre bandı"
+        },
+        {
+          "id": "C",
+          "text": "70 metre bandı"
+        },
+        {
+          "id": "D",
+          "text": "80 metre bandı"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 144,
+      "originalId": 144,
+      "question": "0 - 144.1 Mhz\" de sınırlandırılmış bantta hangi yayın modlarına izin verilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yalnızca CW"
+        },
+        {
+          "id": "B",
+          "text": "CW ve RTTY"
+        },
+        {
+          "id": "C",
+          "text": "Yalnızca SSB"
+        },
+        {
+          "id": "D",
+          "text": "CW ve SSB"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 145,
+      "originalId": 145,
+      "question": "Amatör istasyonunuzu ne zaman uçakta çalıştırabilirsiniz?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Her zaman"
+        },
+        {
+          "id": "B",
+          "text": "Uçak yalnızca yerde olduğunda"
+        },
+        {
+          "id": "C",
+          "text": "Yalnızca uçağa komuta eden pilotun onayı ile ve uçağın telsiz teçhizatını kullanmadan"
+        },
+        {
+          "id": "D",
+          "text": "Yalnızca hava yollarından yazılı izin aldığınızda ve yalnızca uçağın telsiz teçhizatını kullanarak"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 146,
+      "originalId": 146,
+      "question": "G önderilecek frekansı seçerken, aşağıdakilerden hangisini yapmanız gerekir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Herhangi bir kişinin dinleyip dinlemediğini öğrenmek için CQ\" yu ara"
+        },
+        {
+          "id": "B",
+          "text": "Frekansın meşgul olup olmadığını belirlemek için dinle"
+        },
+        {
+          "id": "C",
+          "text": "İşaretlerinizin duyulmasına olanak sağlayacak bir frekansta gönderim yapın"
+        },
+        {
+          "id": "D",
+          "text": "Maksimum çıkış güç için kontrol yapın"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 147,
+      "originalId": 147,
+      "question": "Herhangi bir istasyonla temas kurmak için arama yaptığınızı nasıl belli edersiniz?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sizin çağrı işaretinizi takiben CQ"
+        },
+        {
+          "id": "B",
+          "text": "Sizin çağrı işaretinizi takiben RST"
+        },
+        {
+          "id": "C",
+          "text": "Sizin çağrı işaretinizi takiben QST"
+        },
+        {
+          "id": "D",
+          "text": "Sizin çağrı işaretinizi takiben SK"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 148,
+      "originalId": 148,
+      "question": "CQ\" nun bir çağrısına cevap verirken neyi göndermelisiniz?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Diğer istasy onun çağrı işaretini takiben kendi CQ\"nuzu"
+        },
+        {
+          "id": "B",
+          "text": "Kendi çağrı işaretinizi takiben diğer istasyonunun çağrı işaretini"
+        },
+        {
+          "id": "C",
+          "text": "Diğer istasyonun çağrı işaretini takiben kendi çağrı işaretinizi"
+        },
+        {
+          "id": "D",
+          "text": "Kendi çağrı işaretinizi takiben bir işaret raporu"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 149,
+      "originalId": 149,
+      "question": "50.0 - 50.1 Mhz\" de sınırlandırılmış bantta hangi yayın modlarına izin verilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yalnızca CW"
+        },
+        {
+          "id": "B",
+          "text": "CW ve RTTY"
+        },
+        {
+          "id": "C",
+          "text": "Yalnızca SSB"
+        },
+        {
+          "id": "D",
+          "text": "CW ve SSB KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 25 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 150,
+      "originalId": 150,
+      "question": "Frekansı kullanan iki istasyon arasındaki konuşmayı kesmen in uygun yolu aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Onların gönderimleri arasında kendi çağrı işaretini söylemek"
+        },
+        {
+          "id": "B",
+          "text": "Bitirmeleri için onları bekleyip sonrasında CQ\" yu aramak"
+        },
+        {
+          "id": "C",
+          "text": "Onl arın gönderimleri arasında \"break - break\" demek"
+        },
+        {
+          "id": "D",
+          "text": "Konuşmaya müdahale etmesi için operatörlerden birisini telefona çağırmak"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 151,
+      "originalId": 151,
+      "question": "PSK ne demektir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Darbe kaydırmalı anahtarlama"
+        },
+        {
+          "id": "B",
+          "text": "Faz kaydırmalı anahtarlama"
+        },
+        {
+          "id": "C",
+          "text": "Paket kısa anahtarlama"
+        },
+        {
+          "id": "D",
+          "text": "Fazlı slayt anahtarlama A - B - SINIFI İŞLETME SORULARI CEVAP ANAHTARI 1 C 26 A 51 B 76 D 101 A 126 A 2 C 27 B 52 D 77 D 102 A 127 B 3 A 28 C 53 D 78 B 103 C 128 D 4 B 29 C 54 C 79 A 104 C 129 A 5 B 30 A 55 B 80 B 105 D 130 D 6 D 31 D 56 A 81 B 106 C 131 A 7 B 32 C 57 C 82 B 107 B 132 B 8 C 33 B 58 A 83 C 108 C 133 B 9 B 34 D 59 D 84 D 109 D 134 C 10 B 35 C 60 D 85 B 11 0 C 135 B 11 D 36 D 61 B 86 C 111 B 136 B 12 B 37 C 62 C 87 C 112 C 137 B 13 A 38 C 63 D 88 C 113 B 138 B 14 D 39 C 64 D 89 B 114 A 139 D 15 A 40 B 65 C 90 D 115 A 140 D 16 C 41 B 66 C 91 C 116 A 141 B 17 A 42 D 67 A 92 A 117 A 142 A 18 C 43 B 68 C 93 A 118 B 143 D 19 B 44 B 69 B 94 C 119 A 144 B 20 B 45 A 70 A 95 C 120 C 145 C 21 C 46 B 71 A 96 A 121 B 146 B 22 C 47 B 72 A 97 A 122 D 147 A 23 D 48 C 73 D 98 D 123 A 148 C 24 B 49 B 74 C 99 D 124 D 149 A 25 A 50 C 75 D 100 B 125 D 150 A 151 B KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 26 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "B"
+    }
+  ],
+  "teknik": [
+    {
+      "id": 1,
+      "originalId": 1,
+      "question": "Duran dalga oranı (SWR) aşağıdakilerden hangisi olamaz?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "10"
+        },
+        {
+          "id": "D",
+          "text": "Sonsuz"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 2,
+      "originalId": 2,
+      "question": "Besleme hattı tiplerinden biri olan çıplak iki telli hat, izolatör çubukları ile sabit mesafede tutulurlar. İki tel arasındaki mesafe aşağıdakilerden hangisine bağlıdır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Karakteristik empedansa"
+        },
+        {
+          "id": "B",
+          "text": "Kullanılan telin direncine"
+        },
+        {
+          "id": "C",
+          "text": "Havadaki nem oranına"
+        },
+        {
+          "id": "D",
+          "text": "Hiçbiri ne"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 3,
+      "originalId": 3,
+      "question": "1 W ve 1 Mohm „luk bir dirençten geçirilebilecek maksimum akım aşağıdakilerden hangisidir? -6 -3 -12",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 A"
+        },
+        {
+          "id": "B",
+          "text": "10 A"
+        },
+        {
+          "id": "C",
+          "text": "0.1 mA"
+        },
+        {
+          "id": "D",
+          "text": "10 A 25 Metre Koaksiyel Kablo Alçak TX Geçiren ATU Filtre A B C D"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 4,
+      "originalId": 4,
+      "question": "Yukarıdaki istasyon sisteminde, telsiz birimine geri dönen RF gücü ölçülmek istenirse, SWR metre hangi nokta arasına bağlanmalıdır?",
+      "image": "assets/questions/teknik/a4.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "A"
+        },
+        {
+          "id": "B",
+          "text": "B"
+        },
+        {
+          "id": "C",
+          "text": "C"
+        },
+        {
+          "id": "D",
+          "text": "D 4 A Zo = 50 ohm"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 5,
+      "originalId": 5,
+      "question": "Yukarıdaki şekilde A ucundaki empedans kaç ohm\"dur?",
+      "image": "assets/questions/teknik/a5.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sıfır"
+        },
+        {
+          "id": "B",
+          "text": "50"
+        },
+        {
+          "id": "C",
+          "text": "150"
+        },
+        {
+          "id": "D",
+          "text": "Sonsuz"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 6,
+      "originalId": 6,
+      "question": "Girişine 10 kilohertz frekansında bir sinyal verilen bir frekans katlayıcıdan 120 Kilohertzlik bir çıkış isteniyorsa, aşağıdaki devrelerden hangisine ihtiyaç duyulur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Frekans dörtleyici"
+        },
+        {
+          "id": "B",
+          "text": "Bir frekans dörtleyici ve bir frekans ikileyici"
+        },
+        {
+          "id": "C",
+          "text": "Bir frekans üçleyici ve bir frekans ikileyici"
+        },
+        {
+          "id": "D",
+          "text": "Bir frekans dörtleyici ve bir frekans üçleyici KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 1 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 7,
+      "originalId": 7,
+      "question": "SWR değerlerindeki düzensiz değişikliklerle ne gösteriliyor olabilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Verici modüle ediliyor"
+        },
+        {
+          "id": "B",
+          "text": "Besleme hattı veya anteninizdeki gevşek bağlantı"
+        },
+        {
+          "id": "C",
+          "text": "Verici aşırı modüle ediliyor"
+        },
+        {
+          "id": "D",
+          "text": "Diğer istasyonlardan karışma sinyalinizi bozuyor"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 8,
+      "originalId": 8,
+      "question": "Bir süperheterodin alıcı 880 Kh z\"e ayarlanmıştır. Alıcının ara frekansı 455 Khz olduğuna göre lokal osilatör frekansı aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1335 Khz"
+        },
+        {
+          "id": "B",
+          "text": "1790 Khz"
+        },
+        {
+          "id": "C",
+          "text": "2000 Khz"
+        },
+        {
+          "id": "D",
+          "text": "880 Khz"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 9,
+      "originalId": 9,
+      "question": "Bir SSB vericisinin çıkış katında hangi yükselteç türü kullanılır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A sınıfı"
+        },
+        {
+          "id": "B",
+          "text": "B sınıfı"
+        },
+        {
+          "id": "C",
+          "text": "C sınıfı"
+        },
+        {
+          "id": "D",
+          "text": "AB sınıfı"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 10,
+      "originalId": 10,
+      "question": "455 Khz ara frekanslı bir alıcı, 3775 Kh z\"i dinlemek üzere ayarlanmıştır. Lokal osilatör frekansı sinyal frekansından büyük olduğunda bu alıcının hayal frekansı (image frequency) nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "4685 Khz"
+        },
+        {
+          "id": "B",
+          "text": "3320 Khz"
+        },
+        {
+          "id": "C",
+          "text": "4230 Khz"
+        },
+        {
+          "id": "D",
+          "text": "2865 Khz"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 11,
+      "originalId": 11,
+      "question": "Bir SSB vericisinin den geli modülatör çıkışında aşağıdakilerden hangileri vardır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tam taşıyıcı ve çift yan band"
+        },
+        {
+          "id": "B",
+          "text": "Tam taşıyıcı ve tek yan band"
+        },
+        {
+          "id": "C",
+          "text": "Sadece çift yan band"
+        },
+        {
+          "id": "D",
+          "text": "Sadece tek yan band"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 12,
+      "originalId": 12,
+      "question": "Bir yarım dalga anteninin boyu 7.5 metredir. Bu antenin yaklaşık rezonans frekansı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "15 Mhz"
+        },
+        {
+          "id": "B",
+          "text": "20 Mhz"
+        },
+        {
+          "id": "C",
+          "text": "25 Mhz"
+        },
+        {
+          "id": "D",
+          "text": "30 Mhz"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 13,
+      "originalId": 13,
+      "question": "Bir verici istasyonunun frekansı yerine bazen bir uzunluk verilir. Metre cinsinden verilen bu uzunluk aşağıdakilerden hangisinin ölçüsüdür?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Elektromanyetik dalgaların yayılabileceği en uygun yüksekliğin"
+        },
+        {
+          "id": "B",
+          "text": "Yayın yapılan frekansa karşılık gelen dalga boyunun"
+        },
+        {
+          "id": "C",
+          "text": "Antenin yerden yüksekliğinin"
+        },
+        {
+          "id": "D",
+          "text": "Anten i vericiye bağlayan iletim hattının ideal boyunun KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 2 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 14,
+      "originalId": 14,
+      "question": "10 Mh z\"de rezonansa gelen çeyrek dalga bir antenin boyu yaklaşık olarak aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "7.5 m"
+        },
+        {
+          "id": "B",
+          "text": "15 m"
+        },
+        {
+          "id": "C",
+          "text": "20 m"
+        },
+        {
+          "id": "D",
+          "text": "30 m"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 15,
+      "originalId": 15,
+      "question": "Şekildeki yayılım kalıbı, hangi anten tipine aittir?",
+      "image": "assets/questions/teknik/a15.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yarım dalga dipol"
+        },
+        {
+          "id": "B",
+          "text": "Çeyrek dalga ante n"
+        },
+        {
+          "id": "C",
+          "text": "8 şekli anten"
+        },
+        {
+          "id": "D",
+          "text": "Beam anten"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 16,
+      "originalId": 16,
+      "question": "Aşağıdaki antenlerden kazancı en yüksek olan hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "İzotropik anten"
+        },
+        {
+          "id": "B",
+          "text": "Yatay dipol"
+        },
+        {
+          "id": "C",
+          "text": "Çeyrek dalga markoni"
+        },
+        {
+          "id": "D",
+          "text": "Yagi"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 17,
+      "originalId": 17,
+      "question": "Aşağıdaki şekilde görülen antenin tipi nedir?",
+      "image": "assets/questions/teknik/a17.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "END FED (dipten beslemeli)"
+        },
+        {
+          "id": "B",
+          "text": "Basit dipol"
+        },
+        {
+          "id": "C",
+          "text": "Cubical quad"
+        },
+        {
+          "id": "D",
+          "text": "Trap dipol (kapan dipol)"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 18,
+      "originalId": 18,
+      "question": "Trap (kapa nlı) antenin kullanım avantajı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yönlü anten olması"
+        },
+        {
+          "id": "B",
+          "text": "Tam dalga anten olması"
+        },
+        {
+          "id": "C",
+          "text": "Çok bandda çalışabilmesi"
+        },
+        {
+          "id": "D",
+          "text": "Çok kazançlı olması"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 19,
+      "originalId": 19,
+      "question": "Şehir merkezine konacak bir röle ante ni için aşağıdakilerden hangisi uygundur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yagi"
+        },
+        {
+          "id": "B",
+          "text": "Çeyrek dalga dikey"
+        },
+        {
+          "id": "C",
+          "text": "Yatay dipol"
+        },
+        {
+          "id": "D",
+          "text": "Hiçbiri KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 3 ~ [PAGE_BREAK] Kahverengi Kırmızı Turuncu Altın"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 20,
+      "originalId": 20,
+      "question": "Yukarıda çizimi yapılan direncin değeri ve toleransı aşağıdakilerden hangisidir ?",
+      "image": "assets/questions/teknik/a20.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "120 Ω, %5"
+        },
+        {
+          "id": "B",
+          "text": "120 K Ω, %10"
+        },
+        {
+          "id": "C",
+          "text": "10 Ω, %10"
+        },
+        {
+          "id": "D",
+          "text": "12 K Ω, %5"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 21,
+      "originalId": 21,
+      "question": "Paralel bağlı 12 pf, 15 pf ve 20 pf\"lik üç kondansatörün toplam değeri (eşdeğer kapasitans) nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 pf"
+        },
+        {
+          "id": "B",
+          "text": "47 pf"
+        },
+        {
+          "id": "C",
+          "text": "8 pf"
+        },
+        {
+          "id": "D",
+          "text": "56 pf"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 22,
+      "originalId": 22,
+      "question": "İletim halinde olan bir germanyum diyod \"un uçları arasındaki voltaj düşümü yaklaşık ne kadardır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.3 V"
+        },
+        {
+          "id": "B",
+          "text": "0.6 V"
+        },
+        {
+          "id": "C",
+          "text": "0.7 V"
+        },
+        {
+          "id": "D",
+          "text": "1.3 V"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 23,
+      "originalId": 23,
+      "question": "Aşağıdaki devrenin adı nedir?",
+      "image": "assets/questions/teknik/a23.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "Basit bir alıcı"
+        },
+        {
+          "id": "B",
+          "text": "Basit bir verici"
+        },
+        {
+          "id": "C",
+          "text": "Doğrultucu"
+        },
+        {
+          "id": "D",
+          "text": "Basit bir alıcı -verici"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 24,
+      "originalId": 24,
+      "question": "Aşağıdaki elektronik parçalardan hangisi alternatif akımın endüksiy on yolu ile bir devreden başka bir devreye aktarılması prensibi ile çalışır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kondansatörler"
+        },
+        {
+          "id": "B",
+          "text": "Transistörler"
+        },
+        {
+          "id": "C",
+          "text": "Transformatörler"
+        },
+        {
+          "id": "D",
+          "text": "Dirençler KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 4 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 25,
+      "originalId": 25,
+      "question": "Şekilde görülen devrede I 2 akımının değeri nedir? 50 ohm I 50 ohm 2 50V 25 ohm",
+      "image": "assets/questions/teknik/a25.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.25 A"
+        },
+        {
+          "id": "B",
+          "text": "1 A"
+        },
+        {
+          "id": "C",
+          "text": "2 A"
+        },
+        {
+          "id": "D",
+          "text": "0.5 A"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 26,
+      "originalId": 26,
+      "question": "Şekildeki devrede 27 ohm\"luk dirençten geçen akımın değeri aşağıdakilerden hangisidir? 27 ohm 33 ohm 120 ohm 6V",
+      "image": "assets/questions/teknik/a26.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5 A"
+        },
+        {
+          "id": "B",
+          "text": "0.6 A"
+        },
+        {
+          "id": "C",
+          "text": "0.3 A"
+        },
+        {
+          "id": "D",
+          "text": "0.1 A"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 27,
+      "originalId": 27,
+      "question": "Sinüs şeklindeki bir dalganın etkin (RMS) değeri 200 volt\"tur . Bu gerilimin tepe değeri ne kadardır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "200 volt"
+        },
+        {
+          "id": "B",
+          "text": "141 volt"
+        },
+        {
+          "id": "C",
+          "text": "282 volt"
+        },
+        {
+          "id": "D",
+          "text": "380 volt"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 28,
+      "originalId": 28,
+      "question": "Aşağıdaki ses yükselteç devresinde, transistörün emite r ucuna bağlı RE direnci kısa devre edilirse: + V + R E 0 V",
+      "image": "assets/questions/teknik/a28.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kazanç azalır"
+        },
+        {
+          "id": "B",
+          "text": "Kazanç artar"
+        },
+        {
+          "id": "C",
+          "text": "Kazan ç değişmez"
+        },
+        {
+          "id": "D",
+          "text": "Uğultu artar KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 5 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 29,
+      "originalId": 29,
+      "question": "Şekilde görülen devrede, 3 O hm luk dirençte harcanan güç nedir? 6 ohm 3 ohm 1 ohm 10 V",
+      "image": "assets/questions/teknik/a29.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 watt"
+        },
+        {
+          "id": "B",
+          "text": "1 watt"
+        },
+        {
+          "id": "C",
+          "text": "5 watt"
+        },
+        {
+          "id": "D",
+          "text": "3 watt"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 30,
+      "originalId": 30,
+      "question": "Bir güç kaynağının beslediği devrede yük akımı geniş sınırlar içinde hızla değişiyor ise, bu güç kaynağının çıkışında hangi tip filtre kullanılmalıdır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "RC filtre"
+        },
+        {
+          "id": "B",
+          "text": "Kondansatör filtre"
+        },
+        {
+          "id": "C",
+          "text": "Girişi şok bobinli kondansatör filtre"
+        },
+        {
+          "id": "D",
+          "text": "Filtre kullanılmamalıdır"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 31,
+      "originalId": 31,
+      "question": "Bir RF filtrede kullanı lacak kondans atör aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alüminyum elektrolitik"
+        },
+        {
+          "id": "B",
+          "text": "Tantalyum elektrolitik"
+        },
+        {
+          "id": "C",
+          "text": "Seramik"
+        },
+        {
+          "id": "D",
+          "text": "Polikarbonat dielektrikli"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 32,
+      "originalId": 32,
+      "question": "Bir yükselteçte çıkış gücü dBm cinsinden veriliyor. Aynı gücün Watt cinsinden değeri hesaplanırken alınan referans çarpan değeri aşağıdakilerden hangisidir ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 watt"
+        },
+        {
+          "id": "B",
+          "text": "1 watt"
+        },
+        {
+          "id": "C",
+          "text": "1 miliwatt"
+        },
+        {
+          "id": "D",
+          "text": "10 miliwatt"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 33,
+      "originalId": 33,
+      "question": "Aşağıda gösterilen seri rezonans devresinin rezonans frekansı nedir? 1000 μH 1000 рҒ π π",
+      "image": "assets/questions/teknik/a33.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5 Mhz"
+        },
+        {
+          "id": "B",
+          "text": "1 Mhz"
+        },
+        {
+          "id": "C",
+          "text": "5 Mhz"
+        },
+        {
+          "id": "D",
+          "text": "0.01 Mhz KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 6 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 34,
+      "originalId": 34,
+      "question": "Aşağıda blok şeması görülen bir CW vericisinde maniple hangi bölümü kontrol etmelidir? A B C D OSC Buffer Driver PA",
+      "image": "assets/questions/teknik/a34.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "A"
+        },
+        {
+          "id": "B",
+          "text": "B"
+        },
+        {
+          "id": "C",
+          "text": "C"
+        },
+        {
+          "id": "D",
+          "text": "D"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 35,
+      "originalId": 35,
+      "question": "Zener diyodun kullanılmasının ana amacı nedir ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "RF deteksiyonu"
+        },
+        {
+          "id": "B",
+          "text": "Kazanç elde etme"
+        },
+        {
+          "id": "C",
+          "text": "Gürültüyü azaltma"
+        },
+        {
+          "id": "D",
+          "text": "Sabit gerilim elde etme"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 36,
+      "originalId": 36,
+      "question": "Toprak (yer) dalgaları hangi tür haberleşmede kullanılır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yüksek frekans - kısa mesafe"
+        },
+        {
+          "id": "B",
+          "text": "Yüksek frekans - uzun mesafe"
+        },
+        {
+          "id": "C",
+          "text": "Alçak frekans - kısa mesafe"
+        },
+        {
+          "id": "D",
+          "text": "Alçak frekans - uzun mesafe"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 37,
+      "originalId": 37,
+      "question": "Güneş lekelerinin ve buna bağlı patlamaların, yüksek frekans haberleşmesini etkilediği bilinmektedir. Bu etkinin periyodu ne kadardır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "15 yıl"
+        },
+        {
+          "id": "B",
+          "text": "11 yıl"
+        },
+        {
+          "id": "C",
+          "text": "13 yıl"
+        },
+        {
+          "id": "D",
+          "text": "6 yıl"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 38,
+      "originalId": 38,
+      "question": "Aşağıdakilerden hangisi geniş bandlı ve devamlı bir enterferans kaynağıdır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bir elektrik anahtarı"
+        },
+        {
+          "id": "B",
+          "text": "Bir floresant lamba"
+        },
+        {
+          "id": "C",
+          "text": "Bir mikrodalga vericisi"
+        },
+        {
+          "id": "D",
+          "text": "Koll ektör ve fırça teması zayıf bir elektrik motoru"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 39,
+      "originalId": 39,
+      "question": "Fading olayı nasıl oluşur ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Atlama bölgesinde sinyal alınmaması durumunda"
+        },
+        {
+          "id": "B",
+          "text": "Verici antenden binlerce km uzaklıkta sinyal alınmaması durumunda"
+        },
+        {
+          "id": "C",
+          "text": "Çok atlamalı çeşitli dalgaların, birbirlerini bazen yok ederek, bazen de kuvvetlendirerek aynı noktaya erişmeleri halinde"
+        },
+        {
+          "id": "D",
+          "text": "Tek atlamalı sinyalin diğerine nazaran kuvvetli olması nedeni ile KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 7 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 40,
+      "originalId": 40,
+      "question": "Aşağıdaki verici çıkış kat tiplerinden hangisinde nispeten daha çok harmonik üretilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "C sınıfı"
+        },
+        {
+          "id": "B",
+          "text": "B sınıfı"
+        },
+        {
+          "id": "C",
+          "text": "AB sınıfı"
+        },
+        {
+          "id": "D",
+          "text": "A sınıfı"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 41,
+      "originalId": 41,
+      "question": "Geniş bandlı bir güç kuvvetlendirici çıkışında aşağıdakilerden hangisi kullanılır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yüksek geçiren filtre"
+        },
+        {
+          "id": "B",
+          "text": "Alçak geçiren filtre"
+        },
+        {
+          "id": "C",
+          "text": "Dirençli bastırıcı"
+        },
+        {
+          "id": "D",
+          "text": "Şebeke filtresi"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 42,
+      "originalId": 42,
+      "question": "Çıkışında band geçiren filtre ile donatılmış bir VHF verici:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Üretilen tüm frekansları keser."
+        },
+        {
+          "id": "B",
+          "text": "Üretilen tüm harmonikleri geçiri r."
+        },
+        {
+          "id": "C",
+          "text": "Üretilen tüm alt harmonikleri geçirir."
+        },
+        {
+          "id": "D",
+          "text": "Sadece istenilen frekansları en az kayıpla geçirir."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 43,
+      "originalId": 43,
+      "question": "Bir amatör telsizcinin komşusu, telsiz istasyonunun müzik setine yaptığı enterferanstan şikâyetçidir. Mümkün olan çözüm aşağıdakilerden hangisi olabilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Verici çıkışına ferrit filtre konulması."
+        },
+        {
+          "id": "B",
+          "text": "Verici çıkış uçları arasına bir kondansatör bağlanması."
+        },
+        {
+          "id": "C",
+          "text": "Müzik setinin hoparlör bağlantılarının ekranlı kablo ile yapılması"
+        },
+        {
+          "id": "D",
+          "text": "Vericinin çıkışının çıplak iki telli hat ile yapılması."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 44,
+      "originalId": 44,
+      "question": "RF akımları ile çalışan bir elektronik cihaz:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Topraklanmamalıdır"
+        },
+        {
+          "id": "B",
+          "text": "Batarya ile beslenmelidir"
+        },
+        {
+          "id": "C",
+          "text": "Mümkün olduğunca iyi ekran lan malıdır"
+        },
+        {
+          "id": "D",
+          "text": "Hepsi"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 45,
+      "originalId": 45,
+      "question": "144 Mh z\"in üçüncü harmoniği aşağıdaki bandlardan hangisine düşer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "UHF Bandı"
+        },
+        {
+          "id": "B",
+          "text": "FM broadcast"
+        },
+        {
+          "id": "C",
+          "text": "Hava bandı"
+        },
+        {
+          "id": "D",
+          "text": "SHF bandı"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 46,
+      "originalId": 46,
+      "question": "Sinüs şeklinde bir dalganın efektif (RMS) değeri 12 volttur . Tepeden tepeye değeri aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "16.97 V"
+        },
+        {
+          "id": "B",
+          "text": "24 V"
+        },
+        {
+          "id": "C",
+          "text": "33.9 V"
+        },
+        {
+          "id": "D",
+          "text": "36.4 V KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 8 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 47,
+      "originalId": 47,
+      "question": "AGC katının işlevi aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Amplifikatör güç kontrolü"
+        },
+        {
+          "id": "B",
+          "text": "Alt- geçirgen doğru lma"
+        },
+        {
+          "id": "C",
+          "text": "Otomatik çıkış kontrolü"
+        },
+        {
+          "id": "D",
+          "text": "Otomatik kazanç kontrolü"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 48,
+      "originalId": 48,
+      "question": "Bi r çıkış katının aşırı sürülmesi:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yüksek SWR\" ye neden olur"
+        },
+        {
+          "id": "B",
+          "text": "Çıkış gücünü arttırır"
+        },
+        {
+          "id": "C",
+          "text": "Yüksek seviyeli harmonik üretir"
+        },
+        {
+          "id": "D",
+          "text": "Çıkış transistörünü yakar"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 49,
+      "originalId": 49,
+      "question": "Bir FM sinyalinin güçlendirilmesi sırasında kullanılacak en etkili güçlendirici sınıfı aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A sınıfı"
+        },
+        {
+          "id": "B",
+          "text": "AB sınıfı"
+        },
+        {
+          "id": "C",
+          "text": "B sınıfı"
+        },
+        {
+          "id": "D",
+          "text": "C sınıfı"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 50,
+      "originalId": 50,
+      "question": "Bir yapay yük üzerine uygulanan RF akımı ölçülmek istenirse, aşağıdaki ampermetre tiplerinden hangisi kullanılır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hareketli bobinli"
+        },
+        {
+          "id": "B",
+          "text": "50 Hz\"e ayarlı, demir göbekli"
+        },
+        {
+          "id": "C",
+          "text": "Thermocouple cihazlı"
+        },
+        {
+          "id": "D",
+          "text": "Hiçbiri"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 51,
+      "originalId": 51,
+      "question": "Bir akortlu devrenin rezonans frekansı aşağıdaki cihazlardan hangisi ile bulunur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "DC Voltmetre"
+        },
+        {
+          "id": "B",
+          "text": "Grid-dip metre"
+        },
+        {
+          "id": "C",
+          "text": "dip metre"
+        },
+        {
+          "id": "D",
+          "text": "dip metre c) Sayısal frekans metre d) Ohm-metre"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 52,
+      "originalId": 52,
+      "question": "Bir thermocouple elemanı ile:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Direnç ölçülür"
+        },
+        {
+          "id": "B",
+          "text": "Sıcaklık ölçülür"
+        },
+        {
+          "id": "C",
+          "text": "Elektrik alanı ölçülür"
+        },
+        {
+          "id": "D",
+          "text": "Manyetik alan ölçülür"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 53,
+      "originalId": 53,
+      "question": "Harici antenler daima tercih edilir, çünkü :",
+      "options": [
+        {
+          "id": "A",
+          "text": "Daha az harmonik üretirler"
+        },
+        {
+          "id": "B",
+          "text": "Yayılımları daha azdır"
+        },
+        {
+          "id": "C",
+          "text": "Yayılımları daha çoktur"
+        },
+        {
+          "id": "D",
+          "text": "Daha geniş bandlı çalışırlar KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 9 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 54,
+      "originalId": 54,
+      "question": "Mili (m) kısaltması aşağıdakilerden hangisine eş değerdedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1000000"
+        },
+        {
+          "id": "B",
+          "text": "10"
+        },
+        {
+          "id": "C",
+          "text": "1/1000"
+        },
+        {
+          "id": "D",
+          "text": "1000"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 55,
+      "originalId": 55,
+      "question": "Bir tümleşik devre:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pasif bir elemandır"
+        },
+        {
+          "id": "B",
+          "text": "Bir kondansatör takımıdır"
+        },
+        {
+          "id": "C",
+          "text": "Birçok aktif ve pasif elemanın birleşmesinden oluşur"
+        },
+        {
+          "id": "D",
+          "text": "Tek bir aktif elemandır"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 56,
+      "originalId": 56,
+      "question": "Bir CW vericisinin çıkış gücü 100 watt\"tır. Bu değer aşağıdakilerden hangisine eşittir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 dBW"
+        },
+        {
+          "id": "B",
+          "text": "20 dBW"
+        },
+        {
+          "id": "C",
+          "text": "22 dBW"
+        },
+        {
+          "id": "D",
+          "text": "26 dBW"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 57,
+      "originalId": 57,
+      "question": "Verici çıkışına bağlanmış bir koaksiyel kablonun diğer ucu açık devre olursa, bu noktadaki voltaj:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yüksek bir değere çıkabilir"
+        },
+        {
+          "id": "B",
+          "text": "Daima sıfır olur"
+        },
+        {
+          "id": "C",
+          "text": "Verici çıkışına eşit olur"
+        },
+        {
+          "id": "D",
+          "text": "Doğru akıma döner"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 58,
+      "originalId": 58,
+      "question": "QUAD antenin bir kenarı:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Çeyrek dalgadır"
+        },
+        {
+          "id": "B",
+          "text": "Yarım dalgadır"
+        },
+        {
+          "id": "C",
+          "text": "5/8 dalgadır"
+        },
+        {
+          "id": "D",
+          "text": "Tam dalgadır"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 59,
+      "originalId": 59,
+      "question": "10 Mhz\"de yayın y apan bir telsiz verici anteninin boyu λ / 4 (çeyrek) dalga boyuna göre kaç cm olması gerekir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "30 cm"
+        },
+        {
+          "id": "B",
+          "text": "300 cm"
+        },
+        {
+          "id": "C",
+          "text": "250 cm"
+        },
+        {
+          "id": "D",
+          "text": "750 cm"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 60,
+      "originalId": 60,
+      "question": "Bir osil oskop\" un dikey (Y) girişi neyi gösterir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Voltaj"
+        },
+        {
+          "id": "B",
+          "text": "Kapasite"
+        },
+        {
+          "id": "C",
+          "text": "Reaktans"
+        },
+        {
+          "id": "D",
+          "text": "Zaman"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 61,
+      "originalId": 61,
+      "question": "Bir amatör telsizcinin cihazı, kendisinin ve komşusunun telefonunu enterfere etmektedir. Her iki telefonda aynı model olduğuna göre, enterferansın oluşma sebebi en yüksek olasılıkla aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Elektrik şebeke hatlarının RF taşıması"
+        },
+        {
+          "id": "B",
+          "text": "Di rek telefon cihazının içyapısı ve telefon kablajı"
+        },
+        {
+          "id": "C",
+          "text": "Vericinin lokal osilatörü"
+        },
+        {
+          "id": "D",
+          "text": "Vericinin AGC\"sinin ayarsız olması KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 10 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 62,
+      "originalId": 62,
+      "question": "4700 ohm \" luk bir direncin toleransı %10\"dur. Direncin gerçek değeri aşağıdaki sınırların hangisinin içindedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "4230 - 5170 ohm"
+        },
+        {
+          "id": "B",
+          "text": "4653 - 4747 ohm"
+        },
+        {
+          "id": "C",
+          "text": "4230 - 4747 ohm"
+        },
+        {
+          "id": "D",
+          "text": "4653 - 5170 ohm"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 63,
+      "originalId": 63,
+      "question": "Aşağıdaki şekilde görülen devre : IF İnput 1000pf",
+      "options": [
+        {
+          "id": "A",
+          "text": "Seçenek A"
+        },
+        {
+          "id": "B",
+          "text": "Seçenek B"
+        },
+        {
+          "id": "C",
+          "text": "Seçenek C"
+        },
+        {
+          "id": "D",
+          "text": "Seçenek D"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 64,
+      "originalId": 64,
+      "question": "Aşağıdaki şekilde A ve B noktaları arasındaki voltaj ne kadardır? A 330 13V Regülesiz 2k2 5V6 + 10μ B",
+      "options": [
+        {
+          "id": "A",
+          "text": "2.2 volt"
+        },
+        {
+          "id": "B",
+          "text": "5 volt"
+        },
+        {
+          "id": "C",
+          "text": "8 volt"
+        },
+        {
+          "id": "D",
+          "text": "5.6 volt"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 65,
+      "originalId": 65,
+      "question": "Bir vericinin çıkış empedansı 50 ohmdur. En yüksek güç aktarımı için yük direnci ne olmalıdır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "50 ohm"
+        },
+        {
+          "id": "B",
+          "text": "75 ohm"
+        },
+        {
+          "id": "C",
+          "text": "100 ohm"
+        },
+        {
+          "id": "D",
+          "text": "150 ohm"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 66,
+      "originalId": 66,
+      "question": "1mH lik bir bobin , 1uF lık bir kondansatör ile paralel bağlanmıştır. Devrenin rezonans frekansı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5033 Khz"
+        },
+        {
+          "id": "B",
+          "text": "0.5033 Mhz"
+        },
+        {
+          "id": "C",
+          "text": "5.033 Khz"
+        },
+        {
+          "id": "D",
+          "text": "5.033 Mhz"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 67,
+      "originalId": 67,
+      "question": "3.73 Mhz deki bir vericinin ikinci harmoniği nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.865 Mhz"
+        },
+        {
+          "id": "B",
+          "text": "7.46 Mhz"
+        },
+        {
+          "id": "C",
+          "text": "10.19 Mhz"
+        },
+        {
+          "id": "D",
+          "text": "Hiçbiri KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 11 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 68,
+      "originalId": 68,
+      "question": "SSB yayınlarını elde etmek için kullanılan metod hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Faz kayd ırma metodu."
+        },
+        {
+          "id": "B",
+          "text": "Filtre metodu."
+        },
+        {
+          "id": "C",
+          "text": "a ve b nin ikiside kullanılır."
+        },
+        {
+          "id": "D",
+          "text": "a ve b nin hiçbiri kullanılmaz."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 69,
+      "originalId": 69,
+      "question": "300 ohm\"luk bir verici antenini alıcımıza 75 ohm değerinde bir koaksiyel kablo ile bağlamak istiyoruz. Araya konulması gereken balun\"un sargı oranı ne olmalıdır ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1:1"
+        },
+        {
+          "id": "B",
+          "text": "1:2"
+        },
+        {
+          "id": "C",
+          "text": "1:4"
+        },
+        {
+          "id": "D",
+          "text": "1:16"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 70,
+      "originalId": 70,
+      "question": "12,5 V luk bir besleme kaynağı, çıkış gücü 90 Watt olan bir güç amplifikatörüne bağlanmıştır. Besleme kaynağından 16 A çekilmektedir. Bu amplifikatörün verimi nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "%45"
+        },
+        {
+          "id": "B",
+          "text": "%55"
+        },
+        {
+          "id": "C",
+          "text": "%100"
+        },
+        {
+          "id": "D",
+          "text": "%222 2H A 2H B 2H"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 71,
+      "originalId": 71,
+      "question": "Yukarıdaki devrenin A ve B uçları arasındaki toplam bobin değeri nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.33 H"
+        },
+        {
+          "id": "B",
+          "text": "3 H"
+        },
+        {
+          "id": "C",
+          "text": "3.5 H"
+        },
+        {
+          "id": "D",
+          "text": "6 H"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 72,
+      "originalId": 72,
+      "question": "Üç farklı değerde kondansatör paralel bağlandığında toplam kapasite ne olur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "En yüksek değerli kapasiteden daha büyük."
+        },
+        {
+          "id": "B",
+          "text": "Üçünün aritmetiksel ortalaması."
+        },
+        {
+          "id": "C",
+          "text": "En düşük değerli kapasiteden daha küçük."
+        },
+        {
+          "id": "D",
+          "text": "En yüksek ve düşük kapasiteli kondansatörler arasında herhangi bir değer."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 73,
+      "originalId": 73,
+      "question": "Aşağıdakilerden hangisi yüksek geçirgen filtredir? C L R R R C L L C C C C",
+      "options": [
+        {
+          "id": "A",
+          "text": ""
+        },
+        {
+          "id": "B",
+          "text": ""
+        },
+        {
+          "id": "C",
+          "text": ""
+        },
+        {
+          "id": "D",
+          "text": "KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 12 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 74,
+      "originalId": 74,
+      "question": "10 uF lık iki kondansatör 10V, 1 Kh z lik bir besleme kaynağına paralel bağlanmıştır. Akım ve gerilim arasındaki faz farkı ne kadardır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0 derece"
+        },
+        {
+          "id": "B",
+          "text": "45 derece"
+        },
+        {
+          "id": "C",
+          "text": "60 derece"
+        },
+        {
+          "id": "D",
+          "text": "90 derece"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 75,
+      "originalId": 75,
+      "question": "Aşağıdakilerden hangi filtre HF vericinin çıkışındaki harmonikleri minimuma indirir? Out Out Out Out 30 Mhz 30 Mhz 30 Mhz 30 Mhz",
+      "options": [
+        {
+          "id": "A",
+          "text": ""
+        },
+        {
+          "id": "B",
+          "text": ""
+        },
+        {
+          "id": "C",
+          "text": ""
+        },
+        {
+          "id": "D",
+          "text": ""
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 76,
+      "originalId": 76,
+      "question": "Aşağıdaki devrelerden hangisi bir mikrofon d evresinde bant genişliğini minimum yapmak için kullanılan bir alçak geçir en filtredir? R R C R L L L L L C C",
+      "options": [
+        {
+          "id": "A",
+          "text": ""
+        },
+        {
+          "id": "B",
+          "text": ""
+        },
+        {
+          "id": "C",
+          "text": ""
+        },
+        {
+          "id": "D",
+          "text": ""
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 77,
+      "originalId": 77,
+      "question": "Aşağıda bir amplifikatör devresi görülmektedir. R2 ve C1 üzerinde akıp D noktasına ulaşan akım hangisidir? A C1 R2 ÇIKIŞ Giriş B D R1",
+      "options": [
+        {
+          "id": "A",
+          "text": "A transistörünün çıkış akımıdır"
+        },
+        {
+          "id": "B",
+          "text": "Negatif geri besleme akımıdır"
+        },
+        {
+          "id": "C",
+          "text": "Yükseltecin giriş akımıdır"
+        },
+        {
+          "id": "D",
+          "text": "Pozitif g eri besleme akımıdır KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 13 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 78,
+      "originalId": 78,
+      "question": "Aşağıdaki modülasyon çeşitlerinden hangisi genlik modülasyonu değildir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Seri modülasyon"
+        },
+        {
+          "id": "B",
+          "text": "Transformatör modülasyonu"
+        },
+        {
+          "id": "C",
+          "text": "Şok modülasyonu"
+        },
+        {
+          "id": "D",
+          "text": "Reaktans modülasyonu"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 79,
+      "originalId": 79,
+      "question": "Şekilde görülen sinyal hakkında ne söylenebilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "% 100 modülelidir"
+        },
+        {
+          "id": "B",
+          "text": "% 50 modülelidir"
+        },
+        {
+          "id": "C",
+          "text": "Modülasyon yüzdesi çok düşüktür"
+        },
+        {
+          "id": "D",
+          "text": "Aşırı modüleli sinyaldir"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 80,
+      "originalId": 80,
+      "question": "Yarım dalga dipol antenin fiziki uzunluğu 81 m. olduğuna göre vericinin yayın frekansı aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "672 Khz"
+        },
+        {
+          "id": "B",
+          "text": "1.8 Mhz"
+        },
+        {
+          "id": "C",
+          "text": "879 Khz"
+        },
+        {
+          "id": "D",
+          "text": "760 Khz"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 81,
+      "originalId": 81,
+      "question": "Şekildeki dedektör devresinin Eo çıkışında elde edilecek esas işaret üzerindeki dalgalanmayı önlemek için aşağıdaki elemanlardan hangisinin seçimi çok önemlidir? Cp Cs R Eo C",
+      "options": [
+        {
+          "id": "A",
+          "text": "C p kapasitesi"
+        },
+        {
+          "id": "B",
+          "text": "C kapasitesi"
+        },
+        {
+          "id": "C",
+          "text": "C s kapasitesi"
+        },
+        {
+          "id": "D",
+          "text": "C kapasitesi ve R direnci KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 14 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 82,
+      "originalId": 82,
+      "question": "Şekildeki devrede köprünün üst ucu (+) ise, ilk yarı dönüşte aşağıdakilerden hangisi doğrudur? D1 D2 - + D3 D4 R",
+      "options": [
+        {
+          "id": "A",
+          "text": "D 3 ve D 4 iletimdedir"
+        },
+        {
+          "id": "B",
+          "text": "D 2 ve D 3 iletimdedir"
+        },
+        {
+          "id": "C",
+          "text": "D 1 ve D 3 iletimdedir"
+        },
+        {
+          "id": "D",
+          "text": "Her dönüşte R L üzerindeki akımın yönü değişir I1 V1 V2 R"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 83,
+      "originalId": 83,
+      "question": "Yukarıdaki devrede V2 voltajının değeri nedir? ( I 1 = 5A, R= 50Ω, n 2 / n 1 = 10 )",
+      "options": [
+        {
+          "id": "A",
+          "text": "100 V"
+        },
+        {
+          "id": "B",
+          "text": "50 V"
+        },
+        {
+          "id": "C",
+          "text": "25 V"
+        },
+        {
+          "id": "D",
+          "text": "12,5 V"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 84,
+      "originalId": 84,
+      "question": "Şekildeki dalga sisteminde A ve B noktaları arasındaki uzaklık 6 metredir. C noktasından dakikada 7800 dalga geçtiğine göre dalganın yayılma hızı nedir? A 6 m B C",
+      "options": [
+        {
+          "id": "A",
+          "text": "780 m/s"
+        },
+        {
+          "id": "B",
+          "text": "130 m/s"
+        },
+        {
+          "id": "C",
+          "text": "1300 m/s"
+        },
+        {
+          "id": "D",
+          "text": "468 m/s KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 15 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 85,
+      "originalId": 85,
+      "question": "Bir kondansatörün değeri yalıtkan maddenin dielektrik sabiti ile hesaplanır. Mikanın dielektrik sabiti 6, kâğıdın ise 2 dir. Mika ve kâğıt dielektrikli kondansatör ler hangi değerler bölgesinde kullanılır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.001 - 1 F"
+        },
+        {
+          "id": "B",
+          "text": "0.001 - 1 μF"
+        },
+        {
+          "id": "C",
+          "text": "0.001 - 1 pF"
+        },
+        {
+          "id": "D",
+          "text": "0.001 - 1 nF"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 86,
+      "originalId": 86,
+      "question": "5 Kh z\"lik bir giriş verilen frekans çoğaltıcıdan 60 K h z\"lik bir çıkış istenirse, aşağıdaki katlardan hangisine ihtiyaç duyulur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 frekans ikileyici ve 1 üçleyici"
+        },
+        {
+          "id": "B",
+          "text": "2 frekans dörtleyici"
+        },
+        {
+          "id": "C",
+          "text": "1 frekans dörtleyici ve 1 ikileyici"
+        },
+        {
+          "id": "D",
+          "text": "1 frekans dörtleyici"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 87,
+      "originalId": 87,
+      "question": "İyonosferde, yaz aylarında en düşük iyonizasyon derecesine sahip tabaka aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "F 2 tabakası"
+        },
+        {
+          "id": "B",
+          "text": "F 1 tabakası"
+        },
+        {
+          "id": "C",
+          "text": "E tabakası"
+        },
+        {
+          "id": "D",
+          "text": "D tabakası"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 88,
+      "originalId": 88,
+      "question": "Şekildeki devrede r ve R bilinmeyen dirençlerdir. A ampermetresinin sıfır göstermesi için R\"nin değeri ne olmalıdır? 2ohm 4ohm 1ohm r A 10V R 8ohm",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 ohm"
+        },
+        {
+          "id": "B",
+          "text": "32 ohm"
+        },
+        {
+          "id": "C",
+          "text": "6 ohm"
+        },
+        {
+          "id": "D",
+          "text": "2,5 ohm"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 89,
+      "originalId": 89,
+      "question": "Şekilde görülen devrede: C1 ̳ 1 ve C eş ̳ 9 μF olduğuna göre , C1 ve C2 yi bulunuz. C2 2 10 C1 2μF 2μF C2",
+      "options": [
+        {
+          "id": "A",
+          "text": "4 ve 8 μF"
+        },
+        {
+          "id": "B",
+          "text": "3 ve 6 μF"
+        },
+        {
+          "id": "C",
+          "text": "1 ve 2 μF"
+        },
+        {
+          "id": "D",
+          "text": "6 ve 12 μF KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 16 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 90,
+      "originalId": 90,
+      "question": "Şekilde görülen değişken direncin (R) değeri kaça ayarlanmalıdır ki 5 ohm\"luk dirençteki güç 20 Watt olsun? 5ohm 20ohm 50V V R",
+      "options": [
+        {
+          "id": "A",
+          "text": "16 ohm"
+        },
+        {
+          "id": "B",
+          "text": "10 ohm"
+        },
+        {
+          "id": "C",
+          "text": "20 ohm"
+        },
+        {
+          "id": "D",
+          "text": "32 ohm"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 91,
+      "originalId": 91,
+      "question": "Hangi tip antenler dörtlü, kısa dalga ve çanaktır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1985\"ten sonra icat edilen antenler"
+        },
+        {
+          "id": "B",
+          "text": "Döngü antenler"
+        },
+        {
+          "id": "C",
+          "text": "Yönlü veya yönlendirilmiş antenler"
+        },
+        {
+          "id": "D",
+          "text": "Amatör telsiz istasyonları için izin verilmeyen antenler"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 92,
+      "originalId": 92,
+      "question": "VHF II bandında (88 -108 Mh z) yayın yapabilmek veya dinlemek için kullanılacak olan bir dipol antenin fiziki uzunluğu nedir? (f=98 Mh z alınız)",
+      "options": [
+        {
+          "id": "A",
+          "text": "145,4 cm"
+        },
+        {
+          "id": "B",
+          "text": "160,9 cm"
+        },
+        {
+          "id": "C",
+          "text": "170,9 cm"
+        },
+        {
+          "id": "D",
+          "text": "106,9 cm"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 93,
+      "originalId": 93,
+      "question": "Taşıyıcı frekansı 7 M hz ola n bir AM istasyon yayınında ses frekansının 7 K h z olması durumunda, yan bant frekanslarının değerlerini hesaplayınız?",
+      "options": [
+        {
+          "id": "A",
+          "text": "7207 - 7193 Khz"
+        },
+        {
+          "id": "B",
+          "text": "7707 - 7693 Khz"
+        },
+        {
+          "id": "C",
+          "text": "7507 - 7493 Khz"
+        },
+        {
+          "id": "D",
+          "text": "7007 - 6993 Khz"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 94,
+      "originalId": 94,
+      "question": "3000 Kh z üzerinden yayın yapan bir istasyon, ara frekansı 350 K h z olan bir alıcıda hayal olarak duyulmaktadır. Dinlenmesi istenen istasyonunun frekansı aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3450 Khz"
+        },
+        {
+          "id": "B",
+          "text": "3700 Khz"
+        },
+        {
+          "id": "C",
+          "text": "2300 Khz"
+        },
+        {
+          "id": "D",
+          "text": "3350 Khz"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 95,
+      "originalId": 95,
+      "question": "B ir telsiz alıcısının seçiciliği:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ayarlandığı frekansın dışındaki frekanslarda alış kabiliyetidir."
+        },
+        {
+          "id": "B",
+          "text": "Ayarlandığı frekansın dışındaki frekansları almama kabiliyetidir."
+        },
+        {
+          "id": "C",
+          "text": "Isıya karşı duyarlılığıdır."
+        },
+        {
+          "id": "D",
+          "text": "Çarpmaya karşı duyarlılığıdır. KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 17 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 96,
+      "originalId": 96,
+      "question": "SSB verici blok şemasında X ile işaretli kat aşağıdakilerden ha ngisidir? X OSC VFO",
+      "image": "assets/questions/teknik/a96.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dengeli modülatör"
+        },
+        {
+          "id": "B",
+          "text": "Kenar band filitre"
+        },
+        {
+          "id": "C",
+          "text": "Taşıyıcı dalga osilatörü"
+        },
+        {
+          "id": "D",
+          "text": "Konvertör"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 97,
+      "originalId": 97,
+      "question": "Bir paralel rezonans devresinde rezonans hal inde devreden geçen toplam akım: Empedans Z f",
+      "image": "assets/questions/teknik/a97.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "Minimum\"dur"
+        },
+        {
+          "id": "B",
+          "text": "Maksimum\"dur"
+        },
+        {
+          "id": "C",
+          "text": "Endüktif\"tir"
+        },
+        {
+          "id": "D",
+          "text": "Kapasitif\"tir"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 98,
+      "originalId": 98,
+      "question": "50 Ohm\"luk bir yük direnci, devamlı dalga vericisin in çıkışına bağlanmıştır. Aşağıdaki şekilde görüldüğü gibi devredeki amperme tre 1,2 A okunduğuna göre göndermecin çıkış gücü kaç Watt\"tır? A Verici 50ohm",
+      "image": "assets/questions/teknik/a98.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "60 W"
+        },
+        {
+          "id": "B",
+          "text": "42 W"
+        },
+        {
+          "id": "C",
+          "text": "72 W"
+        },
+        {
+          "id": "D",
+          "text": "50 W"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 99,
+      "originalId": 99,
+      "question": "Aşağıdaki devrede toplam akım I kaç amperdir? 1A 2A 0.5A 0.5 I",
+      "image": "assets/questions/teknik/a99.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 A"
+        },
+        {
+          "id": "B",
+          "text": "1,5 A"
+        },
+        {
+          "id": "C",
+          "text": "3 A"
+        },
+        {
+          "id": "D",
+          "text": "4 A KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 18 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 100,
+      "originalId": 100,
+      "question": "Bir SWR ölçerdeki hangi değer, anten ve besleme hattı arasında mükemmel bir empedans uyumunu gösterir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1\"e 2"
+        },
+        {
+          "id": "B",
+          "text": "3\"e 1"
+        },
+        {
+          "id": "C",
+          "text": "1\"e 1"
+        },
+        {
+          "id": "D",
+          "text": "1\"e 10"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 101,
+      "originalId": 101,
+      "question": "Gündüz ve gece HF bandında çalışırken frekans seçiminde genel olarak aşağıdakilerden hangisine uyulur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gece alçak, gündüz yüksek frekans kullanılır"
+        },
+        {
+          "id": "B",
+          "text": "Gece yüksek, gündüz alçak frekans kullanılır"
+        },
+        {
+          "id": "C",
+          "text": "Gece, gündüz frekansının yarısı kullanılır"
+        },
+        {
+          "id": "D",
+          "text": "Gündüz, gece frekansının yarısı kullanılır"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 102,
+      "originalId": 102,
+      "question": "Taşıyıcı dalganın frekansı bir ses frekans sinyalinin genliğine bağlı olarak değişirse bu modülasyon:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Genlik modülasyonudur"
+        },
+        {
+          "id": "B",
+          "text": "Frekans modülasyonudur"
+        },
+        {
+          "id": "C",
+          "text": "Pals modülasyonudur"
+        },
+        {
+          "id": "D",
+          "text": "Diversite modülasyonudur"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 103,
+      "originalId": 103,
+      "question": "Aşağıda verilen çıkış akımı hangi yükselteçlere aittir? 1 3 2 4",
+      "options": [
+        {
+          "id": "A",
+          "text": "(I) A sınıfı (II) B sınıfı (III) AB sınıfı (IV) C sınıfı"
+        },
+        {
+          "id": "B",
+          "text": "(I) A sınıfı (II) AB sınıfı (III) B sınıfı (IV) C sınıfı"
+        },
+        {
+          "id": "C",
+          "text": "(I) C sınıfı (II) AB sınıfı (III) B sınıfı (IV) A sınıfı"
+        },
+        {
+          "id": "D",
+          "text": "(I) A sınıfı (II) C sınıfı (III) B sınıfı (IV) AB sınıfı KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 19 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 104,
+      "originalId": 104,
+      "question": "Üç elemanlı Yagi antende elemanlar aynı uzunlukta değildir. En uzundan en kısaya göre sıralarsak:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yansıtıcı, Dipol, Yönlendirici"
+        },
+        {
+          "id": "B",
+          "text": "Dipol, Yansıtıcı, Yönlendirici"
+        },
+        {
+          "id": "C",
+          "text": "Yönlendirici, Dipol, Yansıtıcı"
+        },
+        {
+          "id": "D",
+          "text": "Yansıtıcı, Yönlendirici, Dipol"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 105,
+      "originalId": 105,
+      "question": "Aşağıdaki şekli verilmiş genlik bindiriminin modülasyon endeksi kaçtır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Seçenek A"
+        },
+        {
+          "id": "B",
+          "text": "Seçenek B"
+        },
+        {
+          "id": "C",
+          "text": "Seçenek C"
+        },
+        {
+          "id": "D",
+          "text": "Seçenek D"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 106,
+      "originalId": 106,
+      "question": "R ohm\"luk bir direnç üzerine frekans modülasyonunun oluşturacağı güç hangi formülle ifade edilir? ( Ac taşıyıcı genliği) 2 2 2",
+      "options": [
+        {
+          "id": "A",
+          "text": "(Ac) / 2R"
+        },
+        {
+          "id": "B",
+          "text": "/ 2R"
+        },
+        {
+          "id": "C",
+          "text": "/ 2R b) (Ac) / 4R c) Ac / 2R"
+        },
+        {
+          "id": "D",
+          "text": "Ac(rms) R"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 107,
+      "originalId": 107,
+      "question": "Aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "FM\"de taşıyıcı frekans modüle eden sinyalin frekansından büyüktür"
+        },
+        {
+          "id": "B",
+          "text": "FM \"de çıkış katı lineer olmalıdır"
+        },
+        {
+          "id": "C",
+          "text": "Modüle eden sinyalin genliğine göre taşıyıcı frekansı değişiyorsa genlik modülasyonudur"
+        },
+        {
+          "id": "D",
+          "text": "FM\"de modüle eden sinyalin frekansı taşıyıcı frekansından büyük olmak zorundadır"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 108,
+      "originalId": 108,
+      "question": "0.2 H endüktansa sahip olan bir şok bobininin 100 Hz\"deki reaktansı yaklaşık olarak kaçtır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.250 ohm"
+        },
+        {
+          "id": "B",
+          "text": "400 ohm"
+        },
+        {
+          "id": "C",
+          "text": "125 ohm"
+        },
+        {
+          "id": "D",
+          "text": "40 ohm KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 20 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 109,
+      "originalId": 109,
+      "question": "Aşağıdaki devrede AC kazancı arttırmak için ne yapmalıdır? + VCC R1 RC VO R2 RE",
+      "image": "assets/questions/teknik/a109.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rc\"nin değerini azaltmak"
+        },
+        {
+          "id": "B",
+          "text": "Re \"nin değerini arttırmak"
+        },
+        {
+          "id": "C",
+          "text": "Rc\"ye paralel bir kapasite bağlamak"
+        },
+        {
+          "id": "D",
+          "text": "Re\"ye paralel bir kapasite bağlamak"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 110,
+      "originalId": 110,
+      "question": "0.1 H\"lik bir bobinin tel direnci 10 ohm\"dur. 50 Hz\"de bu bobinin eşdeğer empedansı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "32.97 ohm"
+        },
+        {
+          "id": "B",
+          "text": "3297 ohm"
+        },
+        {
+          "id": "C",
+          "text": "1000 ohm"
+        },
+        {
+          "id": "D",
+          "text": "10 ohm"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 111,
+      "originalId": 111,
+      "question": "D engeli modülatör çıkışında : (SSB vericid",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tam taşıyıcı ve iki yan band vardır"
+        },
+        {
+          "id": "B",
+          "text": "Tam taşıyıcı ve tek yan band vardır"
+        },
+        {
+          "id": "C",
+          "text": "B astırılmış taşıyıcı ve iki yan band vardır"
+        },
+        {
+          "id": "D",
+          "text": "a) Tam taşıyıcı ve iki yan band vardır b) Tam taşıyıcı ve tek yan band vardır c) B astırılmış taşıyıcı ve iki yan band vardır"
+        },
+        {
+          "id": "E",
+          "text": "a) Tam taşıyıcı ve iki yan band vardır b) Tam taşıyıcı ve tek yan band vardır c) B astırılmış taşıyıcı ve iki yan band vardır d) Taşıyıcı yoktur ve tek yan band vardır"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 112,
+      "originalId": 112,
+      "question": "Şekilde λ /2 uzunluğunda bir katlanmış dipol görünmektedir. Çubuk çapı her yerde aynı olduğuna göre, A ve B uçlarından görünen empedans nedir? /2 /4 A B",
+      "image": "assets/questions/teknik/a112.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "75 ohm"
+        },
+        {
+          "id": "B",
+          "text": "50 ohm"
+        },
+        {
+          "id": "C",
+          "text": "600 ohm"
+        },
+        {
+          "id": "D",
+          "text": "300 ohm KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 21 ~ [PAGE_BREAK] R1 R2 - + + - 1ohm 2ohm E1=2V E2=4V I R=5ohm"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 113,
+      "originalId": 113,
+      "question": "Şekildeki devreden geçen akım kaç Amperdir?",
+      "image": "assets/questions/teknik/a113.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "0,50 A"
+        },
+        {
+          "id": "B",
+          "text": "0,75 A"
+        },
+        {
+          "id": "C",
+          "text": "0,25 A"
+        },
+        {
+          "id": "D",
+          "text": "1,25 A"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 114,
+      "originalId": 114,
+      "question": "Şekilde görülen devre elemanı aşağıdakilerden hangisidir?",
+      "image": "assets/questions/teknik/a114.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "Zener diyot"
+        },
+        {
+          "id": "B",
+          "text": "Triyak"
+        },
+        {
+          "id": "C",
+          "text": "Tün el diyot"
+        },
+        {
+          "id": "D",
+          "text": "Kapasitif diyot"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 115,
+      "originalId": 115,
+      "question": "Aşağıdakilerden hangisi merkez beslemeli yarım dalga dipol antendeki gerilim ve akım diyagramıdır?",
+      "options": [
+        {
+          "id": "A",
+          "text": ""
+        },
+        {
+          "id": "B",
+          "text": ""
+        },
+        {
+          "id": "C",
+          "text": ""
+        },
+        {
+          "id": "D",
+          "text": "- + + - + - + - 15ohm + - + - + - + - + - + - + -"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 116,
+      "originalId": 116,
+      "question": "Şekildeki devrede her birinin iç direnci 1 ve emk\"sı 6 volt olan özdeş üreteçler bulunmaktadır. Devrede 15 ohm\"luk dirençten geçen akım şiddeti kaç amperdir?",
+      "image": "assets/questions/teknik/a116.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 A"
+        },
+        {
+          "id": "B",
+          "text": "2 A"
+        },
+        {
+          "id": "C",
+          "text": "3 A"
+        },
+        {
+          "id": "D",
+          "text": "4 A KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 22 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 117,
+      "originalId": 117,
+      "question": "Radyo ufku ne demektir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "İki nokta arasındaki radyo sinyallerinin yerin eğimi tarafından bloklandığı nokta"
+        },
+        {
+          "id": "B",
+          "text": "Yerden yatay olarak monte edilmiş antene kadar olan mesafe"
+        },
+        {
+          "id": "C",
+          "text": "Anten kulenizin tabanında dururken görebileceğ iniz en uzak nokta"
+        },
+        {
+          "id": "D",
+          "text": "Yer yüzeyinde iki nokta arasındaki en kısa mesafe"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 118,
+      "originalId": 118,
+      "question": "15 pf\"lık kondansatör ile oluşturulan seri rezonans devresinde frekans 28.2 M h z\"e ayarlanmıştır. L sabit olmak üzere rezonans frekansını 14.100 M h z\"e indirmek için mev cut kondansatöre kaç pf\"lık kondansatör, ne şekilde bağlanmalıdır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "45 pf, seri"
+        },
+        {
+          "id": "B",
+          "text": "45 pf, paralel"
+        },
+        {
+          "id": "C",
+          "text": "60 pf, seri"
+        },
+        {
+          "id": "D",
+          "text": "60 pf, paralel"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 119,
+      "originalId": 119,
+      "question": "λ dalga boyu uzunluğunun metre değeri, f frekansının Hertz değeri ise, bir radyo dalgasının dalga boyu uzunluğunu veren formül aşağıdakilerden hangisidir? 6 8 10 5",
+      "options": [
+        {
+          "id": "A",
+          "text": "3x10"
+        },
+        {
+          "id": "B",
+          "text": "3x10"
+        },
+        {
+          "id": "C",
+          "text": "3x10"
+        },
+        {
+          "id": "D",
+          "text": "3x10 f f f f"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 120,
+      "originalId": 120,
+      "question": "λ /2 dipol antenin fiziksel boyu, hesaplanan elektriksel dalga boyundan yaklaşık % 5 daha küçüktür. Bunun sebebi aşağıdakilerden hangisidir ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Uzayı yüksek dielektrik sabitindendir."
+        },
+        {
+          "id": "B",
+          "text": "Antenin empedansının rezistif olması içindir."
+        },
+        {
+          "id": "C",
+          "text": "Atmosferin oksijen içermesindendir."
+        },
+        {
+          "id": "D",
+          "text": "Hattaki yayınım hızı uzaydaki yayınım hızından düşüktür."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 121,
+      "originalId": 121,
+      "question": "Merkezden beslemeli yarım dalga dipol antenin empedansı kaç Ω\" dur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "37 Ω"
+        },
+        {
+          "id": "B",
+          "text": "50 Ω"
+        },
+        {
+          "id": "C",
+          "text": "73 Ω"
+        },
+        {
+          "id": "D",
+          "text": "300 Ω 20ohm 140 V + 4ohm 5ohm 18 A -"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 122,
+      "originalId": 122,
+      "question": "Şekildeki devrede 4 Ω\"luk direncinin uçlarındaki gerilim kaç volt\"tur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "50 V"
+        },
+        {
+          "id": "B",
+          "text": "60 V"
+        },
+        {
+          "id": "C",
+          "text": "70 V"
+        },
+        {
+          "id": "D",
+          "text": "80 V KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 23 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 123,
+      "originalId": 123,
+      "question": "Bir vericinin çıkış gücü 100 Watt\"tır. Bu vericiye; kazancı 11 dB olan bir anten, 1dB kaybı olan koaksiyel kablo ile bağlandığında anten çıkış gücü (ERP) kaç watt\"tır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "11 W"
+        },
+        {
+          "id": "B",
+          "text": "1,1 W"
+        },
+        {
+          "id": "C",
+          "text": "1000 W"
+        },
+        {
+          "id": "D",
+          "text": "2000 W"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 124,
+      "originalId": 124,
+      "question": "Şekildeki devre aşağıdakilerden hangisidir?",
+      "image": "assets/questions/teknik/a124.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "Elektrostatik akort devresi"
+        },
+        {
+          "id": "B",
+          "text": "Kapasitif akort devresi"
+        },
+        {
+          "id": "C",
+          "text": "Magnetik kuplajlı akort devresi"
+        },
+        {
+          "id": "D",
+          "text": "Rezistif akort devresi"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 125,
+      "originalId": 125,
+      "question": "Şekildeki devre aşağıdakilerden hangisidir? + 10mf + 33K + 10mf giris + BC337 + 10mf",
+      "image": "assets/questions/teknik/a125.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "Seçenek A"
+        },
+        {
+          "id": "B",
+          "text": "Seçenek B"
+        },
+        {
+          "id": "C",
+          "text": "Seçenek C"
+        },
+        {
+          "id": "D",
+          "text": "Seçenek D"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 126,
+      "originalId": 126,
+      "question": "Yukarıdaki semboller ile gösterilen transistörlerin sırası ile dizilimi aşağıdakilerden hangisidir?",
+      "image": "assets/questions/teknik/a126.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "PNP"
+        },
+        {
+          "id": "B",
+          "text": "NPN"
+        },
+        {
+          "id": "C",
+          "text": "NPN"
+        },
+        {
+          "id": "D",
+          "text": "NPN NPN PNP PNP FET FET FET MOSFET MOSFET MOSFET MOSFET FET PNP KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 24 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 127,
+      "originalId": 127,
+      "question": "VHF ve UHF radyo sinyalleri hangi tür radyasyondur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gama radyasyonu"
+        },
+        {
+          "id": "B",
+          "text": "İyonlaştırıcı radya syon"
+        },
+        {
+          "id": "C",
+          "text": "Alfa radyasyonu"
+        },
+        {
+          "id": "D",
+          "text": "İyonlaştırıcı olmayan radyasyon"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 128,
+      "originalId": 128,
+      "question": "Siz iletim yapıyorken birisi kaza ile anteninize dokunursa ne olabilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Antene dokunmak televizyon karışımına neden olabilir"
+        },
+        {
+          "id": "B",
+          "text": "Ağrılı bir RF yanık yarası alabilirler"
+        },
+        {
+          "id": "C",
+          "text": "Ne söylediğinizi duyabilirler"
+        },
+        {
+          "id": "D",
+          "text": "Hiçbiri X C X L R 10ohm 22ohm 5ohm"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 129,
+      "originalId": 129,
+      "question": "Şekildeki RLC devresinin empedansını bulunuz?",
+      "image": "assets/questions/teknik/a129.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "32 Ω"
+        },
+        {
+          "id": "B",
+          "text": ".33 Ω"
+        },
+        {
+          "id": "C",
+          "text": "13 Ω"
+        },
+        {
+          "id": "D",
+          "text": "14 Ω"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 130,
+      "originalId": 130,
+      "question": "Gece boyunca iyonosferde kaç f tabakası bulunur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 131,
+      "originalId": 131,
+      "question": "Bir amplifikatör devresinin girişindeki sinyal değeri 500 mW, çıkışındaki sinyal değeri 50 W ise bu devrenin güç kazancı kaç dB\" dir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0,5 dB"
+        },
+        {
+          "id": "B",
+          "text": "5 dB"
+        },
+        {
+          "id": "C",
+          "text": "20 dB"
+        },
+        {
+          "id": "D",
+          "text": "100 dB"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 132,
+      "originalId": 132,
+      "question": "Bir bobinin değeri 100 mH\"dir. Bu bobin 220V gerilim altında 50 Hz\"lik bir frekansta ne kadar Reaktans gösterir. (π =3)",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 ohm"
+        },
+        {
+          "id": "B",
+          "text": "20 ohm"
+        },
+        {
+          "id": "C",
+          "text": "30 ohm"
+        },
+        {
+          "id": "D",
+          "text": "50 ohm KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 25 ~ [PAGE_BREAK] + C L f R1 1 1 if + R2 R3"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 133,
+      "originalId": 133,
+      "question": "Yukarıdaki şekilde görülen devre MOSFET mikser devresidir. Bu devrede L 1 ve C 1 \"in ayarı ile aşağıdakilerden han gisi ayarlanır?",
+      "image": "assets/questions/teknik/a133.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "RF sinyal frekansı"
+        },
+        {
+          "id": "B",
+          "text": "Ara frekansı ( IF )"
+        },
+        {
+          "id": "C",
+          "text": "Osilatör frekansı"
+        },
+        {
+          "id": "D",
+          "text": "Hayal frekansı"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 134,
+      "originalId": 134,
+      "question": "Aşağıdakilerden hangisi bir Genlik Modülasyonlu (AM) verici katlarından değild ir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Osilatör katı"
+        },
+        {
+          "id": "B",
+          "text": "Modülatör katı"
+        },
+        {
+          "id": "C",
+          "text": "RF Amp. katı"
+        },
+        {
+          "id": "D",
+          "text": "Linear Amp. Katı"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 135,
+      "originalId": 135,
+      "question": "Aşağıdaki şekilde görülen filtre devresi için aşağıdakilerden hangisi doğru dur? C2 C3 V giriş L1 V çıkış C1",
+      "image": "assets/questions/teknik/a135.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alçak geçiren filtre"
+        },
+        {
+          "id": "B",
+          "text": "Band geçiren filtre"
+        },
+        {
+          "id": "C",
+          "text": "Yüksek geçiren filtre"
+        },
+        {
+          "id": "D",
+          "text": "Aktif filtredir"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 136,
+      "originalId": 136,
+      "question": "Zener diyodun kullanılmasının ana amacı ne dir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "RF deteksiyonu"
+        },
+        {
+          "id": "B",
+          "text": "Kazanç elde etme"
+        },
+        {
+          "id": "C",
+          "text": "Gürültüyü azaltma"
+        },
+        {
+          "id": "D",
+          "text": "Sabit gerilim elde etme KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 26 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 137,
+      "originalId": 137,
+      "question": "Varaktör diyot ne tip diyottur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Değişken voltaj değerleri ile kapasite değerini değişt iren diyottur."
+        },
+        {
+          "id": "B",
+          "text": "Voltaj regülatör devrelerinde kullanılır."
+        },
+        {
+          "id": "C",
+          "text": "Osilatör akımı kararlığını sağlamak için kullanılır."
+        },
+        {
+          "id": "D",
+          "text": "Üç yönlü olup kontrol devrelerinde kullanılır."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 138,
+      "originalId": 138,
+      "question": "Silisyumdan yapılmış bir transistör devresinde \"Beyz - Emiter\" gerilim değeri nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.2 V"
+        },
+        {
+          "id": "B",
+          "text": "0.7 V"
+        },
+        {
+          "id": "C",
+          "text": "0.5 V"
+        },
+        {
+          "id": "D",
+          "text": "1 V"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 139,
+      "originalId": 139,
+      "question": "Aşağıdakilerden hangileri transistörün elemanlarıdır? I- Emiter II- Gate III- Kollektör IV- Konnektör V- Beyz VI- Osilatör",
+      "options": [
+        {
+          "id": "A",
+          "text": "I-III-V"
+        },
+        {
+          "id": "B",
+          "text": "I-II-IV"
+        },
+        {
+          "id": "C",
+          "text": "II-VI"
+        },
+        {
+          "id": "D",
+          "text": "II-III-V"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 140,
+      "originalId": 140,
+      "question": "Elekt ronik devrelerde \"Phase Locked Loop\" (PLL) devresi hangi amaçla kullanılır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dengeli modülatör"
+        },
+        {
+          "id": "B",
+          "text": "Frekans sentezleme"
+        },
+        {
+          "id": "C",
+          "text": "Faz sınırlayıcı"
+        },
+        {
+          "id": "D",
+          "text": "Demodülatör"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 141,
+      "originalId": 141,
+      "question": "Şekildeki devrede akım kazancı 10 olduğuna göre, transistörü doyuma götüren en küçük Beyz akımının değeri nedir? 10V 2Kohm I",
+      "image": "assets/questions/teknik/a141.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5 mA"
+        },
+        {
+          "id": "B",
+          "text": "0.05 mA"
+        },
+        {
+          "id": "C",
+          "text": "5 mA"
+        },
+        {
+          "id": "D",
+          "text": "20 KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 27 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 142,
+      "originalId": 142,
+      "question": "Şekildeki devrenin çıkışındaki gerilim ve akım değeri nedir? (Diyot eşik değeri 0.5V) 6V Vç 5Kohm Iç",
+      "image": "assets/questions/teknik/a142.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "6 V, 5 ma"
+        },
+        {
+          "id": "B",
+          "text": "5 V, 5 ma"
+        },
+        {
+          "id": "C",
+          "text": "5 V, 1 ma"
+        },
+        {
+          "id": "D",
+          "text": "12 V, 5 ma"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 143,
+      "originalId": 143,
+      "question": "Şekildeki işlemsel amplifikatörde gerilim kazancı neye eşittir? R2 R1 - Vg + Vç",
+      "options": [
+        {
+          "id": "A",
+          "text": "A = R1+R2"
+        },
+        {
+          "id": "B",
+          "text": "A = R2 / R1"
+        },
+        {
+          "id": "C",
+          "text": "A = - R1 / R2"
+        },
+        {
+          "id": "D",
+          "text": "A = - R2 / R1"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 144,
+      "originalId": 144,
+      "question": "Maksimum 10 Amp. ölçebilen bir Ampermetre ile 50 Amp. akım ölçülmek isteniyor. Ampermetrenin iç direnci 20 ohm olduğuna göre yapılması gereken işlem nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 Ω luk direnç seri bağlanır."
+        },
+        {
+          "id": "B",
+          "text": "10 Ω luk direnç paralel bağlanır."
+        },
+        {
+          "id": "C",
+          "text": "15 Ω luk direnç seri bağlanır."
+        },
+        {
+          "id": "D",
+          "text": "5 Ω luk direnç paralel bağlanır."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 145,
+      "originalId": 145,
+      "question": "Ara frekans (IF) değeri 10.5Mhz olan bir süperheterodin alıcı 20 - 27 Mhz bandında çalışmaktadır. Bu cihazın osilatör frekans aralığı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "30.5 - 37.5 Mhz"
+        },
+        {
+          "id": "B",
+          "text": "20.5 - 27.5 Mhz"
+        },
+        {
+          "id": "C",
+          "text": "41 - 48 Mhz"
+        },
+        {
+          "id": "D",
+          "text": "20 - 27 Mhz"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 146,
+      "originalId": 146,
+      "question": "Kapasitif diyotların kapasite değeri hangi parametreye göre değişir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gerilim"
+        },
+        {
+          "id": "B",
+          "text": "Akım"
+        },
+        {
+          "id": "C",
+          "text": "Frekans"
+        },
+        {
+          "id": "D",
+          "text": "Güç KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 28 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 147,
+      "originalId": 147,
+      "question": "Bir radyo dalgasının dalga boyunun frekansı ile nasıl bir ilişkisi vardır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Frekans arttıkça dalga boyu uzar"
+        },
+        {
+          "id": "B",
+          "text": "Frekans arttıkça dalga boyu kısalır"
+        },
+        {
+          "id": "C",
+          "text": "Frekans ile dalga boyu arasında ilişki yoktur"
+        },
+        {
+          "id": "D",
+          "text": "Dalga boyu, sin yalin bant genişliğine bağlıdır"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 148,
+      "originalId": 148,
+      "question": "Frekansı metre olarak dalga boyuna çeviren formül aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Metre olarak dalga boyu, 300\"le çarpılmış Hertz birimindeki frekansa eşittir"
+        },
+        {
+          "id": "B",
+          "text": "Metre olarak dalga boyu, Hertz birim indeki frekansın 300\"e bölünmesine eşittir"
+        },
+        {
+          "id": "C",
+          "text": "Metre olarak dalga boyu, Megahertz birimindeki frekansın 300\"e bölünmesine eşittir"
+        },
+        {
+          "id": "D",
+          "text": "Metre olarak dalga boyu, 300\"ün Megahertz birimindeki frekansa bölünmesine eş ittir"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 149,
+      "originalId": 149,
+      "question": "Alternatif bir akımı, düşük voltajlı doğru bir akıma dönüştürmek için hangi cihaz kullanılır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "İnverter"
+        },
+        {
+          "id": "B",
+          "text": "Kompresör"
+        },
+        {
+          "id": "C",
+          "text": "Güç kaynağı"
+        },
+        {
+          "id": "D",
+          "text": "Demodulator"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 150,
+      "originalId": 150,
+      "question": "Her bataryanın aynı fiziksel büyüklüğe sahip olduğunu farz ederek, bir el telsizi ile birlikte kullanıldığında aşağıda listelenmiş batarya tiplerinden hangisi en uzun ömrü sağlar?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kurşun - asit"
+        },
+        {
+          "id": "B",
+          "text": "Alkalin"
+        },
+        {
+          "id": "C",
+          "text": "Nikel-kadmiyum"
+        },
+        {
+          "id": "D",
+          "text": "Lityum-iyon"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 151,
+      "originalId": 151,
+      "question": "Bir bataryadan mümkün olan en fazla enerjiyi elde etmenin en iyi yolu aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bataryadan mümkün olan en hızlı biçimde akım çekmek"
+        },
+        {
+          "id": "B",
+          "text": "Bataryadan gereken en düşük oranda akım çekmek"
+        },
+        {
+          "id": "C",
+          "text": "Batarya ½ şarj seviyesine ulaştığında, kutupları değiştirmek"
+        },
+        {
+          "id": "D",
+          "text": "Bataryayı mümkün olduğunca sık şarj etmek KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 29 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 152,
+      "originalId": 152,
+      "question": "Aşağıdaki ölçme birimlerinden hangisi RF radyasyonuna maruz kalmayı ölçmek için kullanılır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sant imetre kare başına milivatt"
+        },
+        {
+          "id": "B",
+          "text": "Metre kare başına megaohm"
+        },
+        {
+          "id": "C",
+          "text": "Foot (ayak) başına mikrofarad"
+        },
+        {
+          "id": "D",
+          "text": "Saniye başına megahertz"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 153,
+      "originalId": 153,
+      "question": "2 ohm\" luk bir rezistansın içinden 0.5 amperlik bir akım geçerse, voltaj değeri ne olur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 volt"
+        },
+        {
+          "id": "B",
+          "text": "0.25 volt"
+        },
+        {
+          "id": "C",
+          "text": "2.5 volt"
+        },
+        {
+          "id": "D",
+          "text": "1.5 volt"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 154,
+      "originalId": 154,
+      "question": "10 ohm\" luk bir rezistansın içinden 2 amperlik bir akım geçerse, voltaj değeri ne olur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "20 volt"
+        },
+        {
+          "id": "B",
+          "text": "0.2 volt"
+        },
+        {
+          "id": "C",
+          "text": "12 volt"
+        },
+        {
+          "id": "D",
+          "text": "8 volt"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 155,
+      "originalId": 155,
+      "question": "100 ohm\" luk bir rezistansın uçlarındaki gerilim 200 V olduğuna göre, rezistansın içinden geçen akım nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "20.000 amper"
+        },
+        {
+          "id": "B",
+          "text": "0.5 amper"
+        },
+        {
+          "id": "C",
+          "text": "2 amper"
+        },
+        {
+          "id": "D",
+          "text": "100 amper"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 156,
+      "originalId": 156,
+      "question": "24 ohm\" luk bir rezistansın uçlarındaki gerilim 240 V olduğuna göre, rezistansın içinden geçen akım nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "24.000 amper"
+        },
+        {
+          "id": "B",
+          "text": "0.1 amper"
+        },
+        {
+          "id": "C",
+          "text": "10 amper"
+        },
+        {
+          "id": "D",
+          "text": "216 amper"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 157,
+      "originalId": 157,
+      "question": "Bir DC devresindeki elektrik gücünü ölçmek için hangi formül kullanılır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Güç (P), voltajın (E) akım (I) ile çarpımına eşittir"
+        },
+        {
+          "id": "B",
+          "text": "Güç (P), voltajın (E) akıma (I) bölünmesine eşittir"
+        },
+        {
+          "id": "C",
+          "text": "Güç (P), voltajdan (E) akımın (I) çıkarılmasına eşittir"
+        },
+        {
+          "id": "D",
+          "text": "akım (I) ile çarpımına eşittir b) Güç (P), voltajın (E) akıma (I) bölünmesine eşittir c) Güç (P), voltajdan (E) akımın (I) çıkarılmasına eşittir"
+        },
+        {
+          "id": "E",
+          "text": "akım (I) ile çarpımına eşittir b) Güç (P), voltajın (E) akıma (I) bölünmesine eşittir c) Güç (P), voltajdan (E) akımın (I) çıkarılmasına eşittir d) Güç (P), voltaja (E) akımın (I) eklenmesine eşittir KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 30 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 158,
+      "originalId": 158,
+      "question": "13.8 DC volt\" luk bir voltaj ve 10 amperlik bir akım ne kadarlık bir güç anlamına gelir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "138 watt"
+        },
+        {
+          "id": "B",
+          "text": "0.7 watt"
+        },
+        {
+          "id": "C",
+          "text": "23.8 watt"
+        },
+        {
+          "id": "D",
+          "text": "3.8 watt"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 159,
+      "originalId": 159,
+      "question": "Voltajın 120 volt DC ve akımın 2.5 amper olduğu bir devrede ne kadarlık bir güç kullanılmıştır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1440 watt"
+        },
+        {
+          "id": "B",
+          "text": "300 watt"
+        },
+        {
+          "id": "C",
+          "text": "48 watt"
+        },
+        {
+          "id": "D",
+          "text": "30 watt"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 160,
+      "originalId": 160,
+      "question": "Gönderim yaparken, vericiniz tarafından kaç watt çekildiğini nasıl belirlersiniz?",
+      "options": [
+        {
+          "id": "A",
+          "text": "DC voltajını ölçün ve bunu 60 Hz\"e bölün"
+        },
+        {
+          "id": "B",
+          "text": "Elektrik fişindeki sigortayı, hangi büyüklükte olduğunu görmek için kontrol edin"
+        },
+        {
+          "id": "C",
+          "text": "Vericideki AC voltajını ölçün ve gönderim yaptığınızda çekilen akımla çarpın"
+        },
+        {
+          "id": "D",
+          "text": "Vericideki DC voltajını ölçün ve gönderim yaptığınızda çekilen akımla çarpın"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 161,
+      "originalId": 161,
+      "question": "Kaç mili amper, 1.5 ampere eşittir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "15 miliamper"
+        },
+        {
+          "id": "B",
+          "text": "150 miliamper"
+        },
+        {
+          "id": "C",
+          "text": "1500 miliamper"
+        },
+        {
+          "id": "D",
+          "text": "15000 miliamper"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 162,
+      "originalId": 162,
+      "question": "1.500.000 Hertz\"de salınan b ir tel siz sinyalinin frekansını belirlemenin bir diğer yolu nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1500 Khz"
+        },
+        {
+          "id": "B",
+          "text": "1500 Mhz"
+        },
+        {
+          "id": "C",
+          "text": "15 Ghz"
+        },
+        {
+          "id": "D",
+          "text": "150 Khz"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 163,
+      "originalId": 163,
+      "question": "Genel anlamıyla, duran dalga oranı (SWR) nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bir gücün bir vericiyle ne kadar iyi eşleştiğinin ölçümüdür"
+        },
+        {
+          "id": "B",
+          "text": "Bir besleme hattında yüksek empedansın alçak empedansa oranıdır"
+        },
+        {
+          "id": "C",
+          "text": "Verici etkinlik oranı"
+        },
+        {
+          "id": "D",
+          "text": "İstasyon yer bağlantınızın kalitesinin bir göstergesidir KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 31 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 164,
+      "originalId": 164,
+      "question": "Bir mikrovolt kaç volttur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bir volt\"un milyonda biri"
+        },
+        {
+          "id": "B",
+          "text": "1 milyon volt"
+        },
+        {
+          "id": "C",
+          "text": "1000 kilovat"
+        },
+        {
+          "id": "D",
+          "text": "Bir volt\"un binde biri"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 165,
+      "originalId": 165,
+      "question": "Yönlendirilmiş anten nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Metal profillerden yapılmış bir anten"
+        },
+        {
+          "id": "B",
+          "text": "Tüm yönlerde eşit derecede gönderen ve alan bir anten"
+        },
+        {
+          "id": "C",
+          "text": "Bir yöndeki sinyallere odaklanmış bir anten"
+        },
+        {
+          "id": "D",
+          "text": "Alınan sinyallerin fazını tersine çeviren bir anten"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 166,
+      "originalId": 166,
+      "question": "Gürültülü bir bölgede, sinyalleri almanıza yardımcı olması için sıradan bir hoparlör yerine ne kullanabilirsiniz?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bir video ekranı"
+        },
+        {
+          "id": "B",
+          "text": "Bir alçak geçitli süzgeç"
+        },
+        {
+          "id": "C",
+          "text": "Bir kulaklık seti"
+        },
+        {
+          "id": "D",
+          "text": "Bir mikrofon vinci"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 167,
+      "originalId": 167,
+      "question": "Haberleşme teçhizatı için ayarlı bir güç kaynağı kullanmanın sebebi nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Teçhizatı voltaj dalgalan malarından korumak"
+        },
+        {
+          "id": "B",
+          "text": "Aşırı akımdan korumak"
+        },
+        {
+          "id": "C",
+          "text": "Sigorta veya devre kesicisi gücü ayarlar"
+        },
+        {
+          "id": "D",
+          "text": "Ayarlı kaynaklar daha ucuzdur"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 168,
+      "originalId": 168,
+      "question": "Parazit yayınları azaltmak için filtre nereye yerleştirilmelidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vericiye"
+        },
+        {
+          "id": "B",
+          "text": "Alıcıya"
+        },
+        {
+          "id": "C",
+          "text": "Güç kaynağı istasyonuna"
+        },
+        {
+          "id": "D",
+          "text": "Mikrofona"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 169,
+      "originalId": 169,
+      "question": "Yarım dalgalı çift kutup antenin fiziksel boyutu çalışma frekansıyla nasıl değişir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Frekans arttığında daha uzun olur"
+        },
+        {
+          "id": "B",
+          "text": "Daha fazla güç işlemek zorunda olduğundan daha büyük yapılmalıdır"
+        },
+        {
+          "id": "C",
+          "text": "Frekans arttığında daha kısa olur"
+        },
+        {
+          "id": "D",
+          "text": "Frekans azaldığında daha kısa olur KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 32 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 170,
+      "originalId": 170,
+      "question": "Hangi yayım türü en dar band genişliğine sahiptir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "FM ses"
+        },
+        {
+          "id": "B",
+          "text": "SSB ses"
+        },
+        {
+          "id": "C",
+          "text": "CW"
+        },
+        {
+          "id": "D",
+          "text": "Yavaş taramalı TV"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 171,
+      "originalId": 171,
+      "question": "Tek yan bantlı ses sinyalinin yaklaşık bant genişliği nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 Khz"
+        },
+        {
+          "id": "B",
+          "text": "2 Khz"
+        },
+        {
+          "id": "C",
+          "text": "3 ve 6 Khz arası"
+        },
+        {
+          "id": "D",
+          "text": "2 ve 3 Khz arası"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 172,
+      "originalId": 172,
+      "question": "Mobil olarak çalıştırıldığında iyi bir verim sunan ve kolayca kurulup kaldırılabilen anten türü hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mikrodalga anten"
+        },
+        {
+          "id": "B",
+          "text": "Dörtlü anten"
+        },
+        {
+          "id": "C",
+          "text": "Yürüyen dalga anteni"
+        },
+        {
+          "id": "D",
+          "text": "Mıknatıslı dikey anten KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 33 ~ [PAGE_BREAK] A - B - SINIFI TEKNİK SORULARI CEVAP ANAHTARI 1 A 31 C 61 B 91 C 121 C 151 B 2 A 32 C 62 A 92 A 122 A 152 A 3 B 33 A 63 D 93 D 123 C 153 A 4 A 34 B 64 B 94 C 124 C 154 A 5 D 35 D 65 A 95 B 125 A 155 C 6 D 36 D 66 B 96 A 126 B 156 C 7 B 37 B 67 B 97 A 127 D 157 A 8 A 38 D 68 C 98 C 128 B 158 A 9 A 39 C 69 B 99 C 129 C 159 B 10 A 40 A 70 A 100 C 130 A 160 D 11 C 41 B 71 B 101 A 131 D 161 C 12 B 42 D 72 A 102 B 132 C 162 A 13 B 43 C 73 B 103 A 133 B 163 A 14 A 44 C 74 D 104 A 134 D 16 4 A 15 A 45 A 75 B 105 C 135 C 165 C 16 D 46 C 76 A 106 A 136 D 166 C 17 D 47 D 77 B 107 A 137 A 167 A 18 C 48 C 78 D 108 C 138 B 168 A 19 B 49 D 79 D 109 D 139 A 169 C 20 D 50 C 80 B 110 A 140 B 170 C 21 B 51 B 81 D 111 C 141 A 171 D 22 A 52 B 82 B 112 D 142 C 172 D 23 A 53 C 83 C 113 C 143 D 24 C 54 C 84 A 114 B 144 D 25 D 55 C 85 D 115 C 145 A 26 D 56 B 86 A 116 C 146 A 27 C 57 A 87 D 117 A 147 B 28 B 58 A 88 B 118 B 148 D 29 D 59 D 89 B 119 B 149 C 30 C 60 A 90 A 120 B 150 D KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 34 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "D"
+    }
+  ],
+  "yonetmelik": [
+    {
+      "id": 1,
+      "originalId": 1,
+      "question": "ECC ne anlama gelmektedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Elektronik Komite"
+        },
+        {
+          "id": "B",
+          "text": "Haberleşme Komite si"
+        },
+        {
+          "id": "C",
+          "text": "Elektronik Haberleşme Komite si"
+        },
+        {
+          "id": "D",
+          "text": "Teknoloji Komitesi"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 2,
+      "originalId": 2,
+      "question": "HAREC belgesi Türkiye'de hangi sınıf Amatör Telsizcilik Belgesine karşılık gelmektedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A sınıfı belgeye"
+        },
+        {
+          "id": "B",
+          "text": "B sınıfı belgeye"
+        },
+        {
+          "id": "C",
+          "text": "C sınıfı belgeye"
+        },
+        {
+          "id": "D",
+          "text": "YM sınıfı belgeye"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 3,
+      "originalId": 3,
+      "question": "IARU'nun açılımı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Uluslararası Haberleşme Ofisi"
+        },
+        {
+          "id": "B",
+          "text": "Uluslararası Telsiz Haberleşme Ofisi"
+        },
+        {
+          "id": "C",
+          "text": "Uluslararası Amatör Telsizciler Birliği"
+        },
+        {
+          "id": "D",
+          "text": "Uluslararası Posta ve Telekomünikasyon İdaresi"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 4,
+      "originalId": 4,
+      "question": "CEPT' in hangi tavsiye kararı Amatör İstasyonların CEPT ve CEPT üyesi olmayan ülkelerde sadece geçici olarak kullanılmasını göz önüne alır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "T/R 61-01"
+        },
+        {
+          "id": "B",
+          "text": "T/R 61-02"
+        },
+        {
+          "id": "C",
+          "text": "ECC tavsiye kararı"
+        },
+        {
+          "id": "D",
+          "text": "ERO tavsiye kararı"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 5,
+      "originalId": 5,
+      "question": "Yürürlükteki yönetmeliğe göre, Amatör Telsizcilere verilen çağrı işareti kaç bölümden oluşur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 6,
+      "originalId": 6,
+      "question": "ITU' nun amacı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Frekans tahsislerinin yönetiminde yardımcı olur"
+        },
+        {
+          "id": "B",
+          "text": "Sadece Deniz Mobil hizmetlerinde frekans tahsisi yapar"
+        },
+        {
+          "id": "C",
+          "text": "Çağrı işaretlerinin planlamasını yapar"
+        },
+        {
+          "id": "D",
+          "text": "Sadece Hava araçlarına frekans tahsisi yapar KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 1 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 7,
+      "originalId": 7,
+      "question": "CEPT' in hangi tavsiye kararı uyumlaştırılmış Amatör Radyo Sınavı Belge düzenlemelerini mümkün kılar?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ERC 32 raporu"
+        },
+        {
+          "id": "B",
+          "text": "T/R 61-02 kararı"
+        },
+        {
+          "id": "C",
+          "text": "T/R 61-01 kararı"
+        },
+        {
+          "id": "D",
+          "text": "Hiçbiri"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 8,
+      "originalId": 8,
+      "question": "Amatör Telsizcilik Belgesi hangi dillerd e düzenlenmelidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Belgeni n düzenlendiği ülkeye ait dilin yanısıra İngilizce, Fransızca ve A lmanca olarak düzenlenmeli"
+        },
+        {
+          "id": "B",
+          "text": "Yal nız İngilizce düzenlenmeli"
+        },
+        {
+          "id": "C",
+          "text": "Yalnız Almanca düzenlenmeli"
+        },
+        {
+          "id": "D",
+          "text": "Yalnız Fransızca düzenlenmeli"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 9,
+      "originalId": 9,
+      "question": "Amatör Telsizcilik Belgesinde hangi bilgiler aranmaz?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adı ve Soyadı"
+        },
+        {
+          "id": "B",
+          "text": "Doğum Tarihi"
+        },
+        {
+          "id": "C",
+          "text": "Adresi"
+        },
+        {
+          "id": "D",
+          "text": "Anne adı"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 10,
+      "originalId": 10,
+      "question": "ITU Telsiz Regülasyon Kitabının hangi bölümü Amatör Telsiz düzenlemelerini içerir ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "25.bölüm"
+        },
+        {
+          "id": "B",
+          "text": "32.bölüm"
+        },
+        {
+          "id": "C",
+          "text": "40.bölüm"
+        },
+        {
+          "id": "D",
+          "text": "45.bölüm"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 11,
+      "originalId": 11,
+      "question": "CEPT ECC 89 raporu neyi tanımlar?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Harec sınıfı sınav seviyesini"
+        },
+        {
+          "id": "B",
+          "text": "Çıraklık sınıfı sınav seviyesini"
+        },
+        {
+          "id": "C",
+          "text": "Giriş sınıfı sınav seviyesini"
+        },
+        {
+          "id": "D",
+          "text": "Hiçbiri"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 12,
+      "originalId": 12,
+      "question": "ITU' nun 25. maddesi neyi kapsar?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Amatör Radyo Hizmeti ve Amatör Radyo Uydu Hizmetini"
+        },
+        {
+          "id": "B",
+          "text": "Deniz Radyo Uydu Hizmetini"
+        },
+        {
+          "id": "C",
+          "text": "Uçak Radyo Uydu Hizmetini"
+        },
+        {
+          "id": "D",
+          "text": "Uydu Hizmetini KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 2 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 13,
+      "originalId": 13,
+      "question": "ITU' nun açılımı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Uluslararası Telekomünikasyon"
+        },
+        {
+          "id": "B",
+          "text": "Uluslararası Telekomünikasyon Birliği"
+        },
+        {
+          "id": "C",
+          "text": "Uluslarara sı Teknoloji Birliği"
+        },
+        {
+          "id": "D",
+          "text": "Uluslar arası Telekomünikasyon Örgütü"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 14,
+      "originalId": 14,
+      "question": "Uluslar arası düzenlemelerde CEPT' e göre kaç çeşit Amatör Radyo Lisansı vardır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Harec, Novice, Entring"
+        },
+        {
+          "id": "B",
+          "text": "Technician, General, Advanced"
+        },
+        {
+          "id": "C",
+          "text": "Technician, General, Extra"
+        },
+        {
+          "id": "D",
+          "text": "Technician, Tech Plus, General"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 15,
+      "originalId": 15,
+      "question": "CEPT' in T/R 61 - 01tavsiyesine göre Amatör Telsizcilik Belgesine sahip olan yabancılar, ülkemizde 3 aydan az süre ile kaldıkları zaman kendi çağrı işaretini nasıl kullanmalıdır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kendi çağrı işareti önüne TA ve TB eklemelidir"
+        },
+        {
+          "id": "B",
+          "text": "Kendi çağrı işaretini kullanamaz"
+        },
+        {
+          "id": "C",
+          "text": "Kendi çağrı işaretinin sonuna ülke kodunu eklemelidir"
+        },
+        {
+          "id": "D",
+          "text": "Sadece kendi çağrı işaretini kullanır"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 16,
+      "originalId": 16,
+      "question": "CE PT' in açılımı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Telekomünikasyon Birliği"
+        },
+        {
+          "id": "B",
+          "text": "Posta Telekomünikasyon Birliği"
+        },
+        {
+          "id": "C",
+          "text": "Avrupa Posta ve Telekomünikasyon İdareleri Birliği"
+        },
+        {
+          "id": "D",
+          "text": "Posta İdareleri Birliği"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 17,
+      "originalId": 17,
+      "question": "Frekans tahsisine ihtiyaç duyulmayan, özel amaçlar için tahsis edilmiş frekans bandlarında ve çıkış gücünde çalışan, diğer sistemlerde elektromanyetik girişime sebep olmadan ve elektromanyetik girişime açık olarak kullanılan kurumca belirlenen teknik düzenlemelere uygun telsiz cihaz ve sistemlerinin herhangi bir telsiz kurma ve kullanma iznine ve telsiz ruhsatnamesine ihtiyaç göstermeksizin kurulması ve kull anılması ile ilgili usus ve esasları belirleyen yönetmelik aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deniz ve Hava Bandı Telsiz Haberleşme Sistemlerinin Kurulması, Kullanım İzinlerinin Verilmesi, Ruhsatlandırılması ile Tarifelerinin Düzenlenmesine Dair Yönetmelik"
+        },
+        {
+          "id": "B",
+          "text": "Özel Telsiz Sistemleri Yönetmeliği"
+        },
+        {
+          "id": "C",
+          "text": "Amatör Telsizcilik Sınav ve Belgelendirme Yönetmeliği"
+        },
+        {
+          "id": "D",
+          "text": "Telsiz İşlemlerine İlişkin Usul ve Esaslar Hakkında Yönetmelik KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 3 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 18,
+      "originalId": 18,
+      "question": "Özel Telsiz S istemleri yönetmeliğin in yayınlanması ile hangi yönetmelik yürürlülükten kaldırılmıştır ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Amatör Telsiz Yönetmeliği"
+        },
+        {
+          "id": "B",
+          "text": "2813 sayılı Telsiz kanunu"
+        },
+        {
+          "id": "C",
+          "text": "Spektrum Yönetimi Yönetmeliği"
+        },
+        {
+          "id": "D",
+          "text": "Kriptolu Telsiz yönetmeliği"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 19,
+      "originalId": 19,
+      "question": "Amatör Radyo Planında aşağıdakilerden hangisi bulunmaz?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dalga boyu"
+        },
+        {
+          "id": "B",
+          "text": "V erici çıkış gücü"
+        },
+        {
+          "id": "C",
+          "text": "Frekans bandı"
+        },
+        {
+          "id": "D",
+          "text": "Çağrı işareti"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 20,
+      "originalId": 20,
+      "question": "B sınıfı amatör telsizciler bir A sınıfı amatör telsizciye ait istasyonda ve nezaretinde:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sadece kendilerine tahsisli frekanslarda çalışma yapabilirler"
+        },
+        {
+          "id": "B",
+          "text": "Tüm amatör frekanslarda çalışma yapabilirler"
+        },
+        {
+          "id": "C",
+          "text": "3520 -3610 Khz ve 21090 - 21150 Khz de çalışma yapabi lirler"
+        },
+        {
+          "id": "D",
+          "text": "100 W çıkış gücünü aşmamak kaydıyla çalışma yapabilirler"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 21,
+      "originalId": 21,
+      "question": "Hiçbir maddi, kişisel veya siyasi çıkar gözetmeden, sadece kendi istek ve çabası ile telsiz iletişim teknikleri alanında, kendini yetiştirmek amacıyla ulusal ve uluslararası amatör telsizcilik faaliyetinde bulunmak isteyenlere ne denir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Afet ve Acil Durum Operatörü"
+        },
+        {
+          "id": "B",
+          "text": "Amatör Telsizci"
+        },
+        {
+          "id": "C",
+          "text": "Geçici Amatör Telsizci"
+        },
+        {
+          "id": "D",
+          "text": "Sorumlu Operatör"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 22,
+      "originalId": 22,
+      "question": "Türkiye ile mütekabiliyet anlaşması bulunan ülkelerden alınmış amatör telsizcilik belgesine sahip olup, Türkiye'de üç aydan fazla faaliyette bulunmak isteyen amatör telsizcilere en çok bir yıla kadar verilen belgeye ne ad verilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Oturma Belgesi"
+        },
+        {
+          "id": "B",
+          "text": "SWL Belgesi"
+        },
+        {
+          "id": "C",
+          "text": "Amatör Telsizcilik Belgesi"
+        },
+        {
+          "id": "D",
+          "text": "Geçici Amatör Telsizcilik Belgesi"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 23,
+      "originalId": 23,
+      "question": "Amatör telsizcilik haberleşmesinde izin verilen çıkış gücü, emisyon, band genişliği ve frekansları gösteren plan ne ad verilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "HF Telefon Frekans Planı"
+        },
+        {
+          "id": "B",
+          "text": "Amatör Radyo Band Planı"
+        },
+        {
+          "id": "C",
+          "text": "VHF Frekans Band Planı"
+        },
+        {
+          "id": "D",
+          "text": "HF Teleks Frekans Planı KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 4 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 24,
+      "originalId": 24,
+      "question": "Amatör telsiz haberleşmesi kayıtlarının tutulması amacıyla kullanılan deftere ne denir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Haberleşme defteri"
+        },
+        {
+          "id": "B",
+          "text": "Haberleşme kayıt defteri"
+        },
+        {
+          "id": "C",
+          "text": "Nöbet defteri"
+        },
+        {
+          "id": "D",
+          "text": "Hiçbiri"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 25,
+      "originalId": 25,
+      "question": "Yürürlükteki yönetmeliğe göre sorumlu operatör kimdir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Organizasyonlar tarafından kurulan istasyonlardan sorumlu, C sınıfı belgeye sahip amatör telsizci"
+        },
+        {
+          "id": "B",
+          "text": "Organizasyonlar tarafından kurulan istasyonlardan sorumlu, B sınıfı belgeye sahip amatör telsizci"
+        },
+        {
+          "id": "C",
+          "text": "Organizasyonlar tarafından kurulan istasyonlardan sorumlu, A sınıfı belgeye sahip amatör telsizci"
+        },
+        {
+          "id": "D",
+          "text": "Hiçbiri"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 26,
+      "originalId": 26,
+      "question": "Aralarında fiziki bağlantı olmaksızın, elektromanyetik dalgalar yoluyla, açık, kodlu veya kriptolu ses ve veri almaya, vermeye veya yalnızca almaya ya da vermeye yarayan sistemlere ne denir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Telli Sistem"
+        },
+        {
+          "id": "B",
+          "text": "Telsiz Sistem"
+        },
+        {
+          "id": "C",
+          "text": "Teleks Sistem"
+        },
+        {
+          "id": "D",
+          "text": "Telgraf Sistem"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 27,
+      "originalId": 27,
+      "question": "SWL' nin anlamı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3- 30 Mhz frekans bandı arasında ulusal ve uluslar arası yayın yapan istasyonları dinleyen kısa dalga dinleyicisi"
+        },
+        {
+          "id": "B",
+          "text": "Organizasyonlar tarafından kurulan istasyonlardan sorumlu, A sınıfı belgeye sahip amatör telsizciyi"
+        },
+        {
+          "id": "C",
+          "text": "Türkiye' de 3 aydan az faaliyette bulunmak isteyen amatör telsizciyi"
+        },
+        {
+          "id": "D",
+          "text": "Amatör Telsizcilik Belgesine sahip gerçek kişileri"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 28,
+      "originalId": 28,
+      "question": "Yürürlükteki yönetmeliğe göre, A sınıfı amatör telsizcilik belgesine sahip sorumlu operatörü bulunmak kaydıyla amatör telsiz istasyonu kuracak olan amatör telsiz dernekleri, eğitim ve öğretim kurumları, afet ve acil durum haberleşmesinde görev alan kuruluşlar, izcilik kuruluşları, araştırma kurumları ve benzerle rine ne ad verilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sorumlu Opera tör"
+        },
+        {
+          "id": "B",
+          "text": "Amatör Telsizci"
+        },
+        {
+          "id": "C",
+          "text": "Amatör Telsiz İstasyonu"
+        },
+        {
+          "id": "D",
+          "text": "Organizasyon KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 5 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 29,
+      "originalId": 29,
+      "question": "ERO'nun açılımı nedir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Avrupa Haberleşme Ofisi"
+        },
+        {
+          "id": "B",
+          "text": "Avrupa Telgraf Ofisi"
+        },
+        {
+          "id": "C",
+          "text": "Avrupa Radyo Haberleşme Ofisi"
+        },
+        {
+          "id": "D",
+          "text": "Avrupa Telefon Ofisi"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 30,
+      "originalId": 30,
+      "question": "Yürürlükteki yönetmeliğe göre, organizasyonlar tarafından kurulan analog veya digital aktarıcı veya röle istasyonlarına tahsis edilen ön ek aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "TA"
+        },
+        {
+          "id": "B",
+          "text": "TB"
+        },
+        {
+          "id": "C",
+          "text": "TC"
+        },
+        {
+          "id": "D",
+          "text": "YM"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 31,
+      "originalId": 31,
+      "question": "Yürürlükteki yönetmeliğe göre, Amatör Telsizcilerin çağrı işaretinde kullanılan bölge bölge sayısı kaçtır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "7"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "10"
+        },
+        {
+          "id": "D",
+          "text": "12"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 32,
+      "originalId": 32,
+      "question": "Yürürlükteki yönetmeliğe göre, Amatör Telsiz Dernekleri için verilen çağrı işaretinde son ekin ilk harfine hangi harf verilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "K"
+        },
+        {
+          "id": "B",
+          "text": "X"
+        },
+        {
+          "id": "C",
+          "text": "E"
+        },
+        {
+          "id": "D",
+          "text": "S"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 33,
+      "originalId": 33,
+      "question": "Yürürlükteki yönetmeliğe göre, B ve C sınıfı A matör Telsizcilik Belgesine sahip olanların çağrı işareti hangi ön ek ile başlar?",
+      "options": [
+        {
+          "id": "A",
+          "text": "TA"
+        },
+        {
+          "id": "B",
+          "text": "TB"
+        },
+        {
+          "id": "C",
+          "text": "TC"
+        },
+        {
+          "id": "D",
+          "text": "YM"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 34,
+      "originalId": 34,
+      "question": "Yürürlükteki yönetmeliğe göre, Amatör Telsizcilere verilen çağrı işaretlerinde son ekin ilk harfinde hangi harf kullanılmaz?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Q"
+        },
+        {
+          "id": "B",
+          "text": "Z"
+        },
+        {
+          "id": "C",
+          "text": "E"
+        },
+        {
+          "id": "D",
+          "text": "X"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 35,
+      "originalId": 35,
+      "question": "Yürürlükteki yönetmeliğe göre, ikamet adresi değişen amatör telsizciler ile organizasyonlar yeni adreslerini kaç ay içinde Kıyı Emniyeti Genel Müdürlüğüne bildirmek zorundadır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 ay"
+        },
+        {
+          "id": "B",
+          "text": "2 ay"
+        },
+        {
+          "id": "C",
+          "text": "3 ay"
+        },
+        {
+          "id": "D",
+          "text": "4 ay"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 36,
+      "originalId": 36,
+      "question": "Yürürlükteki yönetmeliğe göre, Afet ve Acil D urum haberleşmesinde görev ala n kuruluşlara verilen çağrı işaretinin son ekin ilk harfi aşağıdakil erden hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "K"
+        },
+        {
+          "id": "B",
+          "text": "X"
+        },
+        {
+          "id": "C",
+          "text": "E"
+        },
+        {
+          "id": "D",
+          "text": "S KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 6 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 37,
+      "originalId": 37,
+      "question": "Yürürlükteki yönetmeliğe göre, Amatör Telsizcilik Belgesinin yenilenmemesi, organizasyonun feshi, tasfi yesi veya yetkilisinin müracaatı üzerine iptal edilmesi, bölge değişikliği gibi durumlarda çağrı işareti kaç yıl süre ile tahsis edilemez?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 yıl"
+        },
+        {
+          "id": "B",
+          "text": "10 yıl"
+        },
+        {
+          "id": "C",
+          "text": "15 yıl"
+        },
+        {
+          "id": "D",
+          "text": "20 yıl"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 38,
+      "originalId": 38,
+      "question": "Yürürlükteki yönetmeliğe göre, Amatör Telsizcilerin özel etkinliklerinde kullanılmak üzere çağrı işareti kaç gün tahsis edilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "20 gün"
+        },
+        {
+          "id": "B",
+          "text": "30 gün"
+        },
+        {
+          "id": "C",
+          "text": "40 gün"
+        },
+        {
+          "id": "D",
+          "text": "60 gün"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 39,
+      "originalId": 39,
+      "question": "Yürürlükteki yönetmeliğe göre, Amatör Telsizcilik Sınavına girme yaşı kaçtır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "7 yaş"
+        },
+        {
+          "id": "B",
+          "text": "12 yaş"
+        },
+        {
+          "id": "C",
+          "text": "16 yaş"
+        },
+        {
+          "id": "D",
+          "text": "18 yaş"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 40,
+      "originalId": 40,
+      "question": "Yürürlükteki yönetmeliğe göre, Lisans düzeyinde hangi bölüm de okuyan adaylar teknik konulardan sınava tabi olmazlar?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fizik"
+        },
+        {
+          "id": "B",
+          "text": "Biyoloji"
+        },
+        {
+          "id": "C",
+          "text": "Kimya"
+        },
+        {
+          "id": "D",
+          "text": "İnşaat"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 41,
+      "originalId": 41,
+      "question": "Yürürlükteki yönetmeliğe göre, A ve B sınıfı için oluşturulan 50 sorudan en az kaç puan alanlar A sınıfı Amatör Telsizcilik Belgesi almaya hak kazanır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "60 puan"
+        },
+        {
+          "id": "B",
+          "text": "70 puan"
+        },
+        {
+          "id": "C",
+          "text": "75 puan"
+        },
+        {
+          "id": "D",
+          "text": "80 puan"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 42,
+      "originalId": 42,
+      "question": "A matör Telsiz İstasyonun un frekansını, gücünü ve emisyonunu gösteren ulusal yönetmelik hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Özel Telsiz Sistemleri Yönetmeliği"
+        },
+        {
+          "id": "B",
+          "text": "Amatör Telsiz Yönetmeliği"
+        },
+        {
+          "id": "C",
+          "text": "2813 sayılı Telsiz Kanunu"
+        },
+        {
+          "id": "D",
+          "text": "Spektrum Yönetimi Yönetmeliği"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 43,
+      "originalId": 43,
+      "question": "Yürürlükteki yönetmeliğe göre, Amatör Telsizcilik Belgesi kimlere verilmez?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sınavda başarılı olan T.C. vatandaşlarına"
+        },
+        {
+          "id": "B",
+          "text": "vatandaşlarına"
+        },
+        {
+          "id": "C",
+          "text": "vatandaşlarına b) Mütekabiliyet anlaşması olan ülkelerden Amatör Telsizcilik Belgesi olan T.C. vatandaşlarına c) Mütekabiliyet anlaşması olan ülkelerden Amatör Telsizcilik Bel gesi olan yabancılara"
+        },
+        {
+          "id": "D",
+          "text": "Kamu hizmetinden yasaklananlara KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 7 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 44,
+      "originalId": 44,
+      "question": "Yürürlükteki yönetmeliğe göre, Amatör Telsizcilik Belgesi almaya hak kazananlardan belge düzenlemesi sırasında aşağıdakilerden hangisi istenmez?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fotoğraf"
+        },
+        {
+          "id": "B",
+          "text": "T."
+        },
+        {
+          "id": "C",
+          "text": "kimlik numarası beyanı c) Sabıka kaydı olmadığına dair beya n"
+        },
+        {
+          "id": "D",
+          "text": "Oturma belgesi"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 45,
+      "originalId": 45,
+      "question": "Yürürlükteki yönetmeliğe göre, Türkiye'de 3 aydan fazla geçici amatör telsizcilik faaliyetinde bulunacak olan yabancılardan belge düzenlemesi sırasında aşağıdakilerden hangis i istenmez?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vekâletname"
+        },
+        {
+          "id": "B",
+          "text": "Oturma belgesi"
+        },
+        {
+          "id": "C",
+          "text": "Pasaport fotokopisi"
+        },
+        {
+          "id": "D",
+          "text": "Fotoğraf"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 46,
+      "originalId": 46,
+      "question": "Yürürlükteki yönetmeliğe göre, yabancılara geçici olarak tahsis edilen çağrı işaretinin süresi ne kadardır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 ay"
+        },
+        {
+          "id": "B",
+          "text": "6 ay"
+        },
+        {
+          "id": "C",
+          "text": "Otuma belge süresi kadar"
+        },
+        {
+          "id": "D",
+          "text": "9 ay"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 47,
+      "originalId": 47,
+      "question": "Yürürlükteki yönetmeliğe göre, Amatör Telsizcilik Belgesinin süresinin dolması halinde yenilenmesi sırasında T.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Süresi dolan belgenin aslı"
+        },
+        {
+          "id": "B",
+          "text": "vatandaşlarından hangi belge istenmez? a) Süresi dolan belgenin aslı"
+        },
+        {
+          "id": "C",
+          "text": "vatandaşlarından hangi belge istenmez? a) Süresi dolan belgenin aslı b) Fotoğraf c) Yenileme ücretinin ödendiğine dair belge aslı"
+        },
+        {
+          "id": "D",
+          "text": "Oturma belgesi"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 48,
+      "originalId": 48,
+      "question": "Yürürlükteki yönetmeliğe göre, SWL belgesinin süresi ne kadardır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 yıl"
+        },
+        {
+          "id": "B",
+          "text": "5 yıl"
+        },
+        {
+          "id": "C",
+          "text": "10 yıl"
+        },
+        {
+          "id": "D",
+          "text": "Süresiz"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 49,
+      "originalId": 49,
+      "question": "Yürürlükteki yönetmeliğe göre, SWL belgesi almak isteyenlere düzenlenecek olan çağrı işaretinde, bölge numarasından sonra hangi numara verilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 rakamlı sıra numarası"
+        },
+        {
+          "id": "B",
+          "text": "3 rakaml ı sıra numarası"
+        },
+        {
+          "id": "C",
+          "text": "Bulunduğu ilin trafik kodu numarası"
+        },
+        {
+          "id": "D",
+          "text": "Hiçbiri KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 8 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 50,
+      "originalId": 50,
+      "question": "Yürürlükteki yönetmeliğe göre, Amatör Telsizcilik Haberleşmesinde aşağıdakilerden hangisi yasaklanan uygulamalardan değildir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Amatör Telsiz İstasyonunun herhangi bir maddi çıkar, vaat veya bir bedel karşılığı kullanılması"
+        },
+        {
+          "id": "B",
+          "text": "Amatörler e ayrılan frekans bandlarında radyo ve televizyon yayınlarının yapılması"
+        },
+        {
+          "id": "C",
+          "text": "Üçüncü şahıs mesajların para, ücret, veya maddi çıkar karşılığında aktarılması"
+        },
+        {
+          "id": "D",
+          "text": "İşletme kurallarına uyulması"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 51,
+      "originalId": 51,
+      "question": "Yürürlükteki yönetmeliğe göre, Amatör Telsizcilik Haberleşmesinde Çağrı işareti hangi durumlarda iptal edilmez?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Organizasyonların feshi"
+        },
+        {
+          "id": "B",
+          "text": "Amatör Telsizcilik Haberleşmesine ilişkin usul ve esaslarda belirtilen aykırı davran ışların tespiti halinde"
+        },
+        {
+          "id": "C",
+          "text": "Türk ceza kanununun 216. maddesinde yazılı halkı, sınıf, din, mezhep veya bölge farklılığı gözeterek kin ve düşmanlığa açıkça tahrik etmek suçlarından mahkûm olanlar"
+        },
+        {
+          "id": "D",
+          "text": "Amatör Telsizcinin ölümü veya vesayet altına alınması"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 52,
+      "originalId": 52,
+      "question": "Yürürlükteki yönetmeliğe göre, amatör telsizcilik sınavında sınav görevlileri tarafından kopya çektiği tespit edilenlerin sınav kâğıtları iptal edilir. Kopya çekenler ne zaman tekrar sınava girebilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 sınav dönemi sonra"
+        },
+        {
+          "id": "B",
+          "text": "2 sınav dönemi sonra"
+        },
+        {
+          "id": "C",
+          "text": "3 sınav dönemi sonra"
+        },
+        {
+          "id": "D",
+          "text": "1 yıl sonra"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 53,
+      "originalId": 53,
+      "question": "AMPR aşağıdakilerden hangisini ifade eder?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Amatör Paket Radyo Sistemini"
+        },
+        {
+          "id": "B",
+          "text": "Uluslararası Telsiz Birliği ni"
+        },
+        {
+          "id": "C",
+          "text": "Hızlı Taramalı Televizyon Sistemini"
+        },
+        {
+          "id": "D",
+          "text": "Yavaş Taramalı Televizyon Sistemini"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 54,
+      "originalId": 54,
+      "question": "5809 sayılı Elektronik Haberleşme Kanunun 43. maddesi gereği Amatör Telsizcilik Sınavını yapma ve belge verme işlemleri hangi kuruluşa devredilmiştir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bilgi Teknolojileri ve İletişim Kurumu"
+        },
+        {
+          "id": "B",
+          "text": "Posta ve Telgraf İdaresi"
+        },
+        {
+          "id": "C",
+          "text": "Kıyı Emniyeti Genel Müdürlüğü"
+        },
+        {
+          "id": "D",
+          "text": "Türkiye Radyo ve Televizyon Kurumu KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 9 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 55,
+      "originalId": 55,
+      "question": "Yürürlükteki yönetmeliğe göre, YM1KABC olarak tanımlanan çağrı işareti hangi organizasyona verilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Afet ve Acil Durum haberleşmesinde görev alan kuruluşa"
+        },
+        {
+          "id": "B",
+          "text": "Amatör Telsiz Derneklerine"
+        },
+        {
+          "id": "C",
+          "text": "Eğitim ve Öğretim Kurumlarına"
+        },
+        {
+          "id": "D",
+          "text": "İzcilik Kuruluşlarına"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 56,
+      "originalId": 56,
+      "question": "Yürürlükteki yönetmeliğe göre, YM2SABC olarak tanımlanan çağrı işareti hangi organizasyona verilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eğitim ve Öğretim Kurumlarına"
+        },
+        {
+          "id": "B",
+          "text": "Araştırma Kurumlarına"
+        },
+        {
+          "id": "C",
+          "text": "İzcilik Kuruluşlarına"
+        },
+        {
+          "id": "D",
+          "text": "Afet ve Acil Durum haberleşmesinde görev alanlara"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 57,
+      "originalId": 57,
+      "question": "Yürürlükteki yönetmeliğe göre, Amatör Telsizcilik sınavları yılda en az kaç kez yapılır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 kez"
+        },
+        {
+          "id": "B",
+          "text": "2 kez"
+        },
+        {
+          "id": "C",
+          "text": "3 kez"
+        },
+        {
+          "id": "D",
+          "text": "4 kez"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 58,
+      "originalId": 58,
+      "question": "Yürürlükteki yönetmeliğe göre, Amatör Telsizcilik Belgesi kaç yılda bir yenilenir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 yıl"
+        },
+        {
+          "id": "B",
+          "text": "10 yıl"
+        },
+        {
+          "id": "C",
+          "text": "3 yıl"
+        },
+        {
+          "id": "D",
+          "text": "Süresiz"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 59,
+      "originalId": 59,
+      "question": "Yürürlükteki yönetmeliğe göre, aşağıdakilerden hangileri Amatör Telsizci olamazlar?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Devlet memurları"
+        },
+        {
+          "id": "B",
+          "text": "Silahlı Kuvvetler personeli"
+        },
+        {
+          "id": "C",
+          "text": "12 yaşından küçük ve kamu hizmetlerinden yasaklı olanlar"
+        },
+        {
+          "id": "D",
+          "text": "Telsiz ithalatçı ve imalatçı firma sahip leri"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 60,
+      "originalId": 60,
+      "question": "Türkiye , ITU' ya göre hangi bölge içinde yer almaktadır?",
+      "options": [
+        {
+          "id": "A",
+          "text": "21"
+        },
+        {
+          "id": "B",
+          "text": "20"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 61,
+      "originalId": 61,
+      "question": "Yasa ve yönetmeliklere uygun olarak sağlanan her türlü haberleşme hizmetini engelleyen, haberleşmede kesinti doğuran veya kalitelerini bozan her türlü yayın ve ya elektromanyetik etkiye ne denir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Distorsiyon"
+        },
+        {
+          "id": "B",
+          "text": "Emisyon"
+        },
+        {
+          "id": "C",
+          "text": "Enterferans"
+        },
+        {
+          "id": "D",
+          "text": "Vibrasyon KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 10 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 62,
+      "originalId": 62,
+      "question": "Amatör Telsizcilik sınavı , aşağıdaki konulardan hangisini kapsama z?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Telsiz alıcı devreleri"
+        },
+        {
+          "id": "B",
+          "text": "Q kodlarının anlam ve kullanımlarını"
+        },
+        {
+          "id": "C",
+          "text": "Telsiz telefon ücret hesaplaması"
+        },
+        {
+          "id": "D",
+          "text": "Telsiz işletme kuralları"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 63,
+      "originalId": 63,
+      "question": "Erzincan'da deprem afeti sırasında kurulan bir istasyonda hangi çağrı işareti kullanılmaz ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "TA9EQ"
+        },
+        {
+          "id": "B",
+          "text": "TA7EQ"
+        },
+        {
+          "id": "C",
+          "text": "TA7KA"
+        },
+        {
+          "id": "D",
+          "text": "YM7EQ"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 64,
+      "originalId": 64,
+      "question": "Geçici olarak Almanya'dan ülkemize gelen ve Antalya'da telsiz haberleşmesi yapmak isteyen DL5YCQ çağrı işaretli A sınıfı bir amat ör telsizci , haberleşmesinde hangi çağrı işareti ni kullanır ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "DL5YCQ / TA4"
+        },
+        {
+          "id": "B",
+          "text": "TA4 / DL5YCQ"
+        },
+        {
+          "id": "C",
+          "text": "TA4YCQ"
+        },
+        {
+          "id": "D",
+          "text": "YM4 / DL5YCQ"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 65,
+      "originalId": 65,
+      "question": "ITU tarafından Türkiye'ye tahsis edilmiş ve amatör telsiz haberleşmesinde kullanılan çağrı işareti ön ekleri aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "TC - TR - TK"
+        },
+        {
+          "id": "B",
+          "text": "TR - TK"
+        },
+        {
+          "id": "C",
+          "text": "TR - TK b) TR - YL - TC c) YM - TA - TB - TC"
+        },
+        {
+          "id": "D",
+          "text": "TU - YL - TR"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 66,
+      "originalId": 66,
+      "question": "10450 - 10452 Mhz frekans band aral ığını kullanma müsaadesi, hangi amatör telsizcilik belgesi ne verilmiştir ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A sınıfı"
+        },
+        {
+          "id": "B",
+          "text": "B sınıfı"
+        },
+        {
+          "id": "C",
+          "text": "A ve B sınıfı"
+        },
+        {
+          "id": "D",
+          "text": "Hiçbiri"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 67,
+      "originalId": 67,
+      "question": "Bir Amatör Telsiz İstasyonunda aşağıdaki faaliyetlerden hangisi yapılabilir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Amatör Telsiz İstasyonu vasıtasıyla müzik yayını yapılması"
+        },
+        {
+          "id": "B",
+          "text": "Radyo ve Televizyon yayınlarının doğrudan veya banttan yayınlanması"
+        },
+        {
+          "id": "C",
+          "text": "Olağanüstü hallerde yanlış veya yanıltıcı yayın yapılması"
+        },
+        {
+          "id": "D",
+          "text": "Amatör Telsiz Haberleşmesi KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 11 ~ [PAGE_BREAK] A - B - SI NIFI ULUSAL VE ULUSLARARASI DÜZENLEMELER SORU CEVAP ANAHTARI 1 C 16 C 31 C 46 C 61 C 2 A 17 B 32 A 47 D 62 C 3 C 18 A 33 B 48 D 63 A 4 A 19 D 34 A 49 C 64 B 5 C 20 B 35 C 50 D 65 C 6 A 21 B 36 C 51 D 66 C 7 B 22 D 37 B 52 A 67 D 8 A 23 B 38 D 53 A 9 D 24 B 39 B 54 C 10 A 25 C 40 A 55 B 11 C 26 B 41 C 56 C 12 A 27 A 42 A 57 B 13 B 28 D 43 D 58 B 14 A 29 C 44 D 59 C 15 A 30 D 45 A 60 B KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TELSİZ İŞLETME MÜDÜRLÜĞÜ ~ 12 ~ [PAGE_BREAK]"
+        }
+      ],
+      "correctAnswer": "D"
+    }
+  ]
+};
